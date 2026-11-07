@@ -30,7 +30,7 @@
 
 我们采取**通知—删除**机制，流程如下：
 
-1. 发邮件至 `TODO: 填写联系邮箱`，或在本仓库开一个 issue（可标 `takedown`）
+1. 在本仓库开一个 issue，标题写明「下架请求」并加上 `takedown` 标签（不便公开的细节可以不写在 issue 里，注明即可）
 2. 请说明：作品名称、你与该作品的关系、希望删除的文件路径或 ID
 3. **我们会在收到通知后 72 小时内移除相关内容**，不要求你提供额外证明，也不进行争辩
 4. 如果涉及整批内容，我们会一并处理，并在 `ATTRIBUTIONS.md` 更新记录中注明
@@ -71,7 +71,7 @@ The 95 files under `legacy/articles/` are **full-text archives of early Chinese 
 
 We operate a notice-and-takedown policy:
 
-1. Email `TODO: contact address` or open an issue tagged `takedown`
+1. Open an issue in this repository titled "Takedown request" and tagged `takedown` (if the details are sensitive, you do not need to post them publicly)
 2. Identify the work, your relationship to it, and the file path or ID you want removed
 3. **We will remove the material within 72 hours of notice**, with no demand for further proof and no argument
 4. Bulk requests will be handled in full, and noted in `ATTRIBUTIONS.md`

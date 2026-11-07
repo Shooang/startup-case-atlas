@@ -121,7 +121,7 @@ This repository is a **derived work**, not a mirror. Every case note is an origi
 
 ```
 Startup Case Atlas (2026). 419 structured case studies of startups and small
-businesses. https://github.com/<your-account>/startup-case-atlas
+businesses. https://github.com/Shooang/startup-case-atlas
 ```
 
 ---
