@@ -1,0 +1,392 @@
+{
+  "G001": {
+    "title_en": "A legal software module rebuilt 20 times, then the team quit",
+    "industry": "software-saas",
+    "outcome": "failure",
+    "tags": ["product-market-fit", "cost-structure"]
+  },
+  "G002": {
+    "title_en": "He lost 30 million yuan on a hot spring hotel he did not understand",
+    "industry": "other",
+    "outcome": "failure",
+    "tags": ["cost-structure", "cashflow-crunch"]
+  },
+  "G003": {
+    "title_en": "A Huainan beef soup shop grew to three stores, then closed them",
+    "industry": "food-beverage",
+    "outcome": "failure",
+    "tags": ["scaling", "cost-structure"]
+  },
+  "G004": {
+    "title_en": "After losing 20 million yuan he closed GitHub and went home",
+    "industry": "food-beverage",
+    "outcome": "failure",
+    "tags": ["cashflow-crunch", "cost-structure"]
+  },
+  "G101": {
+    "title_en": "Formspring answered 1 billion anonymous questions, then shut down in 2013",
+    "industry": "software-saas",
+    "outcome": "failure",
+    "tags": ["product-market-fit", "retention"]
+  },
+  "G102": {
+    "title_en": "Outbox raised $5 million to digitize mail, then the postmaster ended it",
+    "industry": "logistics",
+    "outcome": "failure",
+    "tags": ["platform-risk", "cost-structure", "scaling"]
+  },
+  "G103": {
+    "title_en": "Cryptine Networks died from missing vesting clauses, not from its product",
+    "industry": "software-saas",
+    "outcome": "failure",
+    "tags": ["partnership-dispute", "scaling"]
+  },
+  "G104": {
+    "title_en": "Tract raised £744,000, earned nothing for two years, and returned the money",
+    "industry": "software-saas",
+    "outcome": "failure",
+    "tags": ["product-market-fit", "scaling"]
+  },
+  "G105": {
+    "title_en": "He spent nine months building a product whose first user was himself",
+    "industry": "software-saas",
+    "outcome": "failure",
+    "tags": ["product-market-fit", "cost-structure"]
+  },
+  "G106": {
+    "title_en": "Two programmers built a company where nobody wanted to run the business",
+    "industry": "software-saas",
+    "outcome": "failure",
+    "tags": ["product-market-fit", "cost-structure"]
+  },
+  "G107": {
+    "title_en": "Five months after launch, the job referral site had zero referrals",
+    "industry": "software-saas",
+    "outcome": "failure",
+    "tags": ["product-market-fit", "scaling"]
+  },
+  "G108": {
+    "title_en": "He raised $560,000, spent half in nine months, and returned the rest",
+    "industry": "fintech",
+    "outcome": "failure",
+    "tags": ["product-market-fit", "cashflow-crunch", "cost-structure"]
+  },
+  "G109": {
+    "title_en": "His first company ran three years on $500,000 and died mid-pivot",
+    "industry": "food-beverage",
+    "outcome": "failure",
+    "tags": ["cashflow-crunch", "product-market-fit", "scaling"]
+  },
+  "G110": {
+    "title_en": "Sonar raised nearly $2 million and was featured in 100 countries",
+    "industry": "software-saas",
+    "outcome": "failure",
+    "tags": ["platform-risk", "cashflow-crunch", "scaling"]
+  },
+  "G111": {
+    "title_en": "Take Eat Easy delivered 1 million orders, then filed for restructuring",
+    "industry": "logistics",
+    "outcome": "failure",
+    "tags": ["cashflow-crunch", "scaling", "cost-structure"]
+  },
+  "G112": {
+    "title_en": "Gowalla fought Foursquare for three years while Instagram won",
+    "industry": "software-saas",
+    "outcome": "failure",
+    "tags": ["platform-risk", "scaling"]
+  },
+  "G113": {
+    "title_en": "Moz cut a quarter of staff and returned to SEO after a failed suite",
+    "industry": "software-saas",
+    "outcome": "pivoted",
+    "tags": ["scaling", "cost-structure"]
+  },
+  "G114": {
+    "title_en": "Signups grew sixfold in a week and the founders still shut it down",
+    "industry": "software-saas",
+    "outcome": "failure",
+    "tags": ["retention", "product-market-fit"]
+  },
+  "G115": {
+    "title_en": "ArsDigita raised $38 million and burned back to its starting revenue",
+    "industry": "software-saas",
+    "outcome": "failure",
+    "tags": ["scaling", "cost-structure"]
+  },
+  "G116": {
+    "title_en": "Teamometer ran two years with four cofounders, 300 users and zero paying",
+    "industry": "software-saas",
+    "outcome": "failure",
+    "tags": ["product-market-fit", "partnership-dispute"]
+  },
+  "G117": {
+    "title_en": "Plancast signed up 100,000 people while its founder had five plans",
+    "industry": "software-saas",
+    "outcome": "failure",
+    "tags": ["product-market-fit", "retention"]
+  },
+  "G118": {
+    "title_en": "Flowtab charged $1 an order and needed six orders to break even",
+    "industry": "food-beverage",
+    "outcome": "failure",
+    "tags": ["cost-structure", "scaling"]
+  },
+  "G119": {
+    "title_en": "PlayCafe built a live game show and learned it was a content business",
+    "industry": "content-media",
+    "outcome": "failure",
+    "tags": ["cost-structure", "product-market-fit"]
+  },
+  "G120": {
+    "title_en": "A six-week prototype shipped eight months late and died in 11 months",
+    "industry": "software-saas",
+    "outcome": "failure",
+    "tags": ["retention", "product-market-fit"]
+  },
+  "G121": {
+    "title_en": "Bevy rented camping gear but delivery cost twice as much as doing it",
+    "industry": "retail",
+    "outcome": "failure",
+    "tags": ["cost-structure", "retention"]
+  },
+  "G122": {
+    "title_en": "Standout Jobs launched its paid tier five minutes before the crash",
+    "industry": "software-saas",
+    "outcome": "failure",
+    "tags": ["product-market-fit", "cashflow-crunch"]
+  },
+  "G123": {
+    "title_en": "He interviewed 130 growth marketers before his YC startup pivoted",
+    "industry": "software-saas",
+    "outcome": "pivoted",
+    "tags": ["product-market-fit", "pivot"]
+  },
+  "G124": {
+    "title_en": "Voxgig bet on a 2,558-subscriber newsletter and lost its Twitter following",
+    "industry": "software-saas",
+    "outcome": "ongoing",
+    "tags": ["traffic-dependency", "retention"]
+  },
+  "G125": {
+    "title_en": "Apptimize raised over $20 million, then its founder stepped down and sold",
+    "industry": "software-saas",
+    "outcome": "exit",
+    "tags": ["scaling", "product-market-fit"]
+  },
+  "G701": {
+    "title_en": "Seven failed years, dozens of coffee meetings, then $61,000 a month",
+    "industry": "software-saas",
+    "outcome": "exit",
+    "tags": ["product-market-fit", "scaling"]
+  },
+  "G702": {
+    "title_en": "SiteGPT hit $10,000 a month, then lost half its customers",
+    "industry": "software-saas",
+    "outcome": "ongoing",
+    "tags": ["retention", "traffic-dependency"]
+  },
+  "G703": {
+    "title_en": "He built an AI carousel tool in ten days after a layoff warning",
+    "industry": "software-saas",
+    "outcome": "ongoing",
+    "tags": ["product-market-fit", "traffic-dependency"]
+  },
+  "G704": {
+    "title_en": "He gave the boilerplate away for 24 hours, got 1,066 downloads, then charged $299",
+    "industry": "software-saas",
+    "outcome": "ongoing",
+    "tags": ["pivot", "cost-structure"]
+  },
+  "G705": {
+    "title_en": "After 100 cold emails got zero replies, he sold the opener",
+    "industry": "software-saas",
+    "outcome": "ongoing",
+    "tags": ["product-market-fit", "scaling"]
+  },
+  "G706": {
+    "title_en": "He wrote five months of articles before shipping a screenshot API",
+    "industry": "software-saas",
+    "outcome": "ongoing",
+    "tags": ["traffic-dependency", "cost-structure"]
+  },
+  "G707": {
+    "title_en": "He relaunched an old landing page with a new logo and hit $2,500",
+    "industry": "software-saas",
+    "outcome": "ongoing",
+    "tags": ["cost-structure", "scaling"]
+  },
+  "G708": {
+    "title_en": "His Airtable plugin waited three months for review, then earned $6,500",
+    "industry": "software-saas",
+    "outcome": "ongoing",
+    "tags": ["platform-risk", "traffic-dependency"]
+  },
+  "G709": {
+    "title_en": "On his fourth startup he set three rules, including a three-month deadline",
+    "industry": "software-saas",
+    "outcome": "ongoing",
+    "tags": ["product-market-fit", "cost-structure"]
+  },
+  "G710": {
+    "title_en": "A Telegram flight bot reached 1 million users and $7,000 a month",
+    "industry": "software-saas",
+    "outcome": "ongoing",
+    "tags": ["platform-risk", "traffic-dependency"]
+  },
+  "G711": {
+    "title_en": "When Google shut its URL shortener, he caught the traffic with T.LY",
+    "industry": "software-saas",
+    "outcome": "ongoing",
+    "tags": ["platform-risk", "traffic-dependency"]
+  },
+  "G712": {
+    "title_en": "He built a blur tool for $5 and it earns $1,500 a month",
+    "industry": "software-saas",
+    "outcome": "ongoing",
+    "tags": ["cost-structure", "low-price-trap"]
+  },
+  "G713": {
+    "title_en": "She sold 30,000 dog onesies and nearly died from a 5,000-unit defect batch",
+    "industry": "ecommerce",
+    "outcome": "ongoing",
+    "tags": ["supply-chain", "scaling"]
+  },
+  "G714": {
+    "title_en": "He built a photo printing business in an Irish town to $35,000 a month",
+    "industry": "ecommerce",
+    "outcome": "ongoing",
+    "tags": ["supply-chain", "cost-structure"]
+  },
+  "G715": {
+    "title_en": "A seaside lighting shop turned £250,000 in sales into £20,000 of profit",
+    "industry": "retail",
+    "outcome": "ongoing",
+    "tags": ["cost-structure", "supply-chain"]
+  },
+  "G716": {
+    "title_en": "He mixed bike chain lube in South Africa and reached dealers in 15 countries",
+    "industry": "retail",
+    "outcome": "ongoing",
+    "tags": ["supply-chain", "scaling"]
+  },
+  "G717": {
+    "title_en": "Three students invested $4,500 and got three cigar subscribers in month one",
+    "industry": "ecommerce",
+    "outcome": "ongoing",
+    "tags": ["retention", "scaling"]
+  },
+  "G718": {
+    "title_en": "He started a Denver food tour with $3,000 and broke even in three months",
+    "industry": "services",
+    "outcome": "ongoing",
+    "tags": ["scaling", "cost-structure"]
+  },
+  "G719": {
+    "title_en": "A Toronto couple built a dog treat brand to $15,000 a month, then closed it",
+    "industry": "food-beverage",
+    "outcome": "failure",
+    "tags": ["cost-structure", "supply-chain"]
+  },
+  "G720": {
+    "title_en": "They raised $11,000 to bottle pickle juice and shut down in 2024",
+    "industry": "food-beverage",
+    "outcome": "failure",
+    "tags": ["supply-chain", "cost-structure"]
+  },
+  "G721": {
+    "title_en": "One used camper van was booked solid for the summer within six weeks",
+    "industry": "services",
+    "outcome": "ongoing",
+    "tags": ["scaling", "cost-structure"]
+  },
+  "G722": {
+    "title_en": "One man shipped Japanese candy for $8,200 a month and $1,500 profit",
+    "industry": "ecommerce",
+    "outcome": "ongoing",
+    "tags": ["cost-structure", "traffic-dependency"]
+  },
+  "G723": {
+    "title_en": "He roasted coffee on a bicycle and reached $7,500 a month in the Yukon",
+    "industry": "food-beverage",
+    "outcome": "ongoing",
+    "tags": ["scaling", "supply-chain"]
+  },
+  "G724": {
+    "title_en": "She made soap in her kitchen and broke even in her third year",
+    "industry": "retail",
+    "outcome": "ongoing",
+    "tags": ["cost-structure", "scaling"]
+  },
+  "G725": {
+    "title_en": "Hours after being laid off, he launched a Substack that replaced his salary",
+    "industry": "content-media",
+    "outcome": "success",
+    "tags": ["platform-risk", "traffic-dependency"]
+  },
+  "G726": {
+    "title_en": "Only 5% of his 4,000 subscribers paid, so he locked the downloads",
+    "industry": "content-media",
+    "outcome": "ongoing",
+    "tags": ["traffic-dependency", "retention"]
+  },
+  "G727": {
+    "title_en": "A Girl Scout leader turned lesson PDFs into $4,500 a month",
+    "industry": "content-media",
+    "outcome": "ongoing",
+    "tags": ["traffic-dependency", "scaling"]
+  },
+  "G728": {
+    "title_en": "He ran a sexual health affiliate site with zero visitors for eight months",
+    "industry": "content-media",
+    "outcome": "ongoing",
+    "tags": ["traffic-dependency", "scaling"]
+  },
+  "G729": {
+    "title_en": "Eight months in he had 1,000 views; three years later, $7,000 a month",
+    "industry": "content-media",
+    "outcome": "ongoing",
+    "tags": ["traffic-dependency", "platform-risk"]
+  },
+  "G730": {
+    "title_en": "From zero income to $55,688 a month with a Mexico travel blog",
+    "industry": "content-media",
+    "outcome": "success",
+    "tags": ["traffic-dependency", "scaling"]
+  },
+  "G731": {
+    "title_en": "He edited three posts for free and waited eight months for his first client",
+    "industry": "services",
+    "outcome": "ongoing",
+    "tags": ["platform-risk", "traffic-dependency"]
+  },
+  "G732": {
+    "title_en": "He wrote half a book before learning young police officers do not read",
+    "industry": "content-media",
+    "outcome": "ongoing",
+    "tags": ["traffic-dependency", "product-market-fit"]
+  },
+  "G733": {
+    "title_en": "Eight years of two-hour days turned how-to guides into $30,000 a year",
+    "industry": "content-media",
+    "outcome": "ongoing",
+    "tags": ["traffic-dependency", "scaling"]
+  },
+  "G734": {
+    "title_en": "Paid advice sent her nowhere; mastering Pinterest built a $216,000-a-year blog",
+    "industry": "content-media",
+    "outcome": "success",
+    "tags": ["traffic-dependency", "platform-risk"]
+  },
+  "G735": {
+    "title_en": "A boxer wrote for three years to no audience, then narrowed to one topic",
+    "industry": "content-media",
+    "outcome": "success",
+    "tags": ["traffic-dependency", "scaling"]
+  },
+  "G736": {
+    "title_en": "He moved his audience off Instagram into a $102,000-a-year finance blog",
+    "industry": "content-media",
+    "outcome": "ongoing",
+    "tags": ["platform-risk", "traffic-dependency"]
+  }
+}

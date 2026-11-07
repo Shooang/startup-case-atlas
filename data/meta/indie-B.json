@@ -1,0 +1,314 @@
+{
+  "G253": {
+    "title_en": "Weekend-Built AI Domain Generator Reached $1,000 Monthly Revenue in Four Months",
+    "industry": "software-saas",
+    "outcome": "success",
+    "tags": ["traffic-dependency", "product-market-fit"]
+  },
+  "G254": {
+    "title_en": "YouTuber Sold Two Notion Templates for $2.1 Million in Two Years",
+    "industry": "education",
+    "outcome": "success",
+    "tags": ["traffic-dependency", "product-market-fit"]
+  },
+  "G255": {
+    "title_en": "A Mallorca Local Newsletter Started for Under $100 Reaches $2,500 Monthly",
+    "industry": "content-media",
+    "outcome": "success",
+    "tags": ["traffic-dependency", "retention"]
+  },
+  "G256": {
+    "title_en": "Panic Attack App Built by Its Founder Reaches 2 Million Users Worldwide",
+    "industry": "healthcare",
+    "outcome": "success",
+    "tags": ["product-market-fit", "retention"]
+  },
+  "G257": {
+    "title_en": "An Online Stage Timer Earns $8,000 a Month From Event Producers",
+    "industry": "software-saas",
+    "outcome": "success",
+    "tags": ["product-market-fit", "retention"]
+  },
+  "G258": {
+    "title_en": "A $50 AI Customer Support MVP Grew to $25,000 Monthly Revenue",
+    "industry": "software-saas",
+    "outcome": "success",
+    "tags": ["product-market-fit", "retention", "cost-structure"]
+  },
+  "G259": {
+    "title_en": "A Full-Page Screenshot Extension Survived Ten Years and Reached 8 Million Users",
+    "industry": "software-saas",
+    "outcome": "success",
+    "tags": ["retention", "product-market-fit"]
+  },
+  "G260": {
+    "title_en": "A $1,000 MRR Solo Developer Splits Traffic Across SEO, AI Search and X",
+    "industry": "software-saas",
+    "outcome": "success",
+    "tags": ["traffic-dependency", "retention", "product-market-fit"]
+  },
+  "G261": {
+    "title_en": "A Gmail CRM Extension Stayed Free for Three Years, Then Reached $10M ARR",
+    "industry": "software-saas",
+    "outcome": "success",
+    "tags": ["platform-risk", "retention"]
+  },
+  "G262": {
+    "title_en": "A Spreadsheet Component Hit $1.5 Million a Year by Closing Its Open-Source Version",
+    "industry": "software-saas",
+    "outcome": "success",
+    "tags": ["pivot", "product-market-fit"]
+  },
+  "G263": {
+    "title_en": "Shipping One Product a Week Took Him to $25,000 Monthly Revenue in a Year",
+    "industry": "software-saas",
+    "outcome": "success",
+    "tags": ["product-market-fit", "pivot"]
+  },
+  "G264": {
+    "title_en": "750 Words Charged $5 a Month and Still Earns $20,000 Monthly After 15 Years",
+    "industry": "software-saas",
+    "outcome": "ongoing",
+    "tags": ["retention", "product-market-fit"]
+  },
+  "G265": {
+    "title_en": "One Developer's Open-Source Sidekiq Reaches $80,000 a Month Without Discounts",
+    "industry": "software-saas",
+    "outcome": "success",
+    "tags": ["product-market-fit", "retention"]
+  },
+  "G266": {
+    "title_en": "A Shopify Post-Purchase App Reached $20,000 Monthly Revenue and 1,500 Installs",
+    "industry": "ecommerce",
+    "outcome": "success",
+    "tags": ["platform-risk", "product-market-fit"]
+  },
+  "G267": {
+    "title_en": "He Built an Audience First, Then Sold Rails Courses for $60,000 a Month",
+    "industry": "education",
+    "outcome": "success",
+    "tags": ["traffic-dependency", "retention"]
+  },
+  "G268": {
+    "title_en": "A Free Photo Editor Run by One Person Earns $100,000 a Month From Ads",
+    "industry": "software-saas",
+    "outcome": "success",
+    "tags": ["cost-structure", "traffic-dependency"]
+  },
+  "G269": {
+    "title_en": "A Cleaning Company Scheduling Tool Took Eight Years to Reach $1.5 Million",
+    "industry": "software-saas",
+    "outcome": "success",
+    "tags": ["scaling", "retention"]
+  },
+  "G270": {
+    "title_en": "Plausible Took Four Years and 324 Days to Reach $400 MRR, Then $1M ARR",
+    "industry": "software-saas",
+    "outcome": "success",
+    "tags": ["product-market-fit", "scaling"]
+  },
+  "G271": {
+    "title_en": "A Free Component Library Earns $300,000 a Year Mostly From Its Store",
+    "industry": "software-saas",
+    "outcome": "success",
+    "tags": ["product-market-fit", "cost-structure"]
+  },
+  "G272": {
+    "title_en": "NFT Royalties Peaked at $150,000 a Month, Then the Market Turned",
+    "industry": "other",
+    "outcome": "failure",
+    "tags": ["cost-structure", "scaling"]
+  },
+  "G273": {
+    "title_en": "He Collected Hundreds of Signups on Reddit Before Writing Any Code",
+    "industry": "software-saas",
+    "outcome": "success",
+    "tags": ["product-market-fit", "traffic-dependency"]
+  },
+  "G274": {
+    "title_en": "Two Non-Coders Built an Acquisition Marketplace With Three Off-the-Shelf Tools",
+    "industry": "fintech",
+    "outcome": "success",
+    "tags": ["product-market-fit", "cost-structure"]
+  },
+  "G275": {
+    "title_en": "Free for 24 Hours, 1,066 Downloads, Then He Raised the Price to $299",
+    "industry": "software-saas",
+    "outcome": "pivoted",
+    "tags": ["pivot", "product-market-fit"]
+  },
+  "G276": {
+    "title_en": "A One-Button Blog-to-Video Tool Reached $6,000 a Month in Five Months",
+    "industry": "software-saas",
+    "outcome": "success",
+    "tags": ["product-market-fit", "retention"]
+  },
+  "G277": {
+    "title_en": "An Affiliate Site Fell From $40,000 to $15,000 Monthly After One Algorithm Update",
+    "industry": "content-media",
+    "outcome": "ongoing",
+    "tags": ["traffic-dependency", "platform-risk"]
+  },
+  "G278": {
+    "title_en": "A Stripe App Charging 1% Handled $70 Million in Annual Payments",
+    "industry": "fintech",
+    "outcome": "success",
+    "tags": ["platform-risk", "product-market-fit"]
+  },
+  "G279": {
+    "title_en": "One Geocoding API Took 14 Years to Reach $15,000 a Month",
+    "industry": "software-saas",
+    "outcome": "success",
+    "tags": ["product-market-fit", "cost-structure"]
+  },
+  "G280": {
+    "title_en": "Rejected by Every Membership Platform, He Built His Own to $20,000 a Month",
+    "industry": "software-saas",
+    "outcome": "success",
+    "tags": ["product-market-fit", "retention"]
+  },
+  "G281": {
+    "title_en": "A Resume Writing Service Charges $499 to $649 and Earns $240,000 a Year",
+    "industry": "services",
+    "outcome": "success",
+    "tags": ["cost-structure", "product-market-fit"]
+  },
+  "G282": {
+    "title_en": "He Bought T.LY After Google Killed Short Links, Now $2,600 a Month",
+    "industry": "software-saas",
+    "outcome": "success",
+    "tags": ["product-market-fit", "traffic-dependency"]
+  },
+  "G283": {
+    "title_en": "A Weekend Project at Stripe Became Buttondown, Profitable at $15,000 a Month",
+    "industry": "software-saas",
+    "outcome": "success",
+    "tags": ["retention", "product-market-fit"]
+  },
+  "G284": {
+    "title_en": "A Debt-Ridden Architect Built a QR Code Platform to $300,000 a Month",
+    "industry": "software-saas",
+    "outcome": "success",
+    "tags": ["product-market-fit", "scaling"]
+  },
+  "G285": {
+    "title_en": "Six Months of User Interviews Led to 100,000 Users and $20,000 a Month",
+    "industry": "software-saas",
+    "outcome": "success",
+    "tags": ["product-market-fit", "traffic-dependency"]
+  },
+  "G286": {
+    "title_en": "After Two Failed Products He Built a Chat Platform to $2.4 Million a Year",
+    "industry": "software-saas",
+    "outcome": "success",
+    "tags": ["product-market-fit", "pivot"]
+  },
+  "G287": {
+    "title_en": "A Side Project Handled $1 Million in Payments but Earns $13,000 a Year",
+    "industry": "fintech",
+    "outcome": "ongoing",
+    "tags": ["traffic-dependency", "retention"]
+  },
+  "G288": {
+    "title_en": "A Kindle Sending Tool Reached $1,000 Monthly Recurring Revenue With a $5 Plan",
+    "industry": "software-saas",
+    "outcome": "success",
+    "tags": ["retention", "product-market-fit"]
+  },
+  "G289": {
+    "title_en": "Three People Built a D2C Photo Tool to $1.2 Million a Year",
+    "industry": "software-saas",
+    "outcome": "success",
+    "tags": ["product-market-fit", "scaling"]
+  },
+  "G290": {
+    "title_en": "A Podcast Repurposing Tool Reached $12,000 a Month in Six Months",
+    "industry": "software-saas",
+    "outcome": "success",
+    "tags": ["product-market-fit", "retention"]
+  },
+  "G291": {
+    "title_en": "Twenty-Four Hours Turned a Near-Quit Side Project Into a $120,000 SAFE",
+    "industry": "software-saas",
+    "outcome": "success",
+    "tags": ["retention", "pivot"]
+  },
+  "G292": {
+    "title_en": "A Self-Taught Developer Grew His Studio to 18 People and $125,000 a Month",
+    "industry": "services",
+    "outcome": "success",
+    "tags": ["scaling", "cost-structure"]
+  },
+  "G293": {
+    "title_en": "A Game Review Tool Became an Agency Platform Earning $1.6 Million a Year",
+    "industry": "software-saas",
+    "outcome": "pivoted",
+    "tags": ["pivot", "product-market-fit"]
+  },
+  "G294": {
+    "title_en": "One Person Sold Notion Templates to $30,000 a Month and 120,000 Users",
+    "industry": "content-media",
+    "outcome": "success",
+    "tags": ["platform-risk", "traffic-dependency"]
+  },
+  "G295": {
+    "title_en": "He Built a Spreadsheet Alternative in 24 Hours and Reached $10,000 a Month",
+    "industry": "software-saas",
+    "outcome": "success",
+    "tags": ["product-market-fit", "traffic-dependency"]
+  },
+  "G296": {
+    "title_en": "An AI Stylist App Reached $3 Million a Year and 70,000 Paying Subscribers",
+    "industry": "retail",
+    "outcome": "success",
+    "tags": ["product-market-fit", "scaling"]
+  },
+  "G433": {
+    "title_en": "It Took One Year and 25 Days to Reach $10,000 in Monthly Revenue",
+    "industry": "software-saas",
+    "outcome": "success",
+    "tags": ["product-market-fit", "retention"]
+  },
+  "G434": {
+    "title_en": "A Weekly Startup Trends Newsletter Landed Its First Investment in Five Months",
+    "industry": "content-media",
+    "outcome": "success",
+    "tags": ["retention", "product-market-fit"]
+  },
+  "G435": {
+    "title_en": "A Rhyme Tool Built in Six Hours Grew Into a Chinese Payment Platform",
+    "industry": "fintech",
+    "outcome": "pivoted",
+    "tags": ["pivot", "product-market-fit"]
+  },
+  "G436": {
+    "title_en": "Creator Economy Raised $1.33 Billion in Half a Year While Top 1% Took 80%",
+    "industry": "content-media",
+    "outcome": "ongoing",
+    "tags": ["platform-risk", "traffic-dependency"]
+  },
+  "G437": {
+    "title_en": "Two Developers Spent Three Years on a Plugin Launcher Before Raising Money",
+    "industry": "software-saas",
+    "outcome": "success",
+    "tags": ["cashflow-crunch", "retention"]
+  },
+  "G438": {
+    "title_en": "A Weekend Sticker App Hit One Million Downloads in Two Weeks",
+    "industry": "software-saas",
+    "outcome": "success",
+    "tags": ["platform-risk", "scaling"]
+  },
+  "G439": {
+    "title_en": "98% of Developers Have Never Paid for a VS Code Extension",
+    "industry": "software-saas",
+    "outcome": "failure",
+    "tags": ["platform-risk", "product-market-fit"]
+  },
+  "G440": {
+    "title_en": "He Answered Over 100 Quora Questions to Get VEED's First 1,000 Users",
+    "industry": "software-saas",
+    "outcome": "success",
+    "tags": ["traffic-dependency", "product-market-fit"]
+  }
+}

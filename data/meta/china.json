@@ -1,0 +1,668 @@
+{
+  "G601": {
+    "title_en": "High schooler earned 300K USD on a browser app, sold it when GPT-3 shipped",
+    "industry": "software-saas",
+    "outcome": "exit",
+    "tags": [
+      "pivot",
+      "product-market-fit"
+    ]
+  },
+  "G602": {
+    "title_en": "Failed for 18 months, signed a 1M RMB check eleven days before disbanding",
+    "industry": "software-saas",
+    "outcome": "success",
+    "tags": [
+      "product-market-fit",
+      "pivot"
+    ]
+  },
+  "G603": {
+    "title_en": "Raised 9B RMB in a year, office had no logo at the door",
+    "industry": "software-saas",
+    "outcome": "ongoing",
+    "tags": [
+      "scaling",
+      "cost-structure"
+    ]
+  },
+  "G604": {
+    "title_en": "Hired more PhDs than he had ever met; the undergraduates shipped the robot",
+    "industry": "hardware",
+    "outcome": "ongoing",
+    "tags": [
+      "cost-structure",
+      "scaling"
+    ]
+  },
+  "G605": {
+    "title_en": "Folding napkins at 99% success, he chose not to scale",
+    "industry": "hardware",
+    "outcome": "ongoing",
+    "tags": [
+      "scaling",
+      "product-market-fit"
+    ]
+  },
+  "G606": {
+    "title_en": "Vowed to build China's OpenAI after one dinner, reversed within a month",
+    "industry": "software-saas",
+    "outcome": "pivoted",
+    "tags": [
+      "pivot",
+      "cost-structure"
+    ]
+  },
+  "G607": {
+    "title_en": "With 4,000 RMB left and payroll due, he gave staff two choices",
+    "industry": "hardware",
+    "outcome": "success",
+    "tags": [
+      "cashflow-crunch",
+      "pivot",
+      "cost-structure"
+    ]
+  },
+  "G608": {
+    "title_en": "A 9.9 RMB portrait app ran 20,000 inference cards for 1M RMB a day",
+    "industry": "software-saas",
+    "outcome": "success",
+    "tags": [
+      "product-market-fit",
+      "cost-structure"
+    ]
+  },
+  "G609": {
+    "title_en": "Burned 2M USD in three months to rank first in China, then got delisted",
+    "industry": "software-saas",
+    "outcome": "pivoted",
+    "tags": [
+      "traffic-dependency",
+      "cashflow-crunch",
+      "platform-risk"
+    ]
+  },
+  "G621": {
+    "title_en": "Started with 6,000 RMB, seven family members run two hand-rice stalls",
+    "industry": "food-beverage",
+    "outcome": "ongoing",
+    "tags": [
+      "cost-structure",
+      "product-market-fit"
+    ]
+  },
+  "G622": {
+    "title_en": "Cheap 10 RMB haircuts earn 20K RMB a month; 300 RMB salons struggle",
+    "industry": "services",
+    "outcome": "success",
+    "tags": [
+      "cost-structure",
+      "product-market-fit"
+    ]
+  },
+  "G623": {
+    "title_en": "Sold his house for 1.5M RMB to join a buffet chain, closed in four months",
+    "industry": "food-beverage",
+    "outcome": "failure",
+    "tags": [
+      "franchise",
+      "low-price-trap",
+      "cashflow-crunch",
+      "cost-structure"
+    ]
+  },
+  "G624": {
+    "title_en": "Street-stall math: 19 days in June earned 6,700 RMB, fixed costs near 5,000",
+    "industry": "food-beverage",
+    "outcome": "failure",
+    "tags": [
+      "cost-structure",
+      "traffic-dependency"
+    ]
+  },
+  "G625": {
+    "title_en": "Three years in, a pet shop nets 26K RMB on 290K RMB revenue",
+    "industry": "services",
+    "outcome": "ongoing",
+    "tags": [
+      "cost-structure",
+      "traffic-dependency"
+    ]
+  },
+  "G626": {
+    "title_en": "Put 1M RMB into a 7-Eleven, sales a third of forecast, sold for 600K",
+    "industry": "retail",
+    "outcome": "exit",
+    "tags": [
+      "franchise",
+      "traffic-dependency",
+      "cost-structure"
+    ]
+  },
+  "G627": {
+    "title_en": "A 30K RMB dessert shop earned 3,000 a month until private traffic saved it",
+    "industry": "retail",
+    "outcome": "pivoted",
+    "tags": [
+      "pivot",
+      "traffic-dependency"
+    ]
+  },
+  "G628": {
+    "title_en": "Built a party-villa business, lost 600K to Covid, scaled to 400 rentals",
+    "industry": "services",
+    "outcome": "pivoted",
+    "tags": [
+      "cashflow-crunch",
+      "scaling",
+      "cost-structure"
+    ]
+  },
+  "G629": {
+    "title_en": "Nyonya cake kitchen in Kunming sells 30-40 boxes a day, tripling her old pay",
+    "industry": "food-beverage",
+    "outcome": "ongoing",
+    "tags": [
+      "cost-structure",
+      "product-market-fit"
+    ]
+  },
+  "G630": {
+    "title_en": "Cross-border furniture seller grew to 100M RMB, then revenue halved in a year",
+    "industry": "ecommerce",
+    "outcome": "ongoing",
+    "tags": [
+      "platform-risk",
+      "supply-chain",
+      "scaling"
+    ]
+  },
+  "G631": {
+    "title_en": "Spent 500K RMB on a murder-mystery shop, lost 300K as weekday rooms sat empty",
+    "industry": "services",
+    "outcome": "failure",
+    "tags": [
+      "cost-structure",
+      "traffic-dependency"
+    ]
+  },
+  "G632": {
+    "title_en": "A 600K RMB skin clinic needed 50 clients a day, got 10",
+    "industry": "services",
+    "outcome": "failure",
+    "tags": [
+      "cost-structure",
+      "traffic-dependency"
+    ]
+  },
+  "G641": {
+    "title_en": "Sold his house to open a shaved-ice franchise, lost 1.6M RMB in two years",
+    "industry": "food-beverage",
+    "outcome": "failure",
+    "tags": [
+      "franchise",
+      "traffic-dependency",
+      "cashflow-crunch"
+    ]
+  },
+  "G642": {
+    "title_en": "Three partners pooled 800K RMB for a Shanghai noodle shop, closed in two weeks",
+    "industry": "food-beverage",
+    "outcome": "failure",
+    "tags": [
+      "cost-structure",
+      "traffic-dependency",
+      "cashflow-crunch"
+    ]
+  },
+  "G643": {
+    "title_en": "A decade of profitable restaurants, one year in a Hefei mall cost 2M RMB",
+    "industry": "food-beverage",
+    "outcome": "failure",
+    "tags": [
+      "traffic-dependency",
+      "cost-structure",
+      "scaling"
+    ]
+  },
+  "G644": {
+    "title_en": "Opened a Beijing noodle shop at forty, lost 400K RMB in six months",
+    "industry": "food-beverage",
+    "outcome": "failure",
+    "tags": [
+      "cost-structure",
+      "traffic-dependency"
+    ]
+  },
+  "G645": {
+    "title_en": "An e-cigarette factory's 5M RMB inventory became worthless after the online ban",
+    "industry": "hardware",
+    "outcome": "failure",
+    "tags": [
+      "platform-risk",
+      "supply-chain",
+      "cashflow-crunch"
+    ]
+  },
+  "G646": {
+    "title_en": "When the funding fell through, he learned he was never a real partner",
+    "industry": "ecommerce",
+    "outcome": "failure",
+    "tags": [
+      "partnership-dispute",
+      "cashflow-crunch"
+    ]
+  },
+  "G647": {
+    "title_en": "Four years financing web films lost 10M RMB, 2019 brought only two projects",
+    "industry": "content-media",
+    "outcome": "failure",
+    "tags": [
+      "cashflow-crunch",
+      "platform-risk"
+    ]
+  },
+  "G648": {
+    "title_en": "After the tutoring crackdown cut funding, he borrowed 12M RMB and lasted four months",
+    "industry": "education",
+    "outcome": "failure",
+    "tags": [
+      "cashflow-crunch",
+      "platform-risk"
+    ]
+  },
+  "G649": {
+    "title_en": "Franchised a speaking school in Changzhou, lost 1M RMB in under a year",
+    "industry": "education",
+    "outcome": "failure",
+    "tags": [
+      "franchise",
+      "cost-structure",
+      "cashflow-crunch"
+    ]
+  },
+  "G650": {
+    "title_en": "Sold four apartments to build a 40-site daycare chain, ended 100M RMB in debt",
+    "industry": "education",
+    "outcome": "failure",
+    "tags": [
+      "cashflow-crunch",
+      "scaling",
+      "cost-structure"
+    ]
+  },
+  "G651": {
+    "title_en": "Gym chain valued near 100M RMB shut six stores and owed 20M RMB",
+    "industry": "services",
+    "outcome": "failure",
+    "tags": [
+      "scaling",
+      "cashflow-crunch",
+      "cost-structure"
+    ]
+  },
+  "G652": {
+    "title_en": "A 150-worker garment factory in Wuhan went to zero after a 70-day lockdown",
+    "industry": "other",
+    "outcome": "failure",
+    "tags": [
+      "cashflow-crunch",
+      "supply-chain"
+    ]
+  },
+  "G661": {
+    "title_en": "Closed 16 pizza stores in 2019 and profit rose 60M RMB",
+    "industry": "food-beverage",
+    "outcome": "success",
+    "tags": [
+      "cost-structure",
+      "scaling",
+      "cashflow-crunch"
+    ]
+  },
+  "G662": {
+    "title_en": "Laid off 1,600 people in one day and carried 10M USD of debt himself",
+    "industry": "logistics",
+    "outcome": "success",
+    "tags": [
+      "cashflow-crunch",
+      "scaling"
+    ]
+  },
+  "G663": {
+    "title_en": "Sold 4M bowls of soup in a year, shut every store after 292 days",
+    "industry": "food-beverage",
+    "outcome": "failure",
+    "tags": [
+      "scaling",
+      "cashflow-crunch",
+      "supply-chain"
+    ]
+  },
+  "G664": {
+    "title_en": "Raised nearly 60M RMB, personally owed more than 40M after shutdown",
+    "industry": "ecommerce",
+    "outcome": "failure",
+    "tags": [
+      "cashflow-crunch",
+      "scaling"
+    ]
+  },
+  "G665": {
+    "title_en": "Four startups in six years burned 30M RMB; six of eight tea houses closed",
+    "industry": "food-beverage",
+    "outcome": "failure",
+    "tags": [
+      "scaling",
+      "cashflow-crunch",
+      "pivot"
+    ]
+  },
+  "G666": {
+    "title_en": "With 580 centers closed, she reached break-even in 15 days",
+    "industry": "education",
+    "outcome": "success",
+    "tags": [
+      "pivot",
+      "cost-structure",
+      "franchise"
+    ]
+  },
+  "G667": {
+    "title_en": "A bankrupt factory owner rebuilt and grew a 5,000-hotel chain",
+    "industry": "services",
+    "outcome": "success",
+    "tags": [
+      "scaling",
+      "franchise",
+      "cost-structure"
+    ]
+  },
+  "G668": {
+    "title_en": "One English document signed the night before IPO left him owing 70M USD",
+    "industry": "software-saas",
+    "outcome": "failure",
+    "tags": [
+      "cashflow-crunch",
+      "platform-risk"
+    ]
+  },
+  "G669": {
+    "title_en": "Lost 6 RMB per order, then built a 50M RMB business on one candy",
+    "industry": "ecommerce",
+    "outcome": "success",
+    "tags": [
+      "product-market-fit",
+      "retention",
+      "scaling"
+    ]
+  },
+  "G670": {
+    "title_en": "Rather than open his books, he raised 6M RMB to pay 36 stores' wages",
+    "industry": "food-beverage",
+    "outcome": "success",
+    "tags": [
+      "cashflow-crunch",
+      "scaling",
+      "cost-structure"
+    ]
+  },
+  "G671": {
+    "title_en": "At 61 she turned an e-reader into a 1.1B RMB business, then cut prices",
+    "industry": "hardware",
+    "outcome": "success",
+    "tags": [
+      "cost-structure",
+      "scaling",
+      "supply-chain"
+    ]
+  },
+  "G672": {
+    "title_en": "A 14B RMB unicorn signed a 700M RMB order, delivered dozens, then failed",
+    "industry": "hardware",
+    "outcome": "failure",
+    "tags": [
+      "scaling",
+      "cashflow-crunch",
+      "supply-chain"
+    ]
+  },
+  "G673": {
+    "title_en": "Burned 100M RMB in five years, 500 signed stores down to 11",
+    "industry": "food-beverage",
+    "outcome": "failure",
+    "tags": [
+      "scaling",
+      "cashflow-crunch",
+      "cost-structure"
+    ]
+  },
+  "G674": {
+    "title_en": "From 23 stores to 2, he sold his luxury car to make payroll",
+    "industry": "food-beverage",
+    "outcome": "ongoing",
+    "tags": [
+      "scaling",
+      "cost-structure",
+      "cashflow-crunch"
+    ]
+  },
+  "G675": {
+    "title_en": "Three noodle shops closed with 3M RMB in losses, 2M of it on decor",
+    "industry": "food-beverage",
+    "outcome": "failure",
+    "tags": [
+      "cost-structure",
+      "scaling",
+      "cashflow-crunch"
+    ]
+  },
+  "G676": {
+    "title_en": "Chased three food trends in three years and closed eight stores",
+    "industry": "food-beverage",
+    "outcome": "failure",
+    "tags": [
+      "pivot",
+      "cost-structure",
+      "traffic-dependency"
+    ]
+  },
+  "G677": {
+    "title_en": "Spent 700K RMB on a tea shop, the brand offered 250K to take it",
+    "industry": "food-beverage",
+    "outcome": "failure",
+    "tags": [
+      "franchise",
+      "platform-risk",
+      "cost-structure"
+    ]
+  },
+  "G678": {
+    "title_en": "A 270K RMB franchise fee, and supplies ate 60% of revenue",
+    "industry": "food-beverage",
+    "outcome": "failure",
+    "tags": [
+      "franchise",
+      "supply-chain",
+      "cost-structure"
+    ]
+  },
+  "G679": {
+    "title_en": "A steamed-bun shop taking in under 100 RMB a day loses 300 daily",
+    "industry": "food-beverage",
+    "outcome": "failure",
+    "tags": [
+      "franchise",
+      "traffic-dependency",
+      "cost-structure"
+    ]
+  },
+  "G680": {
+    "title_en": "Put 2M RMB into a Dali guesthouse and transferred it for 800K",
+    "industry": "services",
+    "outcome": "failure",
+    "tags": [
+      "cost-structure",
+      "traffic-dependency",
+      "cashflow-crunch"
+    ]
+  },
+  "G681": {
+    "title_en": "Equipment bought for 110K RMB sold as a lot for 3,000",
+    "industry": "food-beverage",
+    "outcome": "failure",
+    "tags": [
+      "cost-structure",
+      "cashflow-crunch",
+      "traffic-dependency"
+    ]
+  },
+  "G682": {
+    "title_en": "Homegrown tea brand lost 1.5M RMB when lemon prices rose 15-fold",
+    "industry": "food-beverage",
+    "outcome": "failure",
+    "tags": [
+      "supply-chain",
+      "cashflow-crunch",
+      "scaling"
+    ]
+  },
+  "G683": {
+    "title_en": "Group-buying liquor sales lost 200K RMB in six months as commissions piled up",
+    "industry": "ecommerce",
+    "outcome": "failure",
+    "tags": [
+      "platform-risk",
+      "cost-structure",
+      "scaling"
+    ]
+  },
+  "G684": {
+    "title_en": "A 1M USD order was cancelled; he sold 30K USD online in a week",
+    "industry": "ecommerce",
+    "outcome": "pivoted",
+    "tags": [
+      "platform-risk",
+      "supply-chain",
+      "pivot"
+    ]
+  },
+  "G685": {
+    "title_en": "From 100M RMB a year to debtor: three seafood restaurants took 6.8M",
+    "industry": "food-beverage",
+    "outcome": "failure",
+    "tags": [
+      "scaling",
+      "cashflow-crunch",
+      "cost-structure"
+    ]
+  },
+  "G686": {
+    "title_en": "Signed a 130K RMB tea franchise in Qujing, closed in six months owing 300K",
+    "industry": "food-beverage",
+    "outcome": "failure",
+    "tags": [
+      "franchise",
+      "platform-risk",
+      "cashflow-crunch"
+    ]
+  },
+  "G687": {
+    "title_en": "Lost 2M RMB on milk tea, switched to fried chicken in three days",
+    "industry": "food-beverage",
+    "outcome": "pivoted",
+    "tags": [
+      "pivot",
+      "cost-structure",
+      "product-market-fit"
+    ]
+  },
+  "G688": {
+    "title_en": "A 25-square-meter shop fell from 20K to 3,000 RMB a day, closed while profitable",
+    "industry": "food-beverage",
+    "outcome": "failure",
+    "tags": [
+      "traffic-dependency",
+      "cost-structure",
+      "platform-risk"
+    ]
+  },
+  "G689": {
+    "title_en": "Twenty partners opened a 300-square-meter cafe; twelve years later it hasn't repaid",
+    "industry": "food-beverage",
+    "outcome": "failure",
+    "tags": [
+      "partnership-dispute",
+      "cost-structure",
+      "traffic-dependency"
+    ]
+  },
+  "G690": {
+    "title_en": "Headquarters held 51%, she put in 400K, and could not pay 125K rent",
+    "industry": "food-beverage",
+    "outcome": "failure",
+    "tags": [
+      "franchise",
+      "cost-structure",
+      "partnership-dispute"
+    ]
+  },
+  "G691": {
+    "title_en": "Paid 100K RMB for a bakery franchise, the brand opened cheaper 1.5 km away",
+    "industry": "food-beverage",
+    "outcome": "failure",
+    "tags": [
+      "franchise",
+      "platform-risk",
+      "cost-structure"
+    ]
+  },
+  "G692": {
+    "title_en": "Five friends pooled 1M RMB for a campsite; bulldozers came within a month",
+    "industry": "services",
+    "outcome": "failure",
+    "tags": [
+      "partnership-dispute",
+      "cost-structure"
+    ]
+  },
+  "G693": {
+    "title_en": "A county-town escape room cost 190K RMB to open and 300K to lose",
+    "industry": "services",
+    "outcome": "failure",
+    "tags": [
+      "platform-risk",
+      "cost-structure",
+      "cashflow-crunch"
+    ]
+  },
+  "G694": {
+    "title_en": "A 48K RMB agency fee turned out to require 850K RMB in equipment",
+    "industry": "services",
+    "outcome": "failure",
+    "tags": [
+      "franchise",
+      "cashflow-crunch"
+    ]
+  },
+  "G695": {
+    "title_en": "Paid 300K RMB for a Wuhan roast-duck shop, closed four months later",
+    "industry": "food-beverage",
+    "outcome": "failure",
+    "tags": [
+      "franchise",
+      "cost-structure",
+      "cashflow-crunch"
+    ]
+  },
+  "G696": {
+    "title_en": "Paid 39,800 RMB to join a hotpot chain, lost 300K RMB in six months",
+    "industry": "food-beverage",
+    "outcome": "failure",
+    "tags": [
+      "franchise",
+      "cost-structure",
+      "cashflow-crunch"
+    ]
+  }
+}
