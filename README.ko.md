@@ -1,6 +1,6 @@
 # 스타트업 사례 아틀라스
 
-[简体中文](README.md) ｜ [English](README.en.md) ｜ [日本語](README.ja.md) ｜ **한국어** ｜ [Español](README.es.md)
+[简体中文](README.md) · [English](README.en.md) · [日本語](README.ja.md) · **한국어** · [Español](README.es.md)
 
 **419개의 스타트업·소상공인 사례를 구조화해 수록. 본문은 중국어, 기계 판독 가능.**
 

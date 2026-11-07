@@ -1,30 +1,58 @@
 # 创业案例图谱 Startup Case Atlas
 
-**简体中文** ｜ [English](README.en.md) ｜ [日本語](README.ja.md) ｜ [한국어](README.ko.md) ｜ [Español](README.es.md)
+中文 · [English](README.en.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Español](README.es.md)
 
-**419 个创业与生意案例，全部结构化，中文写作，机器可读。**
+![cases](https://img.shields.io/badge/cases-419-D85A30?style=flat-square) ![chars](https://img.shields.io/badge/text-576k_chars-6B7280?style=flat-square) ![license](https://img.shields.io/badge/license-CC_BY--SA_4.0-0F6E56?style=flat-square) ![llms](https://img.shields.io/badge/llms.txt-ready-534AB7?style=flat-square)
 
-失败复盘、独立开发者的真实收入、以及中国街头小店那本账——房租多少、几个人、一份挣几毛、钱是怎么一天天用完的。
+**419 个生意，每一个都记了账：花了多少，挣了多少，钱在哪一步没的。**
 
-> English readers: 419 structured startup and small-business case studies, written in Chinese and machine-readable. [Read the English README →](README.en.md)
+其中 **246 个（59%）死于同一件事**——做了一件没人要的东西，然后在发现这件事的过程中把钱用完了。
+
+[按失败机制浏览](index/by-mechanism.md) · [按行业](index/by-industry.md) · [按地区](index/by-region.md) · [拿数据](data/cases.jsonl) · [喂给模型](llms.txt)
+
+<img src="assets/failure-mechanisms.svg" width="780" alt="419 个案例的失败机制分布：需求错配 246 个，扩张过快 120，成本结构过重 118，依赖单一流量 108，现金流断裂 93">
 
 ---
 
-## 这是什么
+## 30 秒上手
 
-讲创业的东西，大多两个毛病：成功的故事把数字抹掉，失败的故事把原因缩成"经营不善"四个字。
+| 你想干什么 | 去哪儿 |
+| --- | --- |
+| 随便读一个 | [`index/by-mechanism.md`](index/by-mechanism.md)——从"加盟陷阱"或"现金流断裂"开始 |
+| 找特定角度 | [按行业](index/by-industry.md) · [按结局](index/by-outcome.md) · [按地区](index/by-region.md) · [按年份](index/by-year.md) |
+| 拿数据 | [`data/cases.jsonl`](data/cases.jsonl)——419 行，每行一个案例，字段齐全 |
+| 喂给模型 | 先读 [`llms.txt`](llms.txt)（1.3 KB），上下文够再上 [`llms-full.txt`](llms-full.txt)（1.7 MB） |
 
-这个库想做的正相反：拿 419 个具体的生意，一个一个记下来——**它花了多少钱，挣了多少钱，钱到底去哪了，是哪一步把它弄塌的**。
+```bash
+git clone https://github.com/Shooang/startup-case-atlas.git
+```
 
-每个案例是一个 Markdown 文件，16 个字段全都一样。淘宝卖家、深圳的硬件公司、上海的一碗面，用的是同一套骨架，所以能横向比、能筛、能直接喂给模型，不用先清洗。
+## 一个案例长什么样
 
-有两件事让这个库跟别的不太一样：
+这是其中一个：青岛一家海鲜自助，卖房凑了 150 万，首月流水六七十万，月底算账净亏二十多万，第四个月闭店。
 
-**它记了那些通常没人记的生意。** 十平米的米线店、路边摊、首月流水七十万却亏二十多万的加盟火锅。中国小生意的经济账，在这里是具体到房租和进货价的，不是"行业平均"。
+```yaml
+id: G623
+title: 卖房凑150万加盟火锅自助，首月流水70万反而亏20多万，四个月闭店
+type: 中文小生意
+source: https://cbgc.scol.com.cn/news/7946483
+era: 中文·青岛·2025-2026
+region: CN
+outcome: failure
+industry: food-beverage
+tags: [franchise, low-price-trap, cashflow-crunch, cost-structure]
+key_numbers: 总投入150多万（加盟费十几万＋装修40多万＋备货七八十万）｜首月流水六七十万、净亏20多万｜59.9元引流套餐预售近80万｜4个月闭店、自称损失180多万
+```
 
-**它标了每个数字的来路。** 每个文件最后都有一节「事实边界」，写清这些数字是当事人自己说的、记者采访的、法院文书的，还是估算；哪些没法核实。有争议的地方，争议本身也写进去。
+每个文件都是这个骨架：**16 个固定字段 + 三段正文**。
 
-## 里面有什么
+- `## 故事正文`——600 到 900 字，按时间走，不跳结论
+- `## 可用观点`——这个案例能拿来论证什么，落在机制上
+- `## 事实边界`——哪些数字是当事人自述、哪些是记者采访、哪些是估算、哪些没法核实
+
+第三段是刻意加的。同一个"亏了 70 万"，当事人说的、媒体写的、法院认定的，分量完全不同，混在一起讲就是耍流氓。
+
+## 收录了什么
 
 | 目录 | 篇数 | 内容 | 年代 |
 | --- | --- | --- | --- |
@@ -36,48 +64,27 @@
 | [`cases/06-starter-story/`](cases/06-starter-story/) | 36 | 带月收入、启动成本、启动耗时的小生意 | 2019–2024 |
 | [`legacy/articles/`](legacy/articles/) | 95 | 早期中文网络创业故事存档，多数原链接已失效 | 2000–2012 |
 
-**合计：** 419 个案例 · 约 57.6 万字案例正文 · 95 篇存档文章 · 31 个国家和地区 · 13 个行业 · 5 种结局 · 12 类失败机制。
+**合计：** 419 个案例 · 约 57.6 万字案例正文 · 95 篇存档 · 31 个国家和地区 · 13 个行业 · 5 种结局 · 12 类失败机制。
 
-**有一个数字值得停一下：** 419 个案例里，246 个（59%）的失败机制是"需求错配"，比成本结构（118 个）多，比现金流断裂（93 个）多一倍半。横跨四十年、十五个国家、从一碗面馆到一个开发工具——生意死掉最常见的原因不是没钱，是做了一件没人要的东西，然后在发现这件事的过程中把钱用完了。
+## 你可以拿它做什么
 
-## 怎么用
+**写东西。** 一个案例就是一期的骨架：数字是现成的，转折是现成的，连"这事儿该给谁看"都写在 `angles` 里。按机制筛一遍，能找到十个同类案例做横向对比。
 
-### 想读
+**判断一个生意。** 想知道加盟火锅到底赚不赚钱，这里有青岛、成都、昆山的样本；想知道给创作者做工具为什么容易死，这里有 129 个失败访谈可以对照。同一个机制在不同行业重复出现，这个规律比单个案例有用。
 
-别从文件开始读，从索引开始。看你想要哪个角度：
+**喂给 AI。** 中文商业案例的长尾语料极缺，尤其是带具体账目的中小生意。这个库的结构是给机器准备的：字段闭合、来源可溯、每个文件自包含，切块之后每一块都还讲得通。
 
-- [按行业](index/by-industry.md)——餐饮、零售、电商、软件、硬件、服务
-- [按结局](index/by-outcome.md)——失败、出售、转型、仍在营
-- [按失败机制](index/by-mechanism.md)——加盟陷阱、现金流断裂、平台依赖、成本结构
-- [按地区](index/by-region.md)——中国、美国、英国、印度等 31 个
-- [按年份](index/by-year.md)——同一个错误，十年里怎么反复出现
+## 为什么做这个
 
-### 想喂给模型
+讲创业的东西，大多两个毛病：成功的故事把数字抹掉，失败的故事把原因缩成"经营不善"四个字。
 
-三个入口，看你上下文有多大：
+这个库想做的正相反：拿 419 个具体的生意，一个一个记下来——**它花了多少钱，挣了多少钱，钱到底去哪了，是哪一步把它弄塌的**。
 
-```
-llms.txt             # 结构说明 + 索引，约 2 KB，先读这个
-data/cases.jsonl     # 419 条记录，每行一个 JSON，字段齐全
-llms-full.txt        # 全部案例正文拼接，约 1.7 MB
-data/cases.csv       # 表格用，标签已拍平
-```
+有两件事让它跟别的不太一样：
 
-`llms.txt` 遵循 [llmstxt.org](https://llmstxt.org) 的约定。如果你的管道要切块，直接指向 `cases/**/*.md`——每个文件都是自包含的，单独拿出来也讲得通。
+**它记了那些通常没人记的生意。** 十平米的米线店、路边摊、首月流水七十万却亏二十多万的加盟火锅。中国小生意的经济账，在这里具体到房租和进货价，不是"行业平均"。
 
-### 想查
-
-```python
-import json
-
-cases = [json.loads(l) for l in open("data/cases.jsonl", encoding="utf-8")]
-
-# 加盟 + 一年内现金流断裂的失败案例
-hits = [c for c in cases
-        if "franchise" in c["tags"]
-        and "cashflow-crunch" in c["tags"]
-        and c["outcome"] == "failure"]
-```
+**它标了每个数字的来路。** 有争议的地方，争议本身也写进去。
 
 ## 字段规范
 
@@ -95,15 +102,13 @@ hits = [c for c in cases
 | `region` | enum | 国家代码，未知写 `unknown`，**从不猜** |
 | `year` | int | 事件起始年份 |
 | `outcome` | enum | `failure` \| `success` \| `exit` \| `pivoted` \| `ongoing` |
-| `industry` | enum | 13 个值，见分类说明 |
+| `industry` | enum | 13 个值，见 [`docs/taxonomy.md`](docs/taxonomy.md) |
 | `tags` | list | 2–5 个失败机制，取自 12 个闭合词 |
 | `key_numbers` | string | 撑起这个故事的数字，用 `｜` 分隔 |
 | `timeline` | string | 起点 → 转折 → 结局，各一句 |
 | `causal_chain` | string | 一条主线因果，不是理由罗列 |
 | `angles` | string | 这个案例能拿来论证什么 |
 | `status` | string | 编务状态，不属于数据本身 |
-
-每个案例正文固定三节：`## 故事正文`、`## 可用观点`、`## 事实边界`。
 
 ## 来源与许可
 
@@ -115,7 +120,7 @@ hits = [c for c in cases
 
 上游许可证原样保留在 [`third-party/`](third-party/)。每个来源的署名、抓取日期、具体用了什么，都列在 [`ATTRIBUTIONS.md`](ATTRIBUTIONS.md)。
 
-**如果你是权利人**，希望某篇内容下架，提 issue 或发邮件到 `DISCLAIMER.md` 里的地址，我们不争辩，直接删。
+**如果你是权利人**，希望某篇内容下架，开一个 issue 标 `takedown`，我们不争辩，直接删。
 
 ## 参与
 
@@ -128,5 +133,7 @@ hits = [c for c in cases
 这不是投资建议，也不是在给谁排聪明与否。一个案例出现在这里，只代表这门生意被记录过，不代表它被评判过。这里有些失败者，是在大部分事情上都做对了，只是没赶上时间。
 
 ---
+
+如果这个库替你省下几天找资料的时间，**点个 star 是最直接的回报**——它也让下一个找这类资料的人更容易找到这里。
 
 *作为公开数据集维护。用于研究或产品时，附个回链会很高兴，但不必需。*

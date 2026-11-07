@@ -1,6 +1,6 @@
 # Atlas de Casos de Emprendimiento
 
-[简体中文](README.md) ｜ [English](README.en.md) ｜ [日本語](README.ja.md) ｜ [한국어](README.ko.md) ｜ **Español**
+[简体中文](README.md) · [English](README.en.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · **Español**
 
 **419 casos estructurados de startups y pequeños negocios, escritos en chino y legibles por máquina.**
 

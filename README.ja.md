@@ -1,6 +1,6 @@
 # スタートアップ事例アトラス
 
-[简体中文](README.md) ｜ [English](README.en.md) ｜ **日本語** ｜ [한국어](README.ko.md) ｜ [Español](README.es.md)
+[简体中文](README.md) · [English](README.en.md) · **日本語** · [한국어](README.ko.md) · [Español](README.es.md)
 
 **419 のスタートアップ・中小事業のケースを構造化して収録。本文は中国語、機械可読。**
 

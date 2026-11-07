@@ -1,24 +1,59 @@
 # Startup Case Atlas
 
-[简体中文](README.md) ｜ **English** ｜ [日本語](README.ja.md) ｜ [한국어](README.ko.md) ｜ [Español](README.es.md)
+[中文](README.md) · **English** · [日本語](README.ja.md) · [한국어](README.ko.md) · [Español](README.es.md)
 
-**419 structured case studies of startups and small businesses — written in Chinese, queryable by machine.**
+![cases](https://img.shields.io/badge/cases-419-D85A30?style=flat-square) ![chars](https://img.shields.io/badge/text-576k_chars-6B7280?style=flat-square) ![license](https://img.shields.io/badge/license-CC_BY--SA_4.0-0F6E56?style=flat-square) ![llms](https://img.shields.io/badge/llms.txt-ready-534AB7?style=flat-square)
 
-Failure post-mortems, solo-founder revenue numbers, and the actual books of Chinese street-level businesses: rents, headcount, per-unit margin, and how the cash ran out.
+**419 businesses, every one with the books kept: what it cost, what it earned, and the exact step where the money ran out.**
+
+**246 of them (59%) died of the same thing** — building something nobody wanted, and spending the money finding that out.
+
+[Browse by failure mechanism](index/by-mechanism.md) · [By industry](index/by-industry.md) · [By region](index/by-region.md) · [Get the data](data/cases.jsonl) · [Feed a model](llms.txt)
+
+<img src="assets/failure-mechanisms.svg" width="780" alt="Failure mechanisms across 419 cases: product-market fit 246, over-scaling 120, cost structure 118, single traffic source 108, cash-flow crunch 93">
+
+> **Case bodies are written in Chinese.** The schema, indexes, data files and this README are English; the 419 narratives are Chinese, because that is the gap this atlas fills — Chinese-language, structured, sourced business cases are scarce, while English ones are not.
 
 ---
 
-## What this is
+## 30 seconds in
 
-Most startup writing is either a success story with the numbers removed, or a failure story with the cause reduced to "poor management". This atlas is an attempt to do the opposite: take 419 individual businesses, and record for each one **what it cost, what it earned, where the money actually went, and which decision broke it**.
+| What you want | Where to go |
+| --- | --- |
+| Read one | [`index/by-mechanism.md`](index/by-mechanism.md) — start with "franchise" or "cash-flow crunch" |
+| A specific cut | [Industry](index/by-industry.md) · [Outcome](index/by-outcome.md) · [Region](index/by-region.md) · [Year](index/by-year.md) |
+| The data | [`data/cases.jsonl`](data/cases.jsonl) — 419 lines, one case per line, all fields |
+| An LLM | Read [`llms.txt`](llms.txt) (1.3 KB) first, then [`llms-full.txt`](llms-full.txt) (1.7 MB) if context allows |
 
-Every case is a single Markdown file with the same 16 fields. Same shape for a Taobao seller, a Shenzhen hardware startup, and a noodle shop in Shanghai — so they can be compared, filtered, and fed to a model without cleaning.
+```bash
+git clone https://github.com/Shooang/startup-case-atlas.git
+```
 
-Two things make this collection unusual:
+## What one case looks like
 
-**It includes businesses that usually go unrecorded.** A 10-square-metre rice-noodle shop. A street stall. A franchise hotpot restaurant that did 700,000 RMB in its first month and still lost 200,000. Chinese small-business economics are documented here at the level of individual rent and ingredient costs, not industry averages.
+This one: a seafood buffet in Qingdao. The owner sold his house for 1.5M RMB, took in 600–700k RMB in the first month, and ended it 200k+ RMB in the hole. Closed in month four.
 
-**It documents where the numbers come from.** Every file ends with a "facts and limits" section that states whether the figures are the founder's own account, a reporter's interview, a court filing, or an estimate — and what could not be verified. If a number is disputed, the dispute is written down.
+```yaml
+id: G623
+title: 卖房凑150万加盟火锅自助，首月流水70万反而亏20多万，四个月闭店
+title_en: Sold his house for 1.5M RMB to join a buffet chain, closed in four months
+type: 中文小生意
+source: https://cbgc.scol.com.cn/news/7946483
+era: 中文·青岛·2025-2026
+region: CN
+outcome: failure
+industry: food-beverage
+tags: [franchise, low-price-trap, cashflow-crunch, cost-structure]
+key_numbers: 总投入150多万（加盟费十几万＋装修40多万＋备货七八十万）｜首月流水六七十万、净亏20多万｜59.9元引流套餐预售近80万｜4个月闭店、自称损失180多万
+```
+
+Every file has the same skeleton: **16 fixed fields + three body sections**.
+
+- `## 故事正文` — 600–900 characters, chronological, no jumping to conclusions
+- `## 可用观点` — what this case can be used to argue, grounded in mechanism
+- `## 事实边界` — which numbers are the founder's own words, which are reporter interviews, which are estimates, which cannot be verified
+
+That third section is deliberate. "Lost 700k" carries very different weight depending on whether it came from the founder, a journalist, or a court filing. Blending them is how bad analysis gets made.
 
 ## What's inside
 
@@ -29,100 +64,77 @@ Two things make this collection unusual:
 | [`cases/03-failory/`](cases/03-failory/) | 129 | Founder interviews on failed startups across 20+ countries | 2020–2023 |
 | [`cases/04-indie-hacker/`](cases/04-indie-hacker/) | 156 | Solo founders and small teams shipping paid products | 2019–2026 |
 | [`cases/05-china-interviews/`](cases/05-china-interviews/) | 69 | Chinese physical businesses: restaurants, franchises, shops, services | 2018–2026 |
-| [`cases/06-starter-story/`](cases/06-starter-story/) | 36 | Revenue, launch cost, and time-to-launch for small ventures | 2019–2024 |
-| [`legacy/articles/`](legacy/articles/) | 95 | Archive of early Chinese web articles on entrepreneurs, mostly dead links | 2000–2012 |
+| [`cases/06-starter-story/`](cases/06-starter-story/) | 36 | Small businesses with revenue, startup cost and time-to-launch | 2019–2024 |
+| [`legacy/articles/`](legacy/articles/) | 95 | Archived early Chinese web entrepreneurship stories, most original links dead | 2000–2012 |
 
-**Totals:** 419 cases · ~576,000 Chinese characters of case text · 95 archived articles · 31 countries and regions · 13 industries · 5 outcome types · 12 failure mechanisms.
+**Totals:** 419 cases · ~576,000 characters of case text · 95 archived articles · 31 countries and regions · 13 industries · 5 outcome types · 12 failure mechanisms.
 
-**One number worth pausing on:** 246 of 419 cases (59%) carry `product-market-fit` as a failure mechanism — more than cost structure (118), more than running out of cash (93). Across four decades, fifteen countries and everything from a noodle shop to a developer tool, the most common way a business dies is not that it ran out of money. It is that it built something nobody wanted, and the money ran out while finding that out.
+## What you can do with it
 
-## Quick start
+**Write something.** One case is one episode: the numbers exist, the turn exists, and the `angles` field already says who this is for. Filter by mechanism and you get ten comparable cases for a cross-section.
 
-### Reading
+**Size up a business.** Want to know whether franchise hotpot actually makes money? There are samples from Qingdao, Chengdu and Kunshan. Want to know why tools for creators die? There are 129 failure interviews to compare against. The same mechanism recurring across industries is more useful than any single case.
 
-Start with an index, not a file. If you want a specific angle:
+**Feed a model.** Chinese business-case long-tail corpora are scarce, especially small businesses with actual books. The structure is machine-first: closed field vocabularies, traceable sources, self-contained files that survive chunking.
 
-- [By industry](index/by-industry.md) — restaurants, retail, e-commerce, software, hardware, services
-- [By outcome](index/by-outcome.md) — failure, exit, pivoted, still running
-- [By failure mechanism](index/by-mechanism.md) — franchise traps, cash-flow collapse, platform dependency, cost structure
-- [By region](index/by-region.md) — China, US, UK, India, and 27 more
-- [By year](index/by-year.md) — how the same mistake repeats across a decade
+## Why this exists
 
-### Feeding a model
+Most startup writing is either a success story with the numbers removed, or a failure story with the cause reduced to "poor management". This atlas is an attempt to do the opposite: take 419 individual businesses, and record for each one **what it cost, what it earned, where the money actually went, and which decision broke it**.
 
-Three entry points, depending on how much context you have:
+Two things make this collection unusual:
 
-```
-llms.txt             # structure + index, ~2 KB, read this first
-data/cases.jsonl     # 419 records, one JSON object per line, all fields
-llms-full.txt        # every case body concatenated, ~1.7 MB
-data/cases.csv       # spreadsheet-friendly, flattened tags
-```
+**It includes businesses that usually go unrecorded.** A 10-square-metre rice-noodle shop. A street stall. A franchise hotpot restaurant that did 700,000 RMB in its first month and still lost 200,000. Chinese small-business economics are documented here at the level of individual rent and ingredient costs, not industry averages.
 
-`llms.txt` follows the [llmstxt.org](https://llmstxt.org) convention. If your pipeline chunks documents, point it at `cases/**/*.md` — each file is self-contained and stands alone.
-
-### Querying
-
-```python
-import json
-
-cases = [json.loads(l) for l in open("data/cases.jsonl", encoding="utf-8")]
-
-# franchise failures where the cash ran out within a year
-hits = [c for c in cases
-        if "franchise" in c["tags"]
-        and "cashflow-crunch" in c["tags"]
-        and c["outcome"] == "failure"]
-```
+**It documents where the numbers come from.** If a figure is disputed, the dispute is written down alongside it.
 
 ## Schema
 
-16 fields, defined once in [`docs/schema.md`](docs/schema.md). The short version:
+16 fields; full definitions in [`docs/schema.md`](docs/schema.md).
 
 | Field | Type | Notes |
 | --- | --- | --- |
-| `id` | string | `G001`–`G736`, gaps are reserved |
-| `title` | string | Original Chinese headline, factual, carries the key number |
-| `title_en` | string | English rendering, 8–14 words |
-| `type` | string | Provenance type: first-person, interview, reportage, database |
+| `id` | string | `G001`–`G736`; gaps are reserved ranges |
+| `title` | string | Chinese title, factual, carries the key number |
+| `title_en` | string | English title, 8–14 words |
+| `type` | string | Source type: self-account, interview, report, database |
 | `source` | url | Link to the original article or interview |
-| `era` | string | `language · country · year`, as stated at source |
+| `era` | string | `language·country·year`, as stated by the source |
 | `source_language` | enum | `zh` \| `en` \| `unknown` |
-| `region` | enum | ISO-ish country code, or `unknown` — never guessed |
-| `year` | int | Year the events began |
+| `region` | enum | Country code; unknown is `unknown` and **never guessed** |
+| `year` | int | Year the story starts |
 | `outcome` | enum | `failure` \| `success` \| `exit` \| `pivoted` \| `ongoing` |
-| `industry` | enum | 13 values, see taxonomy |
-| `tags` | list | 2–5 failure mechanisms from a closed list of 12 |
-| `key_numbers` | string | The figures that carry the story, `｜`-separated |
-| `timeline` | string | Onset → turning point → outcome, one line each |
-| `causal_chain` | string | The single main causal thread, not a list of reasons |
+| `industry` | enum | 13 values, see [`docs/taxonomy.md`](docs/taxonomy.md) |
+| `tags` | list | 2–5 failure mechanisms from a closed 12-term vocabulary |
+| `key_numbers` | string | The numbers that carry the story, separated by `｜` |
+| `timeline` | string | Start → turn → outcome, one line each |
+| `causal_chain` | string | One causal spine, not a list of reasons |
 | `angles` | string | What this case can be used to argue |
-| `status` | string | Editorial state, not part of the data proper |
-
-Every case body has three fixed sections: `## Story`, `## Usable angles`, `## Facts and limits`.
+| `status` | string | Editorial state, not part of the data |
 
 ## Sources and licensing
 
-This is a **derived work, not a mirror**. Nothing here is a copy-paste of someone else's article. Each case is an original Chinese-language write-up based on published reporting, with the source linked in the file itself.
+This is a **derivative work, not a mirror**. Nothing here is copy-pasted: each case is a Chinese rewrite based on previously published reporting, with the original link in the file.
 
-- **Case notes** (419 files): released under [CC BY-SA 4.0](LICENSE). Share and adapt, credit required, derivatives under the same terms.
-- **Four cases derived from [`byoungd/up`](https://github.com/byoungd/up)**: that project's prose is **CC BY-NC 4.0**. Those cases carry the same non-commercial restriction. See [`ATTRIBUTIONS.md`](ATTRIBUTIONS.md).
-- **Archived articles** (`legacy/`): copyright remains with the original authors and publishers. Included for research and indexing only, under a notice-and-takedown arrangement. See [`DISCLAIMER.md`](DISCLAIMER.md).
+- **Case bodies** (419): [CC BY-SA 4.0](LICENSE). Reuse and adapt with attribution; derivatives keep the same licence.
+- **4 cases derived from [`byoungd/up`](https://github.com/byoungd/up)**: that project's text is **CC BY-NC 4.0**, so those 4 are **non-commercial**. See [`ATTRIBUTIONS.md`](ATTRIBUTIONS.md).
+- **Archived articles** (`legacy/`): copyright remains with the original authors and publishers. Included for research and indexing under a notice-and-takedown policy. See [`DISCLAIMER.md`](DISCLAIMER.md).
 
-Upstream licenses are preserved verbatim in [`third-party/`](third-party/). Per-source attribution, retrieval dates, and what exactly was reused are listed in [`ATTRIBUTIONS.md`](ATTRIBUTIONS.md).
+Upstream licences are preserved verbatim in [`third-party/`](third-party/). Attribution, retrieval dates and exactly what was used are listed per source in [`ATTRIBUTIONS.md`](ATTRIBUTIONS.md).
 
-**If you are a rights holder** and want something removed, open an issue or email the address in `DISCLAIMER.md`. It will be taken down without argument.
+**If you are a rights holder** and want something removed, open an issue tagged `takedown`. No argument, it goes.
 
 ## Contributing
 
-Corrections are more valuable than additions. If a number here contradicts the original source, that is a bug — please report it with the link. See [`docs/contributing.md`](docs/contributing.md).
+**Corrections are worth more than additions.** If a number here contradicts its original source, that is a bug — report it with the link. See [`docs/contributing.md`](docs/contributing.md).
 
-New cases are welcome if they meet three conditions: a working source link, at least two specific figures, and a mechanism more specific than "it failed". Speculative or unsourced write-ups get rejected, however good the story.
+New cases are welcome, but must pass three gates: a working original link, at least two concrete numbers, and a failure mechanism specific enough that "mismanagement" doesn't cover it.
 
-## A note on what this is not
+## A note
 
-This is not investment advice, and it is not a ranking of who is smart and who is not. A case appearing here means the business was documented, not that it was judged. Several of the failures are people who did most things right and ran out of time.
+This is not investment advice, and it is not a ranking of who is smart. A case appearing here means the business was recorded, not judged. Some of these failures got most things right and simply ran out of time.
 
 ---
 
-*Maintained as a public dataset. If you use it in research or a product, a link back is appreciated but not required.*
+If this saved you a few days of digging, **a star is the most direct way to say so** — and it helps the next person looking for this kind of material find it.
+
+*Maintained as a public dataset. A backlink is appreciated when you use it in research or a product, but not required.*
