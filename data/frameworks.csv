@@ -200,3 +200,17 @@ F206,选项越多决策越差，砍掉选项是最省力的管理动作,吴军�
 F207,成本摊错地方，公司就做不成事,吴军硅谷来信,吴军,operations|finance,cost-structure|unit-economics|efficiency,frameworks/F207-成本摊错地方公司就做不成事.md
 F208,谁的钱先拿，决定这家公司能承受多大的错,吴军硅谷来信,吴军,finance|strategy,cash-flow|cashflow-crunch|resource-allocation,frameworks/F208-谁的钱先拿决定这家公司能承受多大的错.md
 F209,利益怎么分，决定一个行业长成什么样,吴军硅谷来信,吴军,organization|strategy,talent|monetization|power-law,frameworks/F209-利益怎么分决定一个行业长成什么样.md
+F210,规模每翻一倍计算量翻四倍努力补不上,系统化思维导论,杰拉尔德·温伯格,operations|strategy,scaling|cost-structure|efficiency,frameworks/F210-规模每翻一倍计算量翻四倍努力补不上.md
+F211,机械论够不够用看耦合强度不看先不先进,系统化思维导论,杰拉尔德·温伯格,decision|strategy,decision-making|org-design|scaling,frameworks/F211-机械论够不够用看耦合强度不看先不先进.md
+F212,观察者一进场系统就不再是原来的系统,系统化思维导论,杰拉尔德·温伯格,decision|management,decision-making|information-flow|trust,frameworks/F212-观察者一进场系统就不再是原来的系统.md
+F213,切在哪里决定你能看见什么,系统化思维导论,杰拉尔德·温伯格,organization|strategy,org-design|scope|resource-allocation,frameworks/F213-切在哪里决定你能看见什么.md
+F214,中数系统既算不准也平均不掉,系统化思维导论,杰拉尔德·温伯格,management|decision,decision-making|org-design|scaling,frameworks/F214-中数系统既算不准也平均不掉.md
+F215,五项修炼是一套构件，单练一项都会退化成花招,第五项修炼,彼得·圣吉 等,organization|management,org-design|leadership|culture,frameworks/F215-五项修炼是一套构件单练一项都会退化成花招.md
+F216,组织学不会不是人笨，是七个障碍挡住了真话,第五项修炼,彼得·圣吉 等,organization|management,culture|org-design|decision-making,frameworks/F216-组织学不会不是人笨是七个障碍挡住了真话.md
+F217,画得出回路才找得到杠杆，使错劲只会让系统更糟,第五项修炼,彼得·圣吉 等,strategy|decision,decision-making|resource-allocation|competition,frameworks/F217-画得出回路才找得到杠杆使错劲只会让系统更糟.md
+F218,心智模式不是改变看法，是把假设摆到桌面上,第五项修炼,彼得·圣吉 等,decision|management,decision-making|culture|leadership,frameworks/F218-心智模式不是改变看法是把假设摆到桌面上.md
+F219,共同愿景不是口号，是愿景与现状之间绷紧的那根橡皮带,第五项修炼,彼得·圣吉 等,organization|management,culture|leadership|org-design,frameworks/F219-共同愿景不是口号是愿景与现状之间绷紧的那根橡皮带.md
+F220,大数据的门槛不是数据量，是全集与相关性,智能时代,吴军,decision|product,decision-making|information-flow|infrastructure,frameworks/F220-大数据的门槛不是数据量是全集与相关性.md
+F221,机器替代的不是体力，是能被数据化的判断,智能时代,吴军,operations|decision,efficiency|cost-structure|competition,frameworks/F221-机器替代的不是体力是能被数据化的判断.md
+F222,技术革命先掏空中间层，受益顺序从不由多数人开始,智能时代,吴军,strategy|organization,demand-shift|talent|resource-allocation,frameworks/F222-技术革命先掏空中间层.md
+F223,数据的产权不在产生它的人手上,智能时代,吴军,strategy|consumer,platform-risk|trust|monetization,frameworks/F223-数据的产权不在产生它的人手上.md
