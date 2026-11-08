@@ -147,6 +147,14 @@ write_dim("by-year", "按年份索引", "按案例发生年份排序，看风口
           lambda r: r["year"], None)
 
 # 4. llms.txt
+_fw_files = sorted((BASE / "frameworks").glob("F*.md"))
+_fw_n = len(_fw_files)
+_fw_books = set()
+for _f in _fw_files:
+    _m = re.search(r"^book: (.+)$", _f.read_text(encoding="utf-8"), re.M)
+    if _m:
+        _fw_books.add(_m.group(1).strip())
+_fw_b = len(_fw_books)
 ll = ["# Startup Case Atlas", "",
       "> 419 个创业与生意案例的结构化中文库，覆盖失败复盘、独立开发变现、中国小店账本、"
       "真实生意收入数据。每个案例字段统一：行业、结局、地区、年份、关键数字、时间线、因果链、可用角度。",
@@ -170,7 +178,7 @@ ll = ["# Startup Case Atlas", "",
       "- [按失败机制](index/by-mechanism.md)", "- [按地区](index/by-region.md)",
       "- [按年份](index/by-year.md)", "",
       "## 框架卡", "",
-      "215 张判断工具卡，从 34 本书与课程里提取，每张 2000-2700 字，含「出处与边界」一节说明方法失效的条件。", "",
+      f"{_fw_n} 张判断工具卡，从 {_fw_b} 本书与课程里提取，每张 2000-2700 字，含「出处与边界」一节说明方法失效的条件。", "",
       "- [按书/课程浏览](index/frameworks-by-book.md)",
       "- [按领域](index/frameworks-by-doctrine.md)",
       "- [全部开场句](index/frameworks-hooks.md)——写稿时可直接念",
