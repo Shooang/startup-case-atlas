@@ -61,11 +61,21 @@ with (DATA / "frameworks.csv").open("w", newline="", encoding="utf-8") as f:
 # 索引一：按书
 by_book = collections.OrderedDict()
 for c in cards:
-    by_book.setdefault((c["book"], c["author"], c.get("edition", "")), []).append(c)
+    by_book.setdefault(c["book"], []).append(c)
 lines = ["# 按书浏览\n", f"> {len(cards)} 张框架卡，来自 {len(by_book)} 本书与课程。\n"]
-for (book, author, edition), items in sorted(by_book.items(), key=lambda x: -len(x[1])):
+for book, items in sorted(by_book.items(), key=lambda x: -len(x[1])):
+    # 同一本书可能有多位作者（如期刊合集），按出现顺序去重合并
+    authors, editions = [], []
+    for c in items:
+        if c["author"] not in authors:
+            authors.append(c["author"])
+        ed = c.get("edition", "")
+        if ed and ed not in editions:
+            editions.append(ed)
     lines.append(f"## {book}\n")
-    lines.append(f"{author} · {edition}\n")
+    a_txt = "、".join(authors) if len(authors) <= 2 else f"多位作者（{len(items)} 篇，逐卡标注）"
+    e_txt = "；".join(editions) if len(editions) <= 2 else f"{editions[0]} 等 {len(editions)} 期"
+    lines.append(f"{a_txt} · {e_txt}\n")
     lines.append("| ID | 标题 | 能用来判断什么 |")
     lines.append("| --- | --- | --- |")
     for c in items:

@@ -73,7 +73,7 @@ La tercera sección es deliberada. El mismo «perdió 700 mil» pesa muy distint
 
 ## Fichas de marco: la capa de juicio
 
-Un caso te dice cómo pasó algo; un marco te dice cómo juzgar lo siguiente. **154 fichas, extraídas de 13 libros y cursos.**
+Un caso te dice cómo pasó algo; un marco te dice cómo juzgar lo siguiente. **182 fichas, extraídas de 13 libros y cursos.**
 
 Cada ficha abre con una frase que se puede leer en voz alta, explica qué dice el marco, da tres o cuatro cosas que puedes juzgar con él y termina con **fuentes y límites**: dónde deja de funcionar el método.
 

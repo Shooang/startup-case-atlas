@@ -153,3 +153,31 @@ F159,安全边际就是用四毛买一块钱的东西,聪明的投资者,本杰�
 F160,防御型还是进取型，看的是愿意投入多少时间,聪明的投资者,本杰明·格雷厄姆,finance|decision,resource-allocation|focus|decision-making,frameworks/F160-防御型还是进取型看的是愿意投入多少时间.md
 F161,分散化对普通人不是可选项,聪明的投资者,本杰明·格雷厄姆,finance|strategy,resource-allocation|efficiency|decision-making,frameworks/F161-分散化对普通人不是可选项.md
 F162,通胀是对现金和债券持有人收的隐性税,聪明的投资者,本杰明·格雷厄姆,finance|strategy,cash-flow|pricing|consumer-behavior,frameworks/F162-通胀是对现金和债券持有人收的隐性税.md
+F163,四巨头没有发明新生意只是把老生意改道经过自己,互联网四大,斯科特·加洛韦,strategy|consumer,distribution|platform|moat|market-entry,frameworks/F163-四巨头没有发明新生意只是把老生意改道经过自己.md
+F164,T算法里故事不是包装是唯一能改变资本价格的变量,互联网四大,斯科特·加洛韦,strategy|finance,resource-allocation|cash-flow|scaling|market-definition,frameworks/F164-T算法里故事不是包装是唯一能改变资本价格的变量.md
+F165,亚马逊把利润换成规模再把规模换成别人进不来的位置,互联网四大,斯科特·加洛韦,strategy|operations,economies-of-scale|moat|infrastructure|cash-flow,frameworks/F165-亚马逊把利润换成规模再把规模换成别人进不来的位置.md
+F166,苹果卖的不是功能是身份所以它能拿走行业大部分利润,互联网四大,斯科特·加洛韦,pricing|consumer,consumer-behavior|pricing|moat|retention,frameworks/F166-苹果卖的不是功能是身份所以它能拿走行业大部分利润.md
+F167,第五巨头不会从四巨头里长出来会长在被它们忽略的物理世界,互联网四大,斯科特·加洛韦,strategy|finance,moat|market-entry|infrastructure|platform-risk|contrarian,frameworks/F167-第五巨头不会从四巨头里长出来会长在被它们忽略的物理世界.md
+F168,算法分发换掉的是编辑的判断 内容生意的成本结构也随之改变,字节跳动：从0到1的秘密,马修·布伦南,product|operations,curation|information-flow|cost-structure|distribution,frameworks/F168-算法分发换掉的是编辑的判断内容生意的成本结构也随之改变.md
+F169,冷启动不是抢用户 是先把某一类内容的供给填满,字节跳动：从0到1的秘密,马修·布伦南,product|marketing,product-market-fit|retention|curation|network-effect,frameworks/F169-冷启动不是抢用户是先把某一类内容的供给填满.md
+F170,壁垒不在算法 在创作者和观众谁都走不掉,字节跳动：从0到1的秘密,马修·布伦南,strategy|product,moat|network-effect|platform|competition,frameworks/F170-壁垒不在算法在创作者和观众谁都走不掉.md
+F171,组织跟不上产品 是因为用流程代替了指标,字节跳动：从0到1的秘密,马修·布伦南,organization|management,org-design|resource-allocation|decision-making|culture,frameworks/F171-组织跟不上产品是因为用流程代替了指标.md
+F172,出海不是把产品翻译一遍 是复制一套能迁移的增长方法,字节跳动：从0到1的秘密,马修·布伦南,strategy|marketing,market-entry|scaling|distribution|platform,frameworks/F172-出海不是把产品翻译一遍是复制一套能迁移的增长方法.md
+F173,学会失败的关键是让每次失败都小到能重来,创造,托尼·法德尔,product|decision,innovation|decision-making|resource-allocation,frameworks/F173-学会失败的关键是让每次失败都小到能重来.md
+F174,产品不是功能堆出来的 是先讲得清一个故事,创造,托尼·法德尔,product|marketing,consumer-behavior|market-definition|competition,frameworks/F174-产品不是功能堆出来的是先讲得清一个故事.md
+F175,数据和观点要分阶段用 用错阶段产品就平庸,创造,托尼·法德尔,decision|product,decision-making|product-market-fit|information-flow,frameworks/F175-数据和观点要分阶段用用错阶段产品就平庸.md
+F176,判断该不该卖公司 看的不是价格是使命还能不能加速,创造,托尼·法德尔,strategy|finance,exit|acquisition|culture,frameworks/F176-判断该不该卖公司看的不是价格是使命还能不能加速.md
+F177,从做产品到当CEO 中间那道坎是学会不管,创造,托尼·法德尔,management|product,leadership|org-design|scaling,frameworks/F177-从做产品到当CEO中间那道坎是学会不管.md
+F178,招聘要慢开人要快 中间那段时间最贵,创造,托尼·法德尔,organization|management,hiring|culture|scaling|talent,frameworks/F178-招聘要慢开人要快中间那段时间最贵.md
+F179,数据不会自动变成护城河 它要过七道关,哈佛商业评论（2020 年合订本）,安德烈·哈久、朱利安·赖特,strategy|product,moat|network-effect|competition,frameworks/F179-数据不会自动变成护城河它要过七道关.md
+F180,不写清成功长什么样 增长就会替你定义成功,哈佛商业评论（2020 年合订本）,乔希·巴伦、弗拉德·巴比里,strategy|organization,decision-making|org-design|resource-allocation,frameworks/F180-不写清成功长什么样增长就会替你定义成功.md
+F181,A/B 测试的三个雷区 每一个都能让结论反转,哈佛商业评论（2020 年合订本）,斯特凡·索凯、亚沃尔·波季诺夫、纪尧姆·圣雅克、马丁·廷利,decision|product,decision-making|information-flow|culture,frameworks/F181-AB测试的三个雷区每一个都能让结论反转.md
+F182,放任打折 等于把定价权交给灰色渠道,哈佛商业评论（2020 年合订本）,阿耶莱特·以色瑞利、小尤金·泽莱克,pricing|marketing,pricing|trust|platform-risk|regulation,frameworks/F182-放任打折等于把定价权交给灰色渠道.md
+F183,不在硅谷不是劣势 约束会替你筛掉错误的增长方式,哈佛商业评论（2020 年合订本）,埃里克斯·拉扎罗,strategy|organization,scaling|unit-economics|contrarian|talent,frameworks/F183-不在硅谷不是劣势约束会替你筛掉错误的增长方式.md
+F184,市场还没成形时 差异化是最贵的错误,哈佛商业评论（2020 年合订本）,罗里·麦克唐纳、卡特勒恩·艾森哈特,strategy|product,market-entry|innovation|contrarian|decision-making,frameworks/F184-市场还没成形时差异化是最贵的错误.md
+F185,文化不在口号里 在谁跟谁说话的语言里,哈佛商业评论（2020 年合订本）,马修·科里托雷、阿米尔·戈德伯格、萨米尔·斯里瓦斯塔瓦,organization|management,culture|org-design|information-flow|hiring,frameworks/F185-文化不在口号里在谁跟谁说话的语言里.md
+F186,数字化转型改的不是系统 是谁在用数据做决定,哈佛商业评论（2020 年合订本）,丽塔·麦格拉斯、瑞恩·麦克马纳斯,strategy|operations|decision,decision-making|resource-allocation|infrastructure,frameworks/F186-数字化转型改的不是系统是谁在用数据做决定.md
+F187,把自己当产品卖 先确认买方再谈价格,哈佛商学院不会教你的商业策略,马克·H·麦考梅克,marketing|pricing,market-definition|pricing|consumer-behavior,frameworks/F187-把自己当产品卖先确认买方再谈价格.md
+F188,谈判的关键不是说服 是知道对方还有什么别的选择,哈佛商学院不会教你的商业策略,马克·H·麦考梅克,decision|pricing,decision-making|pricing|trust,frameworks/F188-谈判的关键不是说服是知道对方还有什么别的选择.md
+F189,免费给人做事 买的是一个进场的资格,哈佛商学院不会教你的商业策略,马克·H·麦考梅克,strategy|marketing,cac|pricing|market-entry,frameworks/F189-免费给人做事买的是一个进场的资格.md
+F190,生意能做多大 取决于同一件事能重复做对多少次,哈佛商学院不会教你的商业策略,马克·H·麦考梅克,strategy|operations,scaling|focus|moat,frameworks/F190-生意能做多大取决于同一件事能重复做对多少次.md
