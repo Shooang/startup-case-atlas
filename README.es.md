@@ -71,6 +71,14 @@ La tercera sección es deliberada. El mismo «perdió 700 mil» pesa muy distint
 
 **Totales:** 419 casos · unos 576 000 caracteres de relato · 95 artículos archivados · 31 países y regiones · 13 sectores · 5 desenlaces · 12 mecanismos de fracaso.
 
+## Fichas de marco: la capa de juicio
+
+Un caso te dice cómo pasó algo; un marco te dice cómo juzgar lo siguiente. **102 fichas, extraídas de 13 libros y cursos.**
+
+Cada ficha abre con una frase que se puede leer en voz alta, explica qué dice el marco, da tres o cuatro cosas que puedes juzgar con él y termina con **fuentes y límites**: dónde deja de funcionar el método.
+
+[Por libro](index/frameworks-by-book.md) · [Por disciplina](index/frameworks-by-doctrine.md) · [Todas las aperturas](index/frameworks-hooks.md) · [Esquema de la ficha](docs/framework-schema.md)
+
 ## Para qué sirve
 
 **Para escribir.** Un caso es el esqueleto de un capítulo: los números ya están, los giros ya están, y a quién mostrárselo está en `angles`. Filtra por mecanismo y tendrás diez casos del mismo tipo para comparar en paralelo.

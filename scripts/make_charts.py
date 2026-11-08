@@ -74,7 +74,8 @@ def main():
     parts.append("</svg>")
 
     out = ROOT / "assets" / "failure-mechanisms.svg"
-    out.parent.mkdir(exist_ok=True)
+    if not out.parent.exists():
+        out.parent.mkdir()
     out.write_text("\n".join(parts), encoding="utf-8")
     print(f"written {out.relative_to(ROOT)}  {out.stat().st_size} bytes  {height}px")
 

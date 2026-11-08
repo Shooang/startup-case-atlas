@@ -1,0 +1,3 @@
+# Startup Case Atlas — Full Text
+
+> 419 个案例的完整正文。每条含 front matter 与三段正文。

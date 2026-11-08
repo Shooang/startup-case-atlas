@@ -168,7 +168,13 @@ ll = ["# Startup Case Atlas", "",
       "## 索引", "",
       "- [按行业](index/by-industry.md)", "- [按结局](index/by-outcome.md)",
       "- [按失败机制](index/by-mechanism.md)", "- [按地区](index/by-region.md)",
-      "- [按年份](index/by-year.md)", ""]
+      "- [按年份](index/by-year.md)", "",
+      "## 框架卡", "",
+      "102 张判断工具卡，从 13 本书与课程里提取，每张 2000-2700 字，含「出处与边界」一节说明方法失效的条件。", "",
+      "- [按书/课程浏览](index/frameworks-by-book.md)",
+      "- [按领域](index/frameworks-by-doctrine.md)",
+      "- [全部开场句](index/frameworks-hooks.md)——写稿时可直接念",
+      "- 批量：`data/frameworks.jsonl` / `data/frameworks.csv`", ""]
 (BASE / "llms.txt").write_text("\n".join(ll), encoding="utf-8")
 
 # 5. llms-full.txt（仅原创卡片，不含 legacy 全文）

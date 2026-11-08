@@ -1,16 +1,13 @@
 # Startup Case Atlas
 
-> 419 个创业与生意案例 + 67 张商业框架卡的结构化中文库。案例覆盖失败复盘、独立开发变现、中国小店账本、真实生意收入数据；框架卡从 11 本商业书提炼，每张含判断标准与失效边界。
-
-- 语言：案例正文为中文；英文概览见 `README.en.md`，其余语种为 `README.<lang>.md`
+> 419 个创业与生意案例的结构化中文库，覆盖失败复盘、独立开发变现、中国小店账本、真实生意收入数据。每个案例字段统一：行业、结局、地区、年份、关键数字、时间线、因果链、可用角度。
 
 ## 使用方式
 
 - 单篇：`cases/<分类>/<ID>-<标题>.md`，YAML front matter 可直接解析
 - 批量：`data/cases.jsonl`（每行一个案例，含全部字段）
 - 表格：`data/cases.csv`
-- 全文：`llms-full.txt`（全部案例正文拼接，约 57.6 万字）
-- 框架卡：`frameworks/<ID>-<标题>.md`，`data/frameworks.jsonl`（67 张，字段含 book/author/quote/locator/applies_to）
+- 全文：`llms-full.txt`（全部案例正文拼接，约 40 万字）
 
 ## 分类目录
 
@@ -21,15 +18,6 @@
 - [中文创业访谈与小店](cases/05-china-interviews/)：69 篇，2019 年后中国实体生意账本
 - [真实生意数据库](cases/06-starter-story/)：36 篇，带月收入与启动成本
 
-## 框架卡（67 张，来自 11 本书）
-
-- `data/frameworks.jsonl`：每行一张卡，含出处、定位、判断用途
-- [按书浏览](index/frameworks-by-book.md)
-- [按领域](index/frameworks-by-doctrine.md)
-- [开场句汇总](index/frameworks-hooks.md)：每张卡的可念开场
-- [卡片规范](docs/framework-schema.md)：字段定义与写作标准
-- 注意：每张卡末尾「出处与边界」写明该框架的适用条件与失效场景，引用时不要只取结论
-
 ## 索引
 
 - [按行业](index/by-industry.md)
@@ -37,3 +25,12 @@
 - [按失败机制](index/by-mechanism.md)
 - [按地区](index/by-region.md)
 - [按年份](index/by-year.md)
+
+## 框架卡
+
+102 张判断工具卡，从 13 本书与课程里提取，每张 2000-2700 字，含「出处与边界」一节说明方法失效的条件。
+
+- [按书/课程浏览](index/frameworks-by-book.md)
+- [按领域](index/frameworks-by-doctrine.md)
+- [全部开场句](index/frameworks-hooks.md)——写稿时可直接念
+- 批量：`data/frameworks.jsonl` / `data/frameworks.csv`

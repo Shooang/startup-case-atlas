@@ -1,19 +1,19 @@
 {
-  "cards": 67,
-  "books": 11,
-  "avg_chars": 2224,
+  "cards": 102,
+  "books": 13,
+  "avg_chars": 2310,
   "min_chars": 2000,
   "max_chars": 2700,
   "doctrines": {
-    "strategy": 41,
-    "management": 20,
-    "decision": 18,
-    "finance": 15,
-    "product": 14,
-    "organization": 12,
-    "operations": 9,
-    "consumer": 8,
-    "pricing": 6,
-    "marketing": 6
+    "strategy": 62,
+    "decision": 29,
+    "management": 27,
+    "product": 22,
+    "finance": 19,
+    "operations": 18,
+    "organization": 17,
+    "consumer": 10,
+    "pricing": 8,
+    "marketing": 7
   }
 }
