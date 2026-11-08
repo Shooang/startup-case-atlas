@@ -8,7 +8,7 @@
 
 **246 of them (59%) died of the same thing** — building something nobody wanted, and spending the money finding that out.
 
-**Plus 182 framework cards** — judgement tools extracted from 13 books and courses. Cases are evidence; frameworks are judgement.
+**Plus 201 framework cards** — judgement tools extracted from 31 books and courses. Cases are evidence; frameworks are judgement.
 
 [Browse by failure mechanism](index/by-mechanism.md) · [By industry](index/by-industry.md) · [By region](index/by-region.md) · [Get the data](data/cases.jsonl) · [Feed a model](llms.txt)
 
@@ -26,7 +26,7 @@
 | A specific cut | [Industry](index/by-industry.md) · [Outcome](index/by-outcome.md) · [Region](index/by-region.md) · [Year](index/by-year.md) |
 | The data | [`data/cases.jsonl`](data/cases.jsonl) — 419 lines, one case per line, all fields |
 | An LLM | Read [`llms.txt`](llms.txt) (1.3 KB) first, then [`llms-full.txt`](llms-full.txt) (1.7 MB) if context allows |
-| A judgement tool | [Browse frameworks by book](index/frameworks-by-book.md) — 182 cards from 27 books and courses |
+| A judgement tool | [Browse frameworks by book](index/frameworks-by-book.md) — 201 cards from 31 books and courses |
 
 ```bash
 git clone https://github.com/Shooang/startup-case-atlas.git
@@ -74,7 +74,7 @@ That third section is deliberate. "Lost 700k" carries very different weight depe
 
 ## Framework cards: the judgement layer
 
-A case tells you how something happened. A framework tells you how to judge the next one. **182 cards, drawn from 27 books and courses.**
+A case tells you how something happened. A framework tells you how to judge the next one. **201 cards, drawn from 31 books and courses.**
 
 Each card opens with a line you can read aloud, explains what the framework actually says, gives three or four things you can judge with it, and ends with **sources and limits** — where the method stops working.
 
@@ -100,9 +100,13 @@ Each card opens with a line you can read aloud, explains what the framework actu
 | The Intelligent Investor · Graham | 5 | Mr Market quotes moods not value, margin of safety, defensive versus enterprising |
 | The Four · Galloway | 5 | In the T algorithm story is the only variable that reprices capital, Amazon trades profit for scale, Apple charges willingness to pay |
 | ByteDance · Brennan | 5 | The algorithm replaced the editor's judgement, cold start means filling supply first, the moat is two-sided lock-in |
+| The Secret of Silicon Valley · Wu Jun | 5 | Institutions decide whether talent can move, bankruptcy is a line on the next fundraise, predictable and unpredictable systems need different methods |
+| Team of Teams · McChrystal | 5 | Predictive management fails in complex environments, silos are created by appraisal, empowerment moves decision rights, information and competence together |
+| Letters from Silicon Valley · Wu Jun | 5 | Saving people money and getting them to spend are two businesses, cut the options, misallocated cost kills companies, capital stack sets tolerance for error |
 | Rich Habits · Corley | 4 | Habits precede outcomes, the 77% versus 23% gap, change the trigger not the will |
 | Earn Money Well · Jian Qi | 4 | Split income into four buckets, the emergency fund, insurance buys tail risk |
 | What They Don't Teach You at Harvard Business School · McCormack | 4 | Find the buyer before naming the price, negotiation is about alternatives, free work buys a seat at the table |
+| One Thousand and One Nights at NetEase · NetEase Hangzhou PMO | 4 | Keep only the process that can change a decision, when you lack authority the seat itself is authority, management changes with the product stage |
 | 33 Personal Finance Lessons Before 35 · Zeng Zhiyao | 3 | The order of payday, bookkeeping to cut the 20%, allocation before 30 buys options |
 | Managing in the 21st Century · Drucker | 3 | Seven management assumptions expired, five certainties of strategy, share of disposable income |
 | Free · Chris Anderson | 2 | Four subsidy structures, the 5% rule |
