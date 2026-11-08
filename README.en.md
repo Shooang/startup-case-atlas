@@ -8,7 +8,7 @@
 
 **246 of them (59%) died of the same thing** — building something nobody wanted, and spending the money finding that out.
 
-**Plus 102 framework cards** — judgement tools extracted from 13 books and courses. Cases are evidence; frameworks are judgement.
+**Plus 106 framework cards** — judgement tools extracted from 13 books and courses. Cases are evidence; frameworks are judgement.
 
 [Browse by failure mechanism](index/by-mechanism.md) · [By industry](index/by-industry.md) · [By region](index/by-region.md) · [Get the data](data/cases.jsonl) · [Feed a model](llms.txt)
 
@@ -26,7 +26,7 @@
 | A specific cut | [Industry](index/by-industry.md) · [Outcome](index/by-outcome.md) · [Region](index/by-region.md) · [Year](index/by-year.md) |
 | The data | [`data/cases.jsonl`](data/cases.jsonl) — 419 lines, one case per line, all fields |
 | An LLM | Read [`llms.txt`](llms.txt) (1.3 KB) first, then [`llms-full.txt`](llms-full.txt) (1.7 MB) if context allows |
-| A judgement tool | [Browse frameworks by book](index/frameworks-by-book.md) — 102 cards from 13 books and courses |
+| A judgement tool | [Browse frameworks by book](index/frameworks-by-book.md) — 106 cards from 13 books and courses |
 
 ```bash
 git clone https://github.com/Shooang/startup-case-atlas.git
@@ -74,13 +74,13 @@ That third section is deliberate. "Lost 700k" carries very different weight depe
 
 ## Framework cards: the judgement layer
 
-A case tells you how something happened. A framework tells you how to judge the next one. **102 cards, drawn from 13 books and courses.**
+A case tells you how something happened. A framework tells you how to judge the next one. **106 cards, drawn from 13 books and courses.**
 
 Each card opens with a line you can read aloud, explains what the framework actually says, gives three or four things you can judge with it, and ends with **sources and limits** — where the method stops working.
 
 | Book / course | Cards | What you can judge with it |
 | --- | --- | --- |
-| Business Thinking Case Notes · Cao Xiongfeng | 28 | Four rulers of value creation, tear cost down to physical limits, displacement means taking what the incumbent abandoned |
+| Business Thinking Case Notes · Cao Xiongfeng | 32 | Four rulers of value creation, tear cost down to physical limits, displacement means taking what the incumbent abandoned |
 | Winning · Jack Welch | 10 | The vitality curve's hard preconditions and costs, two ways budgets go wrong, seven acquisition traps |
 | Lean Business Thinking · Cheng Hao | 10 | Real demand has three thresholds, validate in two days not two months, only three ways to acquire |
 | The Long Tail · Chris Anderson | 9 | Long tails need three costs to fall together, 80/20 is usually misread, 98% of titles sell each quarter |
