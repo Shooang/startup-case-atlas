@@ -73,9 +73,50 @@ La tercera sección es deliberada. El mismo «perdió 700 mil» pesa muy distint
 
 ## Fichas de marco: la capa de juicio
 
-Un caso te dice cómo pasó algo; un marco te dice cómo juzgar lo siguiente. **215 fichas, extraídas de 13 libros y cursos.**
+Un caso te dice cómo pasó algo; un marco te dice cómo juzgar lo siguiente. **225 fichas, extraídas de 38 libros y cursos.**
 
-Cada ficha abre con una frase que se puede leer en voz alta, explica qué dice el marco, da tres o cuatro cosas que puedes juzgar con él y termina con **fuentes y límites**: dónde deja de funcionar el método.
+Cada ficha abre con una frase que se puede leer en voz alta, explica qué dice el marco, da tres o cuatro cosas que puedes juzgar con él y termina con **fuentes y límites**: dónde deja de funcionar el método. Los cuerpos de las fichas están en chino; el campo `book` del índice mantiene el título original.
+
+| Libro / curso | Fichas | Qué puedes juzgar |
+| --- | --- | --- |
+| 商业思维案例笔记 (notas de casos) · Cao Xiongfeng | 32 | Cuatro reglas de la creación de valor, desmontar el coste hasta el límite físico, desplazarse es ocupar el tramo que el incumbente soltó |
+| Winning · Jack Welch | 10 | La curva de vitalidad exige precondiciones y cobra un precio, dos maneras de arruinar un presupuesto, siete trampas de adquisición |
+| 精益商业思维 (mentalidad lean) · Cheng Hao | 10 | La demanda real tiene tres umbrales altos, validar en dos días y no en dos meses, solo tres vías de captación |
+| La larga cola · Chris Anderson | 9 | La cola larga exige que tres costes caigan a la vez, el 80/20 suele leerse al revés, el 98 % de los productos se vende cada trimestre |
+| The Hard Thing About Hard Things · Horowitz | 8 | Despedir de una sola vez y del todo, contar toda la mala noticia, vender o no se decide con dos preguntas |
+| De cero a uno · Peter Thiel | 8 | Cuatro rasgos del monopolio, sin secretos no hay cero a uno, las ventas no son un apéndice |
+| The PayPal Wars · Eric Jackson | 8 | Las subvenciones compran densidad de red, en plataforma ajena las reglas las cambia el dueño, el fraude es una partida presupuestada de I+D |
+| Harvard Business Review 2020 · doce números | 8 | Los datos no son foso por defecto, el éxito sin definición lo define el crecimiento, tres trampas del test A/B, descontar es entregar el precio al canal |
+| 钱从哪里来 (¿de dónde viene el dinero?) · Xiang Shuai | 7 | Las carreras o hacen bola de nieve o empujan piedra, la ciudad fija el suelo y el techo de tus ingresos |
+| 跟着高手学复盘 (aprender revisiones de los maestros) · Zhang Peng | 7 | En una revisión, atiende primero el miedo; la franqueza es diseño institucional; quién está en la sala pesa más que qué se pregunta |
+| La psicología del dinero · Housel | 6 | La suerte tiene la misma forma que el riesgo, el interés compuesto lleva décadas invisible, la tasa de ahorro manda sobre la de rentabilidad |
+| Poor Charlie's Almanack · Munger | 6 | Con solo un martillo todo parece clavo, piensa al revés, el borde del círculo de competencia importa más que su tamaño |
+| Build · Fadell | 6 | Fracasa en tamaño reintentable, un producto empieza siendo una historia, datos y opiniones pertenecen a etapas distintas, contrata despacio y despide rápido |
+| Un perro llamado Dinero (小狗钱钱) · Schäfer | 5 | Alimenta la oca antes de perseguir rentabilidades, la regla de las 72 horas, la deuda no se paga volcando todo lo que tienes |
+| 定投十年财务自由 (diez años de inversión periódica) · 银行螺丝钉 | 5 | La aportación periódica gana comprando barato, el tramo bajista de la curva sonriente, la regla de venta se escribe antes |
+| El almanaque de Naval Ravikant · Naval | 5 | Conocimiento propio, tres clases de apalancamiento, no alquiles tu tiempo, solo los juegos largos componen |
+| 房价的逻辑 (la lógica del precio de la vivienda) · Xu Yuan | 5 | Un ratio precio/ingresos alto no es burbuja, primero ciudad, luego barrio, por último piso |
+| El inversor inteligente · Graham | 5 | El señor Mercado cotiza estados de ánimo, margen de seguridad, defensivo contra emprendedor |
+| The Four · Galloway | 5 | En el algoritmo T solo la historia reprecia el capital, Amazon cambia beneficio por escala, Apple cobra disposición a pagar |
+| Attention Factory (字节跳动) · Brennan | 5 | El algoritmo sustituyó el criterio del editor, el arranque en frío es llenar primero la oferta, el foso es el bloqueo de dos caras |
+| 硅谷之谜 (el enigma de Silicon Valley) · Wu Jun | 5 | Las instituciones deciden si el talento circula, la quiebra es una línea del currículum en la próxima ronda, lo predecible y lo impredecible piden métodos distintos |
+| Team of Teams · McChrystal | 5 | La gestión predictiva falla en lo intrincado, los silos los crea la evaluación, el empoderamiento baja decisión, información y capacidad a la vez |
+| Introducción al pensamiento general de sistemas · Weinberg | 5 | Al doble de tamaño, el cuádruple de cómputo, el mecanicismo aguanta hasta que el acoplamiento aprieta, dónde cortas decide qué ves |
+| La quinta disciplina · Senge | 5 | Las cinco disciplinas son un solo kit, siete discapacidades de aprendizaje, dibuja el bucle para hallar la palanca, la visión es una tensión estirada |
+| Cartas desde Silicon Valley (吴军硅谷来信) · Wu Jun | 5 | Ahorrarle dinero a la gente y hacerle gastar son dos negocios, recorta opciones, el coste mal colocado mata el proyecto, la pila de capital fija la tolerancia al error |
+| Escuela de negocio de cinco minutos, práctica (刘润5分钟商学院实战篇) · Liu Run | 5 | No todo producto tiene que ganar dinero pero sí tener un papel, pagar por referidos los mata, la comisión fija un múltiplo percibido |
+| Hábitos de riqueza (富有的习惯) · Corley | 4 | Los hábitos preceden a los resultados, el hueco del 77 % contra el 23 %, cambia el disparador, no la voluntad |
+| 好好赚钱 (gana bien tu dinero) · Jian Qi | 4 | Divide la renta en cuatro, el fondo de emergencia evita vender en el peor momento, el seguro compra el riesgo extremo |
+| Lo que no te enseñan en Harvard Business School · McCormack | 4 | Confirma al comprador antes del precio, negociar es comparar alternativas, el trabajo gratis compra un asiento |
+| Las mil y una noches de NetEase (网易一千零一夜) · PMO de NetEase Hangzhou | 4 | Guarda solo el proceso que cambia una decisión, sin autoridad el puesto ya es poder, la gestión cambia con la etapa del producto |
+| La era de la inteligencia (智能时代) · Wu Jun | 4 | El umbral del big data es el conjunto completo y la correlación, la máquina sustituye el juicio datificable, la revolución vacía primero la capa media, los datos son de quien los retiene |
+| Profit from the Positive (这样带出高估值团队) · Greenberg & Maymin | 3 | Una reunión cuesta personas por horas, el ánimo del líder se contagia, una evaluación que no cambia conducta es peor que ninguna |
+| 33 lecciones de finanzas antes de los 35 (35岁前要上的33堂理财课) · Zeng Zhiyao | 3 | El orden del día de pago, la contabilidad para recortar ese 20 %, la asignación antes de los 30 compra opciones |
+| Los desafíos de la gestión en el siglo XXI · Drucker | 3 | Siete supuestos viejos caducaron, cinco certezas de la estrategia, la proporción de renta disponible |
+| Free · Chris Anderson | 2 | Cuatro estructuras de subsidio, la regla del 5 % |
+| Apuntes de creación de Xiaomi · Lei Jun | 2 | El credo de siete palabras va de eficiencia y confianza, «poder con todo» es no saber qué hacer |
+| El plan de 100 días del nuevo líder · Bradt et al. | 1 | Los primeros cien días son para preguntar, no para reorganizar |
+| Sé el jefe por el que todos quieren trabajar · Gentry | 1 | El ascenso te quita primero la condición de par |
 
 [Por libro](index/frameworks-by-book.md) · [Por disciplina](index/frameworks-by-doctrine.md) · [Todas las aperturas](index/frameworks-hooks.md) · [Esquema de la ficha](docs/framework-schema.md)
 
