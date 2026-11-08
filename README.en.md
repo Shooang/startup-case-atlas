@@ -8,6 +8,8 @@
 
 **246 of them (59%) died of the same thing** — building something nobody wanted, and spending the money finding that out.
 
+**Plus 67 framework cards** — judgement tools extracted from 11 business books. Cases are evidence; frameworks are judgement.
+
 [Browse by failure mechanism](index/by-mechanism.md) · [By industry](index/by-industry.md) · [By region](index/by-region.md) · [Get the data](data/cases.jsonl) · [Feed a model](llms.txt)
 
 <img src="assets/failure-mechanisms.svg" width="780" alt="Failure mechanisms across 419 cases: product-market fit 246, over-scaling 120, cost structure 118, single traffic source 108, cash-flow crunch 93">
@@ -24,6 +26,7 @@
 | A specific cut | [Industry](index/by-industry.md) · [Outcome](index/by-outcome.md) · [Region](index/by-region.md) · [Year](index/by-year.md) |
 | The data | [`data/cases.jsonl`](data/cases.jsonl) — 419 lines, one case per line, all fields |
 | An LLM | Read [`llms.txt`](llms.txt) (1.3 KB) first, then [`llms-full.txt`](llms-full.txt) (1.7 MB) if context allows |
+| A judgement tool | [Browse frameworks by book](index/frameworks-by-book.md) — 67 cards from 11 books |
 
 ```bash
 git clone https://github.com/Shooang/startup-case-atlas.git
@@ -68,6 +71,29 @@ That third section is deliberate. "Lost 700k" carries very different weight depe
 | [`legacy/articles/`](legacy/articles/) | 95 | Archived early Chinese web entrepreneurship stories, most original links dead | 2000–2012 |
 
 **Totals:** 419 cases · ~576,000 characters of case text · 95 archived articles · 31 countries and regions · 13 industries · 5 outcome types · 12 failure mechanisms.
+
+## Framework cards: the judgement layer
+
+A case tells you how something happened. A framework tells you how to judge the next one. **67 cards, drawn from 11 books.**
+
+Each card opens with a line you can read aloud, explains what the framework actually says, gives three or four things you can judge with it, and ends with **sources and limits** — where the method stops working.
+
+| Book | Cards | What you can judge with it |
+| --- | --- | --- |
+| Winning · Jack Welch | 10 | The vitality curve's hard preconditions and costs, two ways budgets go wrong, seven acquisition traps |
+| Lean Business Thinking · Cheng Hao | 10 | Real demand has three thresholds, validate in two days not two months, only three ways to acquire |
+| The Long Tail · Chris Anderson | 9 | Long tails need three costs to fall together, 80/20 is usually misread, 98% of titles sell each quarter |
+| The Hard Thing About Hard Things · Horowitz | 8 | Lay off once and completely, tell the whole bad news, only two questions decide whether to sell |
+| Zero to One · Peter Thiel | 8 | Four features of monopoly, no secrets no zero-to-one, sales is not an appendage |
+| The PayPal Wars · Eric Jackson | 8 | Subsidies buy network density, on someone else's platform they set the rules, fraud loss is a budget line |
+| Where Does Money Come From · Xiang Shuai | 7 | Careers snowball or push a rock, your city sets your income floor and ceiling |
+| Managing in the 21st Century · Drucker | 3 | Seven management assumptions expired, five certainties of strategy, share of disposable income |
+| Free · Chris Anderson | 2 | Four subsidy structures, the 5% rule |
+| Xiaomi Startup Notes · Lei Jun | 2 | The seven-word creed is about efficiency and trust, "able to do anything" means nothing to do |
+
+[By book](index/frameworks-by-book.md) · [By doctrine](index/frameworks-by-doctrine.md) · [All opening lines](index/frameworks-hooks.md) · [Card schema](docs/framework-schema.md)
+
+Cases and frameworks are different tools: **cases are evidence, frameworks are judgement.** One card plus two matching cases is a full episode.
 
 ## What you can do with it
 
