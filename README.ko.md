@@ -2,7 +2,7 @@
 
 [中文](README.md) · [English](README.en.md) · [日本語](README.ja.md) · **한국어** · [Español](README.es.md)
 
-![cases](https://img.shields.io/badge/cases-419-D85A30?style=flat-square) ![chars](https://img.shields.io/badge/text-576k_chars-6B7280?style=flat-square) ![license](https://img.shields.io/badge/license-CC_BY--SA_4.0-0F6E56?style=flat-square) ![llms](https://img.shields.io/badge/llms.txt-ready-534AB7?style=flat-square)
+![cases](https://img.shields.io/badge/cases-419-D85A30?style=flat-square) ![frameworks](https://img.shields.io/badge/frameworks-231-1D4ED8?style=flat-square) ![chars](https://img.shields.io/badge/text-576k_chars-6B7280?style=flat-square) ![license](https://img.shields.io/badge/license-CC_BY--SA_4.0-0F6E56?style=flat-square) ![llms](https://img.shields.io/badge/llms.txt-ready-534AB7?style=flat-square)
 
 **419개의 사업, 모두 장부가 붙어 있습니다. 얼마를 들였고, 얼마를 벌었고, 어느 대목에서 돈이 끊겼는지.**
 
@@ -73,7 +73,7 @@ key_numbers: 总投入150多万（加盟费十几万＋装修40多万＋备货�
 
 ## 프레임 카드: 사례 뒤에 있는 판단 도구
 
-사례는 '무슨 일이 있었는지'를 알려주고, 프레임은 '다음에 같은 일이 생기면 어떻게 판단할지'를 알려줍니다. **225장, 38권의 책과 강의에서 뽑았습니다.**
+사례는 '무슨 일이 있었는지'를 알려주고, 프레임은 '다음에 같은 일이 생기면 어떻게 판단할지'를 알려줍니다. **231장, 40권의 책과 강의에서 뽑았습니다.**
 
 각 카드는 바로 읽을 수 있는 첫 문장, 프레임의 내용, 이것으로 판단할 수 있는 3~4가지, 마지막으로 **출처와 한계** — 이 방법이 통하지 않는 조건 — 로 구성됩니다. 카드 본문은 중국어이며, 색인의 `book` 필드도 중국어 제목으로 표기됩니다.
 
@@ -111,6 +111,8 @@ key_numbers: 总投入150多万（加盟费十几万＋装修40多万＋备货�
 | One Thousand and One Nights at NetEase（网易一千零一夜）· 넷이즈 항저우 PMO | 4 | 결정을 바꿀 수 있는 프로세스만 남긴다, 권한이 없을 때는 자리 자체가 권한, 제품 단계가 바뀌면 관리도 바꾼다 |
 | The Intelligence Era（智能时代）· 우쥔 | 4 | 빅데이터의 문턱은 전수와 상관성, 기계가 대체하는 것은 데이터화 가능한 판단, 혁명은 먼저 중간층을 비운다, 데이터 소유권은 만든 사람에게 없다 |
 | Profit from the Positive（这样带出高估值团队）· 그린버그 & 메이민 | 3 | 회의 비용은 인원×시간, 리더의 감정은 전염된다, 행동을 바꾸지 못하는 평가는 안 하는 만 못하다 |
+| 三步打造高绩效团队（3단계 고성과 팀）· 무사 외 | 3 | 팀 규칙은 대화로 만든다, 가상 팀은 신뢰로 지불한다, 스타트업 문화는 어차피 자란다 |
+| 领导力的精进（리더십의 정진）· 바이햄 & 웰린스 | 3 | 리더는 영웅이 아니라 촉매다, 5단계 대화 로드맵, 사람이 떠나는 곳은 직속 리더 |
 | 33 Personal Finance Lessons Before 35（35岁前要上的33堂理财课）· 쩡즈야오 | 3 | 월급날의 순서, 가계부는 그 20%를 자르기 위한 것, 서른 전의 배분이 선택권을 정한다 |
 | Managing in the 21st Century · 피터 드러커 | 3 | 일곱 가지 낡은 관리 가정은 모두 실패, 전략의 다섯 가지 필연, 가처분소득의 비율 |
 | Free · 크리스 앤더슨 | 2 | 네 가지 보조 구조, 5% 법칙 |

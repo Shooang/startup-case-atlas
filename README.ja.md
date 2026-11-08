@@ -2,7 +2,7 @@
 
 [中文](README.md) · [English](README.en.md) · **日本語** · [한국어](README.ko.md) · [Español](README.es.md)
 
-![cases](https://img.shields.io/badge/cases-419-D85A30?style=flat-square) ![chars](https://img.shields.io/badge/text-576k_chars-6B7280?style=flat-square) ![license](https://img.shields.io/badge/license-CC_BY--SA_4.0-0F6E56?style=flat-square) ![llms](https://img.shields.io/badge/llms.txt-ready-534AB7?style=flat-square)
+![cases](https://img.shields.io/badge/cases-419-D85A30?style=flat-square) ![frameworks](https://img.shields.io/badge/frameworks-231-1D4ED8?style=flat-square) ![chars](https://img.shields.io/badge/text-576k_chars-6B7280?style=flat-square) ![license](https://img.shields.io/badge/license-CC_BY--SA_4.0-0F6E56?style=flat-square) ![llms](https://img.shields.io/badge/llms.txt-ready-534AB7?style=flat-square)
 
 **419 の事業、すべてに帳簿がついている。いくらかけて、いくら売れて、どの一手で金が尽きたのか。**
 
@@ -73,7 +73,7 @@ key_numbers: 总投入150多万（加盟费十几万＋装修40多万＋备货�
 
 ## フレームカード：事例の背後にある判断道具
 
-事例は「何が起きたか」を教え、フレームは「次に同じことが起きたらどう判断するか」を教えます。**225 枚、38 冊の書籍と講座から。**
+事例は「何が起きたか」を教え、フレームは「次に同じことが起きたらどう判断するか」を教えます。**231 枚、40 冊の書籍と講座から。**
 
 各カードは、そのまま読み上げられる書き出し、フレームの中身、これで何を判断できるか 3〜4 条、最後に**出典と限界**——この方法が効かなくなる条件——で構成されています。カード本文は中国語で、書名は索引の `book` フィールド（中国語表記）と突き合わせて検索できます。
 
@@ -111,6 +111,8 @@ key_numbers: 总投入150多万（加盟费十几万＋装修40多万＋备货�
 | ネットイース千一夜（网易一千零一夜）· 網易杭州PMO | 4 | 意思決定を変えられる工程だけを残す、権限がないときは席そのものが権限、製品の段階が変われば管理も変わる |
 | 智能时代（智能の時代）· 呉軍 | 4 | ビッグデータの敷居は全数と相関、機械が置き換えるのはデータ化できる判断、革命はまず中間層を空洞化する、データの権利は作った人にない |
 | ポジティブの力 · グリーンバーグ&メイミン | 3 | 会議のコストは人数×時間、リーダーの感情は伝染する、行動を変えない考課はやらない方がまし |
+| 三步打造高绩效团队（3ステップで高成果チーム）· ムーサほか | 3 | チームの規則は対話で作る、仮想チームの代償は信頼、スタートアップの文化は勝手に育つ |
+| 领导力的精进（リーダーシップの精進）· 白翰姆&威林思 | 3 | リーダーは触媒であり英雄ではない、五段階の対話ロードマップ、社員が辞めるのは直属のリーダー |
 | 35歳までに受ける33の金銭教室 · 曾志堯 | 3 | 給料日の順番、家計簿はあの 20% を削るために、30歳までの配分が選択肢を決める |
 | 21世紀のマネジメント挑戦 · ピーター・ドラッカー | 3 | 七つの旧前提はすべて失効、戦略の五つの確実性、可処分所得の割合 |
 | FREE · クリス・アンダーソン | 2 | 四つの補助構造、5% の法則 |

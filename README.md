@@ -2,13 +2,13 @@
 
 中文 · [English](README.en.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Español](README.es.md)
 
-![cases](https://img.shields.io/badge/cases-419-D85A30?style=flat-square) ![chars](https://img.shields.io/badge/text-576k_chars-6B7280?style=flat-square) ![license](https://img.shields.io/badge/license-CC_BY--SA_4.0-0F6E56?style=flat-square) ![llms](https://img.shields.io/badge/llms.txt-ready-534AB7?style=flat-square)
+![cases](https://img.shields.io/badge/cases-419-D85A30?style=flat-square) ![frameworks](https://img.shields.io/badge/frameworks-231-1D4ED8?style=flat-square) ![chars](https://img.shields.io/badge/text-576k_chars-6B7280?style=flat-square) ![license](https://img.shields.io/badge/license-CC_BY--SA_4.0-0F6E56?style=flat-square) ![llms](https://img.shields.io/badge/llms.txt-ready-534AB7?style=flat-square)
 
 **419 个生意，每一个都记了账：花了多少，挣了多少，钱在哪一步没的。**
 
 其中 **246 个（59%）死于同一件事**——做了一件没人要的东西，然后在发现这件事的过程中把钱用完了。
 
-**另有 225 张框架卡**——从 38 本书与课程里提出来的判断工具。案例是证据，框架是判断。
+**另有 231 张框架卡**——从 40 本书与课程里提出来的判断工具。案例是证据，框架是判断。
 
 [按失败机制浏览](index/by-mechanism.md) · [按行业](index/by-industry.md) · [按地区](index/by-region.md) · [拿数据](data/cases.jsonl) · [喂给模型](llms.txt)
 
@@ -24,7 +24,7 @@
 | 找特定角度 | [按行业](index/by-industry.md) · [按结局](index/by-outcome.md) · [按地区](index/by-region.md) · [按年份](index/by-year.md) |
 | 拿数据 | [`data/cases.jsonl`](data/cases.jsonl)——419 行，每行一个案例，字段齐全 |
 | 喂给模型 | 先读 [`llms.txt`](llms.txt)（1.3 KB），上下文够再上 [`llms-full.txt`](llms-full.txt)（1.7 MB） |
-| 找一个判断工具 | [按书浏览框架卡](index/frameworks-by-book.md)——225 张，从 38 本书与课程里提的 |
+| 找一个判断工具 | [按书浏览框架卡](index/frameworks-by-book.md)——231 张，从 40 本书与课程里提的 |
 
 ```bash
 git clone https://github.com/Shooang/startup-case-atlas.git
@@ -71,7 +71,7 @@ key_numbers: 总投入150多万（加盟费十几万＋装修40多万＋备货�
 
 ## 框架卡：案例背后的判断工具
 
-案例告诉你一件事是怎么发生的，框架告诉你下次遇到同类的事该怎么判断。**225 张卡，来自 38 本书与课程。**
+案例告诉你一件事是怎么发生的，框架告诉你下次遇到同类的事该怎么判断。**231 张卡，来自 40 本书与课程。**
 
 一张卡长这样：一个能直接念的开场，一段讲清这个框架到底在说什么，三到四条能拿来判断什么，最后是**出处与边界**——写明这方法在什么情况下不管用。
 
@@ -109,6 +109,8 @@ key_numbers: 总投入150多万（加盟费十几万＋装修40多万＋备货�
 | 网易一千零一夜 · 网易杭研项目管理部 | 4 | 流程只留到能改变一个决定为止、无权力时位置本身就是权力、产品换阶段管理要换一套 |
 | 智能时代 · 吴军 | 4 | 大数据的门槛是全集与相关性、机器替代的是能被数据化的判断、技术革命先掏空中间层、数据产权不在产生它的人手上 |
 | 这样带出高估值团队 · 格林伯格、梅敏 | 3 | 会议成本是人数乘小时、领导的情绪会传染、只打分不改变行为的考核不如不做 |
+| 三步打造高绩效团队 · 穆萨、波伊尔、纽贝里 | 3 | 团队规则是对话谈出来的、虚拟团队用信任付账、初创文化反正会长出来 |
+| 领导力的精进 · 白翰姆、威林思 | 3 | 领导者是催化剂不是英雄、五步对话路线图、员工离开的是直接领导者 |
 | 35岁前要上的33堂理财课 · 曾志尧 | 3 | 发薪日的顺序、记账是为了砍掉那 20%、三十岁前的配置决定选择权 |
 | 21世纪的管理挑战 · 德鲁克 | 3 | 七条旧管理假设全失效、战略的五个必然、可支配收入的比例 |
 | 免费：商业的未来 · 安德森 | 2 | 四种补贴结构、5% 定律 |

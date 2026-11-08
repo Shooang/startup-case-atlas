@@ -2,7 +2,7 @@
 
 [中文](README.md) · [English](README.en.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · **Español**
 
-![cases](https://img.shields.io/badge/cases-419-D85A30?style=flat-square) ![chars](https://img.shields.io/badge/text-576k_chars-6B7280?style=flat-square) ![license](https://img.shields.io/badge/license-CC_BY--SA_4.0-0F6E56?style=flat-square) ![llms](https://img.shields.io/badge/llms.txt-ready-534AB7?style=flat-square)
+![cases](https://img.shields.io/badge/cases-419-D85A30?style=flat-square) ![frameworks](https://img.shields.io/badge/frameworks-231-1D4ED8?style=flat-square) ![chars](https://img.shields.io/badge/text-576k_chars-6B7280?style=flat-square) ![license](https://img.shields.io/badge/license-CC_BY--SA_4.0-0F6E56?style=flat-square) ![llms](https://img.shields.io/badge/llms.txt-ready-534AB7?style=flat-square)
 
 **419 negocios, cada uno con sus cuentas: cuánto costó, cuánto ingresó y en qué paso exacto se acabó el dinero.**
 
@@ -73,7 +73,7 @@ La tercera sección es deliberada. El mismo «perdió 700 mil» pesa muy distint
 
 ## Fichas de marco: la capa de juicio
 
-Un caso te dice cómo pasó algo; un marco te dice cómo juzgar lo siguiente. **225 fichas, extraídas de 38 libros y cursos.**
+Un caso te dice cómo pasó algo; un marco te dice cómo juzgar lo siguiente. **231 fichas, extraídas de 40 libros y cursos.**
 
 Cada ficha abre con una frase que se puede leer en voz alta, explica qué dice el marco, da tres o cuatro cosas que puedes juzgar con él y termina con **fuentes y límites**: dónde deja de funcionar el método. Los cuerpos de las fichas están en chino; el campo `book` del índice mantiene el título original.
 
@@ -111,6 +111,8 @@ Cada ficha abre con una frase que se puede leer en voz alta, explica qué dice e
 | Las mil y una noches de NetEase (网易一千零一夜) · PMO de NetEase Hangzhou | 4 | Guarda solo el proceso que cambia una decisión, sin autoridad el puesto ya es poder, la gestión cambia con la etapa del producto |
 | La era de la inteligencia (智能时代) · Wu Jun | 4 | El umbral del big data es el conjunto completo y la correlación, la máquina sustituye el juicio datificable, la revolución vacía primero la capa media, los datos son de quien los retiene |
 | Profit from the Positive (这样带出高估值团队) · Greenberg & Maymin | 3 | Una reunión cuesta personas por horas, el ánimo del líder se contagia, una evaluación que no cambia conducta es peor que ninguna |
+| Committed Teams (三步打造高绩效团队) · Moussa, Boyer y Newberry | 3 | Las reglas salen del diálogo, los equipos remotos pagan en confianza, la cultura del startup brota sola |
+| Your First Leadership Job (领导力的精进) · Byham y Wellins | 3 | El líder es un catalizador, el mapa de conversación en cinco pasos, la gente se va por su jefe directo |
 | 33 lecciones de finanzas antes de los 35 (35岁前要上的33堂理财课) · Zeng Zhiyao | 3 | El orden del día de pago, la contabilidad para recortar ese 20 %, la asignación antes de los 30 compra opciones |
 | Los desafíos de la gestión en el siglo XXI · Drucker | 3 | Siete supuestos viejos caducaron, cinco certezas de la estrategia, la proporción de renta disponible |
 | Free · Chris Anderson | 2 | Cuatro estructuras de subsidio, la regla del 5 % |

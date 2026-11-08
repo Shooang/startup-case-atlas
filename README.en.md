@@ -2,13 +2,13 @@
 
 [中文](README.md) · **English** · [日本語](README.ja.md) · [한국어](README.ko.md) · [Español](README.es.md)
 
-![cases](https://img.shields.io/badge/cases-419-D85A30?style=flat-square) ![chars](https://img.shields.io/badge/text-576k_chars-6B7280?style=flat-square) ![license](https://img.shields.io/badge/license-CC_BY--SA_4.0-0F6E56?style=flat-square) ![llms](https://img.shields.io/badge/llms.txt-ready-534AB7?style=flat-square)
+![cases](https://img.shields.io/badge/cases-419-D85A30?style=flat-square) ![frameworks](https://img.shields.io/badge/frameworks-231-1D4ED8?style=flat-square) ![chars](https://img.shields.io/badge/text-576k_chars-6B7280?style=flat-square) ![license](https://img.shields.io/badge/license-CC_BY--SA_4.0-0F6E56?style=flat-square) ![llms](https://img.shields.io/badge/llms.txt-ready-534AB7?style=flat-square)
 
 **419 businesses, every one with the books kept: what it cost, what it earned, and the exact step where the money ran out.**
 
 **246 of them (59%) died of the same thing** — building something nobody wanted, and spending the money finding that out.
 
-**Plus 225 framework cards** — judgement tools extracted from 38 books and courses. Cases are evidence; frameworks are judgement.
+**Plus 231 framework cards** — judgement tools extracted from 40 books and courses. Cases are evidence; frameworks are judgement.
 
 [Browse by failure mechanism](index/by-mechanism.md) · [By industry](index/by-industry.md) · [By region](index/by-region.md) · [Get the data](data/cases.jsonl) · [Feed a model](llms.txt)
 
@@ -26,7 +26,7 @@
 | A specific cut | [Industry](index/by-industry.md) · [Outcome](index/by-outcome.md) · [Region](index/by-region.md) · [Year](index/by-year.md) |
 | The data | [`data/cases.jsonl`](data/cases.jsonl) — 419 lines, one case per line, all fields |
 | An LLM | Read [`llms.txt`](llms.txt) (1.3 KB) first, then [`llms-full.txt`](llms-full.txt) (1.7 MB) if context allows |
-| A judgement tool | [Browse frameworks by book](index/frameworks-by-book.md) — 225 cards from 38 books and courses |
+| A judgement tool | [Browse frameworks by book](index/frameworks-by-book.md) — 231 cards from 40 books and courses |
 
 ```bash
 git clone https://github.com/Shooang/startup-case-atlas.git
@@ -74,7 +74,7 @@ That third section is deliberate. "Lost 700k" carries very different weight depe
 
 ## Framework cards: the judgement layer
 
-A case tells you how something happened. A framework tells you how to judge the next one. **225 cards, drawn from 38 books and courses.**
+A case tells you how something happened. A framework tells you how to judge the next one. **231 cards, drawn from 40 books and courses.**
 
 Each card opens with a line you can read aloud, explains what the framework actually says, gives three or four things you can judge with it, and ends with **sources and limits** — where the method stops working.
 
@@ -112,6 +112,8 @@ Each card opens with a line you can read aloud, explains what the framework actu
 | One Thousand and One Nights at NetEase · NetEase Hangzhou PMO | 4 | Keep only the process that can change a decision, when you lack authority the seat itself is authority, management changes with the product stage |
 | The Intelligence Era · Wu Jun | 4 | Big data means the full set plus correlation, machines replace judgement that can be datified, revolutions hollow out the middle first, data ownership sits with whoever holds it |
 | Profit from the Positive · Greenberg & Maymin | 3 | A meeting costs people times hours, a leader's mood is contagious, a review that changes nothing is worse than none |
+| Committed Teams · Moussa, Boyer & Newberry | 3 | Rules come from dialogue not friction, remote teams pay in trust, startup culture forms anyway |
+| Your First Leadership Job · Byham & Wellins | 3 | A leader is a catalyst not the hero, the five-step conversation map, people leave their direct leader |
 | 33 Personal Finance Lessons Before 35 · Zeng Zhiyao | 3 | The order of payday, bookkeeping to cut the 20%, allocation before 30 buys options |
 | Managing in the 21st Century · Drucker | 3 | Seven management assumptions expired, five certainties of strategy, share of disposable income |
 | Free · Chris Anderson | 2 | Four subsidy structures, the 5% rule |
