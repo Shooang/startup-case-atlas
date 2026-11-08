@@ -8,7 +8,7 @@
 
 **246 of them (59%) died of the same thing** — building something nobody wanted, and spending the money finding that out.
 
-**Plus 106 framework cards** — judgement tools extracted from 13 books and courses. Cases are evidence; frameworks are judgement.
+**Plus 154 framework cards** — judgement tools extracted from 13 books and courses. Cases are evidence; frameworks are judgement.
 
 [Browse by failure mechanism](index/by-mechanism.md) · [By industry](index/by-industry.md) · [By region](index/by-region.md) · [Get the data](data/cases.jsonl) · [Feed a model](llms.txt)
 
@@ -26,7 +26,7 @@
 | A specific cut | [Industry](index/by-industry.md) · [Outcome](index/by-outcome.md) · [Region](index/by-region.md) · [Year](index/by-year.md) |
 | The data | [`data/cases.jsonl`](data/cases.jsonl) — 419 lines, one case per line, all fields |
 | An LLM | Read [`llms.txt`](llms.txt) (1.3 KB) first, then [`llms-full.txt`](llms-full.txt) (1.7 MB) if context allows |
-| A judgement tool | [Browse frameworks by book](index/frameworks-by-book.md) — 106 cards from 13 books and courses |
+| A judgement tool | [Browse frameworks by book](index/frameworks-by-book.md) — 154 cards from 23 books and courses |
 
 ```bash
 git clone https://github.com/Shooang/startup-case-atlas.git
@@ -74,7 +74,7 @@ That third section is deliberate. "Lost 700k" carries very different weight depe
 
 ## Framework cards: the judgement layer
 
-A case tells you how something happened. A framework tells you how to judge the next one. **106 cards, drawn from 13 books and courses.**
+A case tells you how something happened. A framework tells you how to judge the next one. **154 cards, drawn from 23 books and courses.**
 
 Each card opens with a line you can read aloud, explains what the framework actually says, gives three or four things you can judge with it, and ends with **sources and limits** — where the method stops working.
 
@@ -89,6 +89,16 @@ Each card opens with a line you can read aloud, explains what the framework actu
 | The PayPal Wars · Eric Jackson | 8 | Subsidies buy network density, on someone else's platform they set the rules, fraud loss is a budget line |
 | Where Does Money Come From · Xiang Shuai | 7 | Careers snowball or push a rock, your city sets your income floor and ceiling |
 | Learning Reviews from Masters · Zhang Peng | 7 | In a review, handle the fear before the argument; candor is institutional design; who sits in the room decides more than what you ask |
+| The Psychology of Money · Housel | 6 | Luck looks like risk, compounding is invisible for decades, savings rate beats returns |
+| Poor Charlie's Almanack · Munger | 6 | To the man with a hammer everything looks like a nail, invert, the edge of competence matters more than its size |
+| A Dog Called Money · Schäfer | 5 | Feed the goose before chasing returns, the 72-hour rule, debt is not paid off with everything |
+| Ten Years of Dollar-Cost Averaging · Bank Ticker | 5 | Averaging pays for buying cheap, the smile curve, write the exit rule first |
+| The Almanack of Naval Ravikant · Naval | 5 | Specific knowledge, three kinds of leverage, never rent out your time, long games compound |
+| The Logic of Housing Prices · Xu Yuan | 5 | A high price-to-income ratio is not a bubble, city before location before unit |
+| The Intelligent Investor · Graham | 5 | Mr Market quotes moods not value, margin of safety, defensive versus enterprising |
+| Rich Habits · Corley | 4 | Habits precede outcomes, the 77% versus 23% gap, change the trigger not the will |
+| Earn Money Well · Jian Qi | 4 | Split income into four buckets, the emergency fund, insurance buys tail risk |
+| 33 Personal Finance Lessons Before 35 · Zeng Zhiyao | 3 | The order of payday, bookkeeping to cut the 20%, allocation before 30 buys options |
 | Managing in the 21st Century · Drucker | 3 | Seven management assumptions expired, five certainties of strategy, share of disposable income |
 | Free · Chris Anderson | 2 | Four subsidy structures, the 5% rule |
 | Xiaomi Startup Notes · Lei Jun | 2 | The seven-word creed is about efficiency and trust, "able to do anything" means nothing to do |
