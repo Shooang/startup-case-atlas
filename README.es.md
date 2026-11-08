@@ -2,7 +2,7 @@
 
 [中文](README.md) · [English](README.en.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · **Español**
 
-![cases](https://img.shields.io/badge/cases-419-D85A30?style=flat-square) ![frameworks](https://img.shields.io/badge/frameworks-231-1D4ED8?style=flat-square) ![chars](https://img.shields.io/badge/text-576k_chars-6B7280?style=flat-square) ![license](https://img.shields.io/badge/license-CC_BY--SA_4.0-0F6E56?style=flat-square) ![llms](https://img.shields.io/badge/llms.txt-ready-534AB7?style=flat-square)
+![cases](https://img.shields.io/badge/cases-419-D85A30?style=flat-square) ![frameworks](https://img.shields.io/badge/frameworks-234-1D4ED8?style=flat-square) ![chars](https://img.shields.io/badge/text-576k_chars-6B7280?style=flat-square) ![license](https://img.shields.io/badge/license-CC_BY--SA_4.0-0F6E56?style=flat-square) ![llms](https://img.shields.io/badge/llms.txt-ready-534AB7?style=flat-square)
 
 **419 negocios, cada uno con sus cuentas: cuánto costó, cuánto ingresó y en qué paso exacto se acabó el dinero.**
 
@@ -73,7 +73,7 @@ La tercera sección es deliberada. El mismo «perdió 700 mil» pesa muy distint
 
 ## Fichas de marco: la capa de juicio
 
-Un caso te dice cómo pasó algo; un marco te dice cómo juzgar lo siguiente. **231 fichas, extraídas de 40 libros y cursos.**
+Un caso te dice cómo pasó algo; un marco te dice cómo juzgar lo siguiente. **234 fichas, extraídas de 43 libros y cursos.**
 
 Cada ficha abre con una frase que se puede leer en voz alta, explica qué dice el marco, da tres o cuatro cosas que puedes juzgar con él y termina con **fuentes y límites**: dónde deja de funcionar el método. Los cuerpos de las fichas están en chino; el campo `book` del índice mantiene el título original.
 
@@ -119,6 +119,9 @@ Cada ficha abre con una frase que se puede leer en voz alta, explica qué dice e
 | Apuntes de creación de Xiaomi · Lei Jun | 2 | El credo de siete palabras va de eficiencia y confianza, «poder con todo» es no saber qué hacer |
 | El plan de 100 días del nuevo líder · Bradt et al. | 1 | Los primeros cien días son para preguntar, no para reorganizar |
 | Sé el jefe por el que todos quieren trabajar · Gentry | 1 | El ascenso te quita primero la condición de par |
+| My Life as a Quant (宽客人生) · Emanuel Derman | 1 | Los modelos financieros son experimentos mentales, no verdades |
+| Charlie Munger: The Complete Investor (查理·芒格的智慧) · Robert Hagstrom | 1 | Las estrategias mueren de éxito cuando el hacinamiento mata la ventaja |
+| Street Smarts (街头智慧) · Jim Rogers | 1 | La cura de los precios altos son los precios altos, no los controles |
 
 [Por libro](index/frameworks-by-book.md) · [Por disciplina](index/frameworks-by-doctrine.md) · [Todas las aperturas](index/frameworks-hooks.md) · [Esquema de la ficha](docs/framework-schema.md)
 

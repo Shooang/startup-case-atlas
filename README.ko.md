@@ -2,7 +2,7 @@
 
 [中文](README.md) · [English](README.en.md) · [日本語](README.ja.md) · **한국어** · [Español](README.es.md)
 
-![cases](https://img.shields.io/badge/cases-419-D85A30?style=flat-square) ![frameworks](https://img.shields.io/badge/frameworks-231-1D4ED8?style=flat-square) ![chars](https://img.shields.io/badge/text-576k_chars-6B7280?style=flat-square) ![license](https://img.shields.io/badge/license-CC_BY--SA_4.0-0F6E56?style=flat-square) ![llms](https://img.shields.io/badge/llms.txt-ready-534AB7?style=flat-square)
+![cases](https://img.shields.io/badge/cases-419-D85A30?style=flat-square) ![frameworks](https://img.shields.io/badge/frameworks-234-1D4ED8?style=flat-square) ![chars](https://img.shields.io/badge/text-576k_chars-6B7280?style=flat-square) ![license](https://img.shields.io/badge/license-CC_BY--SA_4.0-0F6E56?style=flat-square) ![llms](https://img.shields.io/badge/llms.txt-ready-534AB7?style=flat-square)
 
 **419개의 사업, 모두 장부가 붙어 있습니다. 얼마를 들였고, 얼마를 벌었고, 어느 대목에서 돈이 끊겼는지.**
 
@@ -73,7 +73,7 @@ key_numbers: 总投入150多万（加盟费十几万＋装修40多万＋备货�
 
 ## 프레임 카드: 사례 뒤에 있는 판단 도구
 
-사례는 '무슨 일이 있었는지'를 알려주고, 프레임은 '다음에 같은 일이 생기면 어떻게 판단할지'를 알려줍니다. **231장, 40권의 책과 강의에서 뽑았습니다.**
+사례는 '무슨 일이 있었는지'를 알려주고, 프레임은 '다음에 같은 일이 생기면 어떻게 판단할지'를 알려줍니다. **234장, 43권의 책과 강의에서 뽑았습니다.**
 
 각 카드는 바로 읽을 수 있는 첫 문장, 프레임의 내용, 이것으로 판단할 수 있는 3~4가지, 마지막으로 **출처와 한계** — 이 방법이 통하지 않는 조건 — 로 구성됩니다. 카드 본문은 중국어이며, 색인의 `book` 필드도 중국어 제목으로 표기됩니다.
 
@@ -119,6 +119,9 @@ key_numbers: 总投入150多万（加盟费十几万＋装修40多万＋备货�
 | Xiaomi Startup Notes · 레이쥔 | 2 | 일곱 글자 결의 핵심은 효율과 신뢰, '뭐든 할 수 있다'는 '뭘 할지 모른다'와 같다 |
 | The New Leader's 100-Day Action Plan · 브래트 외 | 1 | 첫 백 일은 질문을, 구조 변경은 나중에 |
 | Be the Boss Everyone Wants to Work For · 윌리엄 젠트리 | 1 | 승진이 가장 먼저 빼앗는 것은 동료라는 신분 |
+| 宽客人生（퀀트의人生）· 에마뉘엘 더먼 | 1 | 금융 모델은 사고실험이지 진리가 아니다 |
+| 查理·芒格的智慧（투자의 그리드 이론）· 로버트 해그스트롬 | 1 | 유효한 전략은 참여자가 늘면서 스스로 실패한다 |
+| 街头智慧（스트리트 스마트）· 짐 로저스 | 1 | 높은 가격의 해독제는 높은 가격, 가격 통제는 부족을 낳는다 |
 
 [책별](index/frameworks-by-book.md) · [영역별](index/frameworks-by-doctrine.md) · [첫 문장 모음](index/frameworks-hooks.md) · [카드 규격](docs/framework-schema.md)
 

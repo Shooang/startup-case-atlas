@@ -2,13 +2,13 @@
 
 [中文](README.md) · **English** · [日本語](README.ja.md) · [한국어](README.ko.md) · [Español](README.es.md)
 
-![cases](https://img.shields.io/badge/cases-419-D85A30?style=flat-square) ![frameworks](https://img.shields.io/badge/frameworks-231-1D4ED8?style=flat-square) ![chars](https://img.shields.io/badge/text-576k_chars-6B7280?style=flat-square) ![license](https://img.shields.io/badge/license-CC_BY--SA_4.0-0F6E56?style=flat-square) ![llms](https://img.shields.io/badge/llms.txt-ready-534AB7?style=flat-square)
+![cases](https://img.shields.io/badge/cases-419-D85A30?style=flat-square) ![frameworks](https://img.shields.io/badge/frameworks-234-1D4ED8?style=flat-square) ![chars](https://img.shields.io/badge/text-576k_chars-6B7280?style=flat-square) ![license](https://img.shields.io/badge/license-CC_BY--SA_4.0-0F6E56?style=flat-square) ![llms](https://img.shields.io/badge/llms.txt-ready-534AB7?style=flat-square)
 
 **419 businesses, every one with the books kept: what it cost, what it earned, and the exact step where the money ran out.**
 
 **246 of them (59%) died of the same thing** — building something nobody wanted, and spending the money finding that out.
 
-**Plus 231 framework cards** — judgement tools extracted from 40 books and courses. Cases are evidence; frameworks are judgement.
+**Plus 234 framework cards** — judgement tools extracted from 43 books and courses. Cases are evidence; frameworks are judgement.
 
 [Browse by failure mechanism](index/by-mechanism.md) · [By industry](index/by-industry.md) · [By region](index/by-region.md) · [Get the data](data/cases.jsonl) · [Feed a model](llms.txt)
 
@@ -26,7 +26,7 @@
 | A specific cut | [Industry](index/by-industry.md) · [Outcome](index/by-outcome.md) · [Region](index/by-region.md) · [Year](index/by-year.md) |
 | The data | [`data/cases.jsonl`](data/cases.jsonl) — 419 lines, one case per line, all fields |
 | An LLM | Read [`llms.txt`](llms.txt) (1.3 KB) first, then [`llms-full.txt`](llms-full.txt) (1.7 MB) if context allows |
-| A judgement tool | [Browse frameworks by book](index/frameworks-by-book.md) — 231 cards from 40 books and courses |
+| A judgement tool | [Browse frameworks by book](index/frameworks-by-book.md) — 234 cards from 43 books and courses |
 
 ```bash
 git clone https://github.com/Shooang/startup-case-atlas.git
@@ -74,7 +74,7 @@ That third section is deliberate. "Lost 700k" carries very different weight depe
 
 ## Framework cards: the judgement layer
 
-A case tells you how something happened. A framework tells you how to judge the next one. **231 cards, drawn from 40 books and courses.**
+A case tells you how something happened. A framework tells you how to judge the next one. **234 cards, drawn from 43 books and courses.**
 
 Each card opens with a line you can read aloud, explains what the framework actually says, gives three or four things you can judge with it, and ends with **sources and limits** — where the method stops working.
 
@@ -120,6 +120,9 @@ Each card opens with a line you can read aloud, explains what the framework actu
 | Xiaomi Startup Notes · Lei Jun | 2 | The seven-word creed is about efficiency and trust, "able to do anything" means nothing to do |
 | The New Leader's 100-Day Action Plan · Bradt et al. | 1 | In the first hundred days ask questions, not restructure |
 | Be the Boss Everyone Wants to Work For · Gentry | 1 | Promotion first takes away your peer status |
+| My Life as a Quant · Emanuel Derman | 1 | Financial models are thought experiments, not truths |
+| Charlie Munger: The Complete Investor · Robert Hagstrom | 1 | Strategies decay as they succeed because crowding kills the edge |
+| Street Smarts · Jim Rogers | 1 | The cure for high prices is high prices, not controls |
 
 [By book](index/frameworks-by-book.md) · [By doctrine](index/frameworks-by-doctrine.md) · [All opening lines](index/frameworks-hooks.md) · [Card schema](docs/framework-schema.md)
 

@@ -2,13 +2,13 @@
 
 中文 · [English](README.en.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Español](README.es.md)
 
-![cases](https://img.shields.io/badge/cases-419-D85A30?style=flat-square) ![frameworks](https://img.shields.io/badge/frameworks-231-1D4ED8?style=flat-square) ![chars](https://img.shields.io/badge/text-576k_chars-6B7280?style=flat-square) ![license](https://img.shields.io/badge/license-CC_BY--SA_4.0-0F6E56?style=flat-square) ![llms](https://img.shields.io/badge/llms.txt-ready-534AB7?style=flat-square)
+![cases](https://img.shields.io/badge/cases-419-D85A30?style=flat-square) ![frameworks](https://img.shields.io/badge/frameworks-234-1D4ED8?style=flat-square) ![chars](https://img.shields.io/badge/text-576k_chars-6B7280?style=flat-square) ![license](https://img.shields.io/badge/license-CC_BY--SA_4.0-0F6E56?style=flat-square) ![llms](https://img.shields.io/badge/llms.txt-ready-534AB7?style=flat-square)
 
 **419 个生意，每一个都记了账：花了多少，挣了多少，钱在哪一步没的。**
 
 其中 **246 个（59%）死于同一件事**——做了一件没人要的东西，然后在发现这件事的过程中把钱用完了。
 
-**另有 231 张框架卡**——从 40 本书与课程里提出来的判断工具。案例是证据，框架是判断。
+**另有 234 张框架卡**——从 43 本书与课程里提出来的判断工具。案例是证据，框架是判断。
 
 [按失败机制浏览](index/by-mechanism.md) · [按行业](index/by-industry.md) · [按地区](index/by-region.md) · [拿数据](data/cases.jsonl) · [喂给模型](llms.txt)
 
@@ -24,7 +24,7 @@
 | 找特定角度 | [按行业](index/by-industry.md) · [按结局](index/by-outcome.md) · [按地区](index/by-region.md) · [按年份](index/by-year.md) |
 | 拿数据 | [`data/cases.jsonl`](data/cases.jsonl)——419 行，每行一个案例，字段齐全 |
 | 喂给模型 | 先读 [`llms.txt`](llms.txt)（1.3 KB），上下文够再上 [`llms-full.txt`](llms-full.txt)（1.7 MB） |
-| 找一个判断工具 | [按书浏览框架卡](index/frameworks-by-book.md)——231 张，从 40 本书与课程里提的 |
+| 找一个判断工具 | [按书浏览框架卡](index/frameworks-by-book.md)——234 张，从 43 本书与课程里提的 |
 
 ```bash
 git clone https://github.com/Shooang/startup-case-atlas.git
@@ -71,7 +71,7 @@ key_numbers: 总投入150多万（加盟费十几万＋装修40多万＋备货�
 
 ## 框架卡：案例背后的判断工具
 
-案例告诉你一件事是怎么发生的，框架告诉你下次遇到同类的事该怎么判断。**231 张卡，来自 40 本书与课程。**
+案例告诉你一件事是怎么发生的，框架告诉你下次遇到同类的事该怎么判断。**234 张卡，来自 43 本书与课程。**
 
 一张卡长这样：一个能直接念的开场，一段讲清这个框架到底在说什么，三到四条能拿来判断什么，最后是**出处与边界**——写明这方法在什么情况下不管用。
 
@@ -117,6 +117,9 @@ key_numbers: 总投入150多万（加盟费十几万＋装修40多万＋备货�
 | 小米创业思考 · 雷军 | 2 | 七字诀的核心是效率与信任、看似什么都能做就是什么都不知道 |
 | 100天学会带好一个团队 · 布拉特等 | 1 | 上任头一百天要提问不要动手改结构 |
 | 当老板就是让人人都想跟着你 · 金特里 | 1 | 升职那天先失去的是同事身份 |
+| 宽客人生 · 伊曼纽尔·德曼 | 1 | 金融模型是思想实验不是真理，当真理供奉会出灾难 |
+| 查理·芒格的智慧：投资的格栅理论 · 罗伯特·哈格斯特朗 | 1 | 有效的策略会因拥挤而自我失效 |
+| 街头智慧：罗杰斯的投资与人生 · 吉姆·罗杰斯 | 1 | 治疗高价的药方还是高价，价格管制只会制造短缺 |
 
 [按书浏览](index/frameworks-by-book.md) · [按领域](index/frameworks-by-doctrine.md) · [全部开场句](index/frameworks-hooks.md) · [卡片规范](docs/framework-schema.md)
 

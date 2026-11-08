@@ -2,7 +2,7 @@
 
 [中文](README.md) · [English](README.en.md) · **日本語** · [한국어](README.ko.md) · [Español](README.es.md)
 
-![cases](https://img.shields.io/badge/cases-419-D85A30?style=flat-square) ![frameworks](https://img.shields.io/badge/frameworks-231-1D4ED8?style=flat-square) ![chars](https://img.shields.io/badge/text-576k_chars-6B7280?style=flat-square) ![license](https://img.shields.io/badge/license-CC_BY--SA_4.0-0F6E56?style=flat-square) ![llms](https://img.shields.io/badge/llms.txt-ready-534AB7?style=flat-square)
+![cases](https://img.shields.io/badge/cases-419-D85A30?style=flat-square) ![frameworks](https://img.shields.io/badge/frameworks-234-1D4ED8?style=flat-square) ![chars](https://img.shields.io/badge/text-576k_chars-6B7280?style=flat-square) ![license](https://img.shields.io/badge/license-CC_BY--SA_4.0-0F6E56?style=flat-square) ![llms](https://img.shields.io/badge/llms.txt-ready-534AB7?style=flat-square)
 
 **419 の事業、すべてに帳簿がついている。いくらかけて、いくら売れて、どの一手で金が尽きたのか。**
 
@@ -73,7 +73,7 @@ key_numbers: 总投入150多万（加盟费十几万＋装修40多万＋备货�
 
 ## フレームカード：事例の背後にある判断道具
 
-事例は「何が起きたか」を教え、フレームは「次に同じことが起きたらどう判断するか」を教えます。**231 枚、40 冊の書籍と講座から。**
+事例は「何が起きたか」を教え、フレームは「次に同じことが起きたらどう判断するか」を教えます。**234 枚、43 冊の書籍と講座から。**
 
 各カードは、そのまま読み上げられる書き出し、フレームの中身、これで何を判断できるか 3〜4 条、最後に**出典と限界**——この方法が効かなくなる条件——で構成されています。カード本文は中国語で、書名は索引の `book` フィールド（中国語表記）と突き合わせて検索できます。
 
@@ -119,6 +119,9 @@ key_numbers: 总投入150多万（加盟费十几万＋装修40多万＋备货�
 | シャオミ創業の思考 · 雷軍 | 2 | 七文字訣の核心は効率と信頼、「何でもできる」は「何をすればいいか分からない」と同義 |
 | 新任リーダーの100日プラン · ブラットほか | 1 | 最初の百日は質問を、構造変更はその後 |
 | みながついてきたいボスになる · ウィリアム・ジェントリー | 1 | 昇進が最初に奪うのは同僚という肩書き |
+| 宽客人生（クオントの人生）· エマニュエル・ダーマン | 1 | 金融モデルは思考実験であり真理ではない |
+| 查理·芒格的智慧（投資のグリッド理論）· ロバート・ハグストローム | 1 | 有効な戦略は参入者が増えて自壊する |
+| 街头智慧（ストリート・スマート）· ジム・ロジャーズ | 1 | 高値の特効薬は高値自身、価格統制は不足を生む |
 
 [書籍別](index/frameworks-by-book.md) · [領域別](index/frameworks-by-doctrine.md) · [書き出し一覧](index/frameworks-hooks.md) · [カード仕様](docs/framework-schema.md)
 
