@@ -2,7 +2,7 @@
 
 > 同一门生意里的不同打法，横向对比用这张表。
 
-> 共 419 个案例。按此维度去重后 13 组。
+> 共 426 个案例。按此维度去重后 13 组。
 
 ## 软件与 SaaS (195)
 
@@ -204,6 +204,57 @@
 | [G711](../cases/06-starter-story/G711-谷歌关掉一个服务他顺手接住了流量.md) | 谷歌关掉一个服务，他顺手接住了别人的流量 | When Google shut its URL shortener, he ca… | 软件与 SaaS | 结果未定 | US·2019 | 月收入 $2.6K（访谈时；页面头部标注 $4.5K）｜启动成本 $50｜启动耗时 几天做… |
 | [G712](../cases/06-starter-story/G712-总成本5美元他把打码做成了插件.md) | 总成本 5 美元，他把打码做成了一个每月一千多美元… | He built a blur tool for $5 and it earns … | 软件与 SaaS | 结果未定 | IN·2020 | 月收入 $1.5K（访谈时口述 $1,000+）｜启动成本 $5｜启动耗时 2-3 周｜团… |
 
+## 餐饮 (46)
+
+| ID | 标题 | 英文标题 | 行业 | 结局 | 地区·年份 | 关键数字 |
+| --- | --- | --- | --- | --- | --- | --- |
+| [G003](../cases/01-personal-failure/G003-一碗淮南牛肉汤.md) | 一碗淮南牛肉汤，教他现金流比估值诚实 | A Huainan beef soup shop grew to three st… | 餐饮 | 失败关停 | CN·2019 | 从1家店开到3家｜自己搞设计装修拓品类｜自学摄影和PS做外卖产品图｜门店在"口罩"时期陆续… |
+| [G004](../cases/01-personal-failure/G004-亏掉两千万之后.md) | 亏掉两千万之后，他关掉了 GitHub，回老家先学… | After losing 20 million yuan he closed Gi… | 餐饮 | 失败关停 | CN·2023 | 2023年3月底转让最后一家餐饮店｜2023年6月底离开南京｜合计损失2000多万（个人估… |
+| [G109](../cases/02-founder-postmortems/G109-第一家公司的复盘.md) | 转型转到一半钱没了：三年、50万种子轮和一辆卖掉的车 | His first company ran three years on $500… | 餐饮 | 失败关停 | US·2013 | 2009年12月关停｜经营三年｜种子轮50万美元｜波士顿20家餐厅试点跑了超一年｜无薪工作… |
+| [G118](../cases/02-founder-postmortems/G118-每单收一美元要喝六轮才回本.md) | 每一单收一美元，用户得喝六轮才回本 | Flowtab charged $1 an order and needed si… | 餐饮 | 失败关停 | US·2013 | 2011年5月上线落地页｜2012年2月进应用商店｜2013年1月12家酒吧、3个城市｜2… |
+| [G308](../cases/03-failory/G308-月流水十一万美元被一纸报告停掉自提.md) | 月流水十一万美元，被一纸报告停掉自提 | 110k a month in orders, shut down by a si… | 餐饮 | 失败关停 | CA·2018 | 月流水10万–12.5万美元（周流水约2.5万美元）｜年营收130万美元｜每餐7.99美元… |
+| [G316](../cases/03-failory/G316-先买榨汁机再做市场.md) | 先买两台榨汁机再做市场，三千美元换来一句"免费也不… | Bought two juicers first, then found nobo… | 餐饮 | 失败关停 | TH·2021 | 设备约2000美元+总投入至少3000美元｜收入300美元｜两台商用冷压榨汁机｜三周调试配… |
+| [G342](../cases/03-failory/G342-对手卖一半价.md) | 对手卖一半价，我们跟不动 | A competitor sold at half the price and t… | 餐饮 | 失败关停 | IN·2017 | 市场价约1美元（70卢比）/餐｜定价素食2.5美元（150卢比）、非素食3.5美元（200… |
+| [G404](../cases/03-failory/G404-在意营养的人在家做饭.md) | 在意营养的人在家做饭，在外吃饭的人不在意 | People who care about nutrition cook at h… | 餐饮 | 失败关停 | IL·2016 | 2位创始人｜零融资，全自有资金｜每道菜实验室检测约80美元｜餐厅付一道、他们付一道（后改为… |
+| [G621](../cases/05-china-interviews/G621-武汉摆摊卖手抓饭.md) | 6000块本金，一家七口在武汉摆摊卖手抓饭，月入最… | Started with 6,000 RMB, seven family memb… | 餐饮 | 结果未定 | CN·2026 | 创业本金仅五六千元｜手抓饭23元一份约600克｜高峰期一天卖100-150份｜两个摊位月收… |
+| [G623](../cases/05-china-interviews/G623-150万加盟火锅自助四个月闭店.md) | 卖房凑150万加盟火锅自助，首月流水70万反而亏2… | Sold his house for 1.5M RMB to join a buf… | 餐饮 | 失败关停 | CN·2025 | 总投入150多万（加盟费十几万＋装修40多万＋备货七八十万）｜首月流水六七十万、净亏20多… |
+| [G624](../cases/05-china-interviews/G624-摆摊的真实账本.md) | 摆摊的账没人给你算：6月只出摊19天赚6700，饺… | Street-stall math: 19 days in June earned… | 餐饮 | 失败关停 | CN·2025 | 广州大学城摊主6月出摊19天总收入约6700元、日均352元（最高733、最低120）｜生… |
+| [G629](../cases/05-china-interviews/G629-昆明娘惹糕私房甜品.md) | 从露楚到娘惹糕：昆明私房甜品主理人，一天卖三四十份… | Nyonya cake kitchen in Kunming sells 30-4… | 餐饮 | 结果未定 | CN·2020 | 泰式露楚5元/个、一盒10个50元｜斑斓戚风蛋糕靠自然客流一天卖三四十份｜新年礼盒最多订出… |
+| [G641](../cases/05-china-interviews/G641-电台主持卖房开雪冰店亏160万.md) | 电台主持辞职卖房开雪冰店，两年亏掉160万 | Sold his house to open a shaved-ice franc… | 餐饮 | 失败关停 | unknown·2018 | 合计亏损160万（含卖房款）｜加盟费+装修+租金前期投入几十万｜最差一天营业额18元｜最好… |
+| [G642](../cases/05-china-interviews/G642-上海羊肉面馆十几天关店.md) | 三人凑80万在上海开羊肉面馆，开业十几天就关门 | Three partners pooled 800K RMB for a Shan… | 餐饮 | 失败关停 | CN·2024 | 三人凑80万｜月租9.5万、付三押二一次花掉45万房租｜开业约十几天关门｜实际亏损约60万… |
+| [G643](../cases/05-china-interviews/G643-合肥宜家一年亏200万.md) | 餐饮十年没亏过，他在合肥宜家一年亏掉200万 | A decade of profitable restaurants, one y… | 餐饮 | 失败关停 | CN·2023 | 一年亏200万｜拉面店投入50万｜煲仔饭店投入110多万（超预算30万）｜200万里有10… |
+| [G644](../cases/05-china-interviews/G644-北京开面馆半年赔光40万.md) | 年过四十在北京开面馆，半年赔光40万 | Opened a Beijing noodle shop at forty, lo… | 餐饮 | 失败关停 | CN·2025 | 前期装修和设备约30万｜月租2.6万｜半年赔光40万｜盈亏平衡一天80碗｜实际日销50-1… |
+| [G661](../cases/05-china-interviews/G661-关掉16家店利润反涨6000万.md) | 关掉16家店，利润反而涨了6000万 | Closed 16 pizza stores in 2019 and profit… | 餐饮 | 成功在营 | CN·2018 | 2015年红杉资本注资6000万元｜2018年为囤榴梿半年筹资8000万元｜2019年主动… |
+| [G663](../cases/05-china-interviews/G663-一年卖400万份汤292天后全部关停.md) | 一年卖出400万份汤，292天后全部门店关停 | Sold 4M bowls of soup in a year, shut eve… | 餐饮 | 失败关停 | CN·2015 | 不到两年3轮融资累计上亿元｜2018年3月A+轮近亿元｜号称1年卖出400万份汤｜停业时近… |
+| [G665](../cases/05-china-interviews/G665-烧光3000万8家茶馆关掉6家.md) | 六年四次创业，烧光3000万，8家茶馆关掉6家 | Four startups in six years burned 30M RMB… | 餐饮 | 失败关停 | CN·2014 | 六年四次创业累计投入超3000万元｜第一次创业录一门精品课成本10万到三四十万元｜第二次拿… |
+| [G670](../cases/05-china-interviews/G670-36家店发不出工资他自筹600万.md) | 36家店发不出工资，他宁可自己凑600万，也不接受… | Rather than open his books, he raised 6M … | 餐饮 | 成功在营 | CN·2008 | 2008年3万元积蓄＋借款3万元开出第一家店｜2016年36家门店、年营业额4亿元｜201… |
+| [G673](../cases/05-china-interviews/G673-五年烧光1亿只剩11家店.md) | 五年烧光1亿，500家店只剩11家 | Burned 100M RMB in five years, 500 signed… | 餐饮 | 失败关停 | CN·2021 | 累计亏损超1亿元｜签约超500家门店｜全国只剩11家｜两家旗舰店亏800多万｜旗舰店租金百… |
+| [G674](../cases/05-china-interviews/G674-23家店关到2家卖豪车.md) | 23家店关到2家，他卖掉豪车发工资 | From 23 stores to 2, he sold his luxury c… | 餐饮 | 结果未定 | CN·2016 | 单店估值3000万｜10个城市23家店｜北京20多家店最后剩2家｜100多万的豪车20万出… |
+| [G675](../cases/05-china-interviews/G675-三家面馆亏300万.md) | 三家面馆全关，装修就花了200多万 | Three noodle shops closed with 3M RMB in … | 餐饮 | 失败关停 | CN·2022 | 亏损超300万｜三家店装修200多万｜开业活动20万到30万｜首店300平米｜首店20多个… |
+| [G676](../cases/05-china-interviews/G676-追风口连关8家店.md) | 追风口三年，他连关8家店 | Chased three food trends in three years a… | 餐饮 | 失败关停 | unknown·2022 | 三年关8家店｜酸汤牛肉火锅投资30多万｜关店亏损近40万｜只开4个月｜烤肉店投资70万｜半… |
+| [G677](../cases/05-china-interviews/G677-70万开店品牌25万想收购.md) | 70万开奶茶店，品牌想25万收购 | Spent 700K RMB on a tea shop, the brand o… | 餐饮 | 失败关停 | unknown·2022 | 总投资70万｜加盟费49800元｜设备和首批物料不到20万｜月流水16万实收13万｜5个员… |
+| [G678](../cases/05-china-interviews/G678-加盟费27万物料占六成.md) | 加盟费27万，物料吃掉六成营收 | A 270K RMB franchise fee, and supplies at… | 餐饮 | 失败关停 | CN·2019 | 加盟费16.8万到27.8万｜保证金3万到5万｜连续两月亏损过万｜物料成本占收入50%到6… |
+| [G679](../cases/05-china-interviews/G679-日营业额不过百的馒头店.md) | 日营业额不过百，开门一天赔两三百 | A steamed-bun shop taking in under 100 RM… | 餐饮 | 失败关停 | CN·2023 | 投入10多万｜加盟费16800元｜转让费3.5万｜半年房租1.8万｜装修1万｜设备2万｜日… |
+| [G681](../cases/05-china-interviews/G681-11万设备卖3000块.md) | 11万买的设备，3000块打包卖掉 | Equipment bought for 110K RMB sold as a l… | 餐饮 | 失败关停 | CN·2019 | 亏损24万｜开业投入20来万｜月租7500元｜日营业额1500元｜设备桌椅原价近11万｜二… |
+| [G682](../cases/05-china-interviews/G682-自创奶茶品牌亏150万.md) | 自创奶茶品牌，三家店关到剩一家 | Homegrown tea brand lost 1.5M RMB when le… | 餐饮 | 失败关停 | CN·2020 | 单店投入40万｜累计亏损150万｜巅峰3家店关掉2家｜柠檬从两块多一斤涨到35元｜全国48… |
+| [G685](../cases/05-china-interviews/G685-天津海鲜680万清零.md) | 从年流水过亿到失信人，他在天津开的三家海鲜店，68… | From 100M RMB a year to debtor: three sea… | 餐饮 | 失败关停 | CN·2000 | 学徒月薪200元｜首店凑100万，350平米首年营收近1400万｜二店投资近240万，首月… |
+| [G686](../cases/05-china-interviews/G686-曲靖奶茶半年亏50万.md) | 冲着"霸王茶姬"去加盟，他在曲靖开店半年，背上30… | Signed a 130K RMB tea franchise in Qujing… | 餐饮 | 失败关停 | CN·2024 | 加盟费13万｜设备费10万｜贷款30多万｜总投入50多万｜负债30多万｜同品牌几十家店倒闭… |
+| [G687](../cases/05-china-interviews/G687-长沙奶茶亏200万改炸鸡.md) | 长沙奶茶亏掉200多万，她用3万块、3天改成炸鸡店 | Lost 2M RMB on milk tea, switched to frie… | 餐饮 | 转型存活 | CN·2018 | 单店年营业额最高400多万｜门店最多50多家｜日营业额1万→5000→2000｜累计亏损2… |
+| [G688](../cases/05-china-interviews/G688-广州25平米牛杂咖啡关店.md) | 25平米小店日流水从2万跌到3000，他在还盈利时… | A 25-square-meter shop fell from 20K to 3… | 餐饮 | 失败关停 | CN·2021 | 25平米｜转让费12万｜月租14500元涨到18500元｜巅峰日营业额近2万、单日排队超1… |
+| [G689](../cases/05-china-interviews/G689-昆山300平咖啡馆12年没回本.md) | 20个人凑钱开的300平咖啡馆，12年没回本，只剩… | Twenty partners opened a 300-square-meter… | 餐饮 | 失败关停 | CN·2013 | 300多平米｜启动资金46万｜重装再投50万｜12年未回本｜合伙人从20人减到7人，6人股… |
+| [G690](../cases/05-china-interviews/G690-昆明米线80万一年半.md) | 总部占股51%的联营米线店，她掏40万，一年半后交… | Headquarters held 51%, she put in 400K, a… | 餐饮 | 失败关停 | CN·2024 | 总投资80万，自付40万｜总部占股51%、她占49%｜每月工资5000元｜日流水峰值700… |
+| [G691](../cases/05-china-interviews/G691-烘焙加盟10万块买了个文字游戏.md) | 花10万加盟烘焙店，品牌在1.5公里外开了家更便宜… | Paid 100K RMB for a bakery franchise, the… | 餐饮 | 失败关停 | CN·2024 | 加盟费9万｜保证金1万｜一次性付10万｜40平米｜月租4000元｜合同3年｜直营店开在1.… |
+| [G695](../cases/05-china-interviews/G695-武汉烤鸭30万接手四个月.md) | 30万接手武汉烤鸭店，4个月后他才知道"直营店"是… | Paid 300K RMB for a Wuhan roast-duck shop… | 餐饮 | 失败关停 | CN·2024 | 总投资近30万｜转让费12万｜月租1.5万｜员工月薪5000元｜首月日营收3000多元｜之… |
+| [G696](../cases/05-china-interviews/G696-合肥小火锅半年亏30万.md) | 被裁后加盟小火锅，加盟费39800元，半年亏掉30万 | Paid 39,800 RMB to join a hotpot chain, l… | 餐饮 | 失败关停 | CN·2025 | 加盟费39800元｜保证金4000元｜管理费5000元/年｜定金2000元｜月租6800元… |
+| [G719](../cases/06-starter-story/G719-多伦多两个人做狗零食.md) | 多伦多两个人做狗零食，做到月入一万五，八年后关掉 | A Toronto couple built a dog treat brand … | 餐饮 | 失败关停 | CA·2015 | 月收入 $15K｜启动成本 未披露（自制起步，宠物展周末卖 $3,000）｜启动耗时 被解… |
+| [G720](../cases/06-starter-story/G720-把腌黄瓜水装进酒瓶.md) | 把腌黄瓜水装进酒瓶，卖给纽约的酒吧 | They raised $11,000 to bottle pickle juic… | 餐饮 | 失败关停 | US·2016 | 月收入 $10K｜启动成本 $11,000（2016 年）｜启动耗时 2016 年投入，2… |
+| [G723](../cases/06-starter-story/G723-用一辆自行车烘咖啡豆.md) | 用一辆自行车烘咖啡豆，在育空卖到月入七千五 | He roasted coffee on a bicycle and reache… | 餐饮 | 结果未定 | CA·2015 | 月收入 $7.5K｜启动成本 第一套烘焙装置 $11（两只不锈钢滤网 + 一根烤热狗的杆）… |
+| [J001](../cases/07-judgments/J001-拆成两份合同收15万法院照样认定是加盟.md) | 拆成两份合同收15万，法院照样认定是加盟，全额退 | Splitting one franchise deal into two con… | 餐饮 | 失败关停 | CN·2019 | 培训服务费15万元｜违约金7000元｜判决返还15万元（100%）｜2019年11月28日… |
+| [J002](../cases/07-judgments/J002-交3.5万只拿到一本手册15天后起诉全额退回.md) | 交3.5万只拿到一本手册，15天后起诉，全额退回 | Paid 35000 for a manual, sued 15 days lat… | 餐饮 | 失败关停 | CN·2019 | 管理培训费加技术信息转让费加运营指导费共3.5万元｜合同期限1年｜只交付《技术手册》｜付款… |
+| [J004](../cases/07-judgments/J004-广告说一天流水三万多法院认定欺诈19万只拿回5.5万.md) | 广告说"一天流水三万多"，法院认定欺诈，19万只拿… | Ads promised 30,000 daily revenue; court … | 餐饮 | 失败关停 | CN·2018 | 服务费86800元｜代购料款44900元｜装修费55000元｜合计191700元｜配送设备… |
+| [J005](../cases/07-judgments/J005-加盟费15.9万品牌备案被撤销没告知法院判退7万.md) | 加盟费15.9万，品牌备案被撤销没告知，法院判退7万 | Franchise fee 159000; the brand's filing … | 餐饮 | 失败关停 | CN·2020 | 加盟费15.9万元｜保证金1万元｜合计16.9万元｜判决返还7万元（41.4%）｜2022… |
+| [J007](../cases/07-judgments/J007-蜜桃里加盟骗局300多人被骗5400万主犯判12年.md) | "蜜桃里"加盟骗局：300多人被骗5400万，主犯… | The Mitaoli franchise scam took 54 millio… | 餐饮 | 失败关停 | CN·2026 | 被害人300余名｜骗取加盟费合计5400余万元｜主犯有期徒刑12年｜同案被告人5年｜并处罚… |
+
 ## 内容媒体 (46)
 
 | ID | 标题 | 英文标题 | 行业 | 结局 | 地区·年份 | 关键数字 |
@@ -254,52 +305,6 @@
 | [G734](../cases/06-starter-story/G734-她花钱买的建议把她带进沟里.md) | 她花钱买的建议，把她带进了沟里 | Paid advice sent her nowhere; mastering P… | 内容媒体 | 成功在营 | CA·2017 | 月收入 $18K（页面字段）／自述净利 $13,000-$25,000｜启动成本 页面未给… |
 | [G735](../cases/06-starter-story/G735-拳击手写了三年没人看.md) | 拳击手写了三年没人看，直到他只写一件事 | A boxer wrote for three years to no audie… | 内容媒体 | 成功在营 | US·2013 | 月收入 $25K｜启动成本 页面未披露｜启动耗时 页面未披露（2013 年起）｜团队人数 … |
 | [G736](../cases/06-starter-story/G736-他发现自己在别人的地盘上盖房子.md) | 他发现自己在别人的地盘上盖房子 | He moved his audience off Instagram into … | 内容媒体 | 结果未定 | CA·2018 | 月收入 $8.5K｜启动成本 全部用个人积蓄（页面未给具体金额）｜启动耗时 约一年才见到有… |
-
-## 餐饮 (41)
-
-| ID | 标题 | 英文标题 | 行业 | 结局 | 地区·年份 | 关键数字 |
-| --- | --- | --- | --- | --- | --- | --- |
-| [G003](../cases/01-personal-failure/G003-一碗淮南牛肉汤.md) | 一碗淮南牛肉汤，教他现金流比估值诚实 | A Huainan beef soup shop grew to three st… | 餐饮 | 失败关停 | CN·2019 | 从1家店开到3家｜自己搞设计装修拓品类｜自学摄影和PS做外卖产品图｜门店在"口罩"时期陆续… |
-| [G004](../cases/01-personal-failure/G004-亏掉两千万之后.md) | 亏掉两千万之后，他关掉了 GitHub，回老家先学… | After losing 20 million yuan he closed Gi… | 餐饮 | 失败关停 | CN·2023 | 2023年3月底转让最后一家餐饮店｜2023年6月底离开南京｜合计损失2000多万（个人估… |
-| [G109](../cases/02-founder-postmortems/G109-第一家公司的复盘.md) | 转型转到一半钱没了：三年、50万种子轮和一辆卖掉的车 | His first company ran three years on $500… | 餐饮 | 失败关停 | US·2013 | 2009年12月关停｜经营三年｜种子轮50万美元｜波士顿20家餐厅试点跑了超一年｜无薪工作… |
-| [G118](../cases/02-founder-postmortems/G118-每单收一美元要喝六轮才回本.md) | 每一单收一美元，用户得喝六轮才回本 | Flowtab charged $1 an order and needed si… | 餐饮 | 失败关停 | US·2013 | 2011年5月上线落地页｜2012年2月进应用商店｜2013年1月12家酒吧、3个城市｜2… |
-| [G308](../cases/03-failory/G308-月流水十一万美元被一纸报告停掉自提.md) | 月流水十一万美元，被一纸报告停掉自提 | 110k a month in orders, shut down by a si… | 餐饮 | 失败关停 | CA·2018 | 月流水10万–12.5万美元（周流水约2.5万美元）｜年营收130万美元｜每餐7.99美元… |
-| [G316](../cases/03-failory/G316-先买榨汁机再做市场.md) | 先买两台榨汁机再做市场，三千美元换来一句"免费也不… | Bought two juicers first, then found nobo… | 餐饮 | 失败关停 | TH·2021 | 设备约2000美元+总投入至少3000美元｜收入300美元｜两台商用冷压榨汁机｜三周调试配… |
-| [G342](../cases/03-failory/G342-对手卖一半价.md) | 对手卖一半价，我们跟不动 | A competitor sold at half the price and t… | 餐饮 | 失败关停 | IN·2017 | 市场价约1美元（70卢比）/餐｜定价素食2.5美元（150卢比）、非素食3.5美元（200… |
-| [G404](../cases/03-failory/G404-在意营养的人在家做饭.md) | 在意营养的人在家做饭，在外吃饭的人不在意 | People who care about nutrition cook at h… | 餐饮 | 失败关停 | IL·2016 | 2位创始人｜零融资，全自有资金｜每道菜实验室检测约80美元｜餐厅付一道、他们付一道（后改为… |
-| [G621](../cases/05-china-interviews/G621-武汉摆摊卖手抓饭.md) | 6000块本金，一家七口在武汉摆摊卖手抓饭，月入最… | Started with 6,000 RMB, seven family memb… | 餐饮 | 结果未定 | CN·2026 | 创业本金仅五六千元｜手抓饭23元一份约600克｜高峰期一天卖100-150份｜两个摊位月收… |
-| [G623](../cases/05-china-interviews/G623-150万加盟火锅自助四个月闭店.md) | 卖房凑150万加盟火锅自助，首月流水70万反而亏2… | Sold his house for 1.5M RMB to join a buf… | 餐饮 | 失败关停 | CN·2025 | 总投入150多万（加盟费十几万＋装修40多万＋备货七八十万）｜首月流水六七十万、净亏20多… |
-| [G624](../cases/05-china-interviews/G624-摆摊的真实账本.md) | 摆摊的账没人给你算：6月只出摊19天赚6700，饺… | Street-stall math: 19 days in June earned… | 餐饮 | 失败关停 | CN·2025 | 广州大学城摊主6月出摊19天总收入约6700元、日均352元（最高733、最低120）｜生… |
-| [G629](../cases/05-china-interviews/G629-昆明娘惹糕私房甜品.md) | 从露楚到娘惹糕：昆明私房甜品主理人，一天卖三四十份… | Nyonya cake kitchen in Kunming sells 30-4… | 餐饮 | 结果未定 | CN·2020 | 泰式露楚5元/个、一盒10个50元｜斑斓戚风蛋糕靠自然客流一天卖三四十份｜新年礼盒最多订出… |
-| [G641](../cases/05-china-interviews/G641-电台主持卖房开雪冰店亏160万.md) | 电台主持辞职卖房开雪冰店，两年亏掉160万 | Sold his house to open a shaved-ice franc… | 餐饮 | 失败关停 | unknown·2018 | 合计亏损160万（含卖房款）｜加盟费+装修+租金前期投入几十万｜最差一天营业额18元｜最好… |
-| [G642](../cases/05-china-interviews/G642-上海羊肉面馆十几天关店.md) | 三人凑80万在上海开羊肉面馆，开业十几天就关门 | Three partners pooled 800K RMB for a Shan… | 餐饮 | 失败关停 | CN·2024 | 三人凑80万｜月租9.5万、付三押二一次花掉45万房租｜开业约十几天关门｜实际亏损约60万… |
-| [G643](../cases/05-china-interviews/G643-合肥宜家一年亏200万.md) | 餐饮十年没亏过，他在合肥宜家一年亏掉200万 | A decade of profitable restaurants, one y… | 餐饮 | 失败关停 | CN·2023 | 一年亏200万｜拉面店投入50万｜煲仔饭店投入110多万（超预算30万）｜200万里有10… |
-| [G644](../cases/05-china-interviews/G644-北京开面馆半年赔光40万.md) | 年过四十在北京开面馆，半年赔光40万 | Opened a Beijing noodle shop at forty, lo… | 餐饮 | 失败关停 | CN·2025 | 前期装修和设备约30万｜月租2.6万｜半年赔光40万｜盈亏平衡一天80碗｜实际日销50-1… |
-| [G661](../cases/05-china-interviews/G661-关掉16家店利润反涨6000万.md) | 关掉16家店，利润反而涨了6000万 | Closed 16 pizza stores in 2019 and profit… | 餐饮 | 成功在营 | CN·2018 | 2015年红杉资本注资6000万元｜2018年为囤榴梿半年筹资8000万元｜2019年主动… |
-| [G663](../cases/05-china-interviews/G663-一年卖400万份汤292天后全部关停.md) | 一年卖出400万份汤，292天后全部门店关停 | Sold 4M bowls of soup in a year, shut eve… | 餐饮 | 失败关停 | CN·2015 | 不到两年3轮融资累计上亿元｜2018年3月A+轮近亿元｜号称1年卖出400万份汤｜停业时近… |
-| [G665](../cases/05-china-interviews/G665-烧光3000万8家茶馆关掉6家.md) | 六年四次创业，烧光3000万，8家茶馆关掉6家 | Four startups in six years burned 30M RMB… | 餐饮 | 失败关停 | CN·2014 | 六年四次创业累计投入超3000万元｜第一次创业录一门精品课成本10万到三四十万元｜第二次拿… |
-| [G670](../cases/05-china-interviews/G670-36家店发不出工资他自筹600万.md) | 36家店发不出工资，他宁可自己凑600万，也不接受… | Rather than open his books, he raised 6M … | 餐饮 | 成功在营 | CN·2008 | 2008年3万元积蓄＋借款3万元开出第一家店｜2016年36家门店、年营业额4亿元｜201… |
-| [G673](../cases/05-china-interviews/G673-五年烧光1亿只剩11家店.md) | 五年烧光1亿，500家店只剩11家 | Burned 100M RMB in five years, 500 signed… | 餐饮 | 失败关停 | CN·2021 | 累计亏损超1亿元｜签约超500家门店｜全国只剩11家｜两家旗舰店亏800多万｜旗舰店租金百… |
-| [G674](../cases/05-china-interviews/G674-23家店关到2家卖豪车.md) | 23家店关到2家，他卖掉豪车发工资 | From 23 stores to 2, he sold his luxury c… | 餐饮 | 结果未定 | CN·2016 | 单店估值3000万｜10个城市23家店｜北京20多家店最后剩2家｜100多万的豪车20万出… |
-| [G675](../cases/05-china-interviews/G675-三家面馆亏300万.md) | 三家面馆全关，装修就花了200多万 | Three noodle shops closed with 3M RMB in … | 餐饮 | 失败关停 | CN·2022 | 亏损超300万｜三家店装修200多万｜开业活动20万到30万｜首店300平米｜首店20多个… |
-| [G676](../cases/05-china-interviews/G676-追风口连关8家店.md) | 追风口三年，他连关8家店 | Chased three food trends in three years a… | 餐饮 | 失败关停 | unknown·2022 | 三年关8家店｜酸汤牛肉火锅投资30多万｜关店亏损近40万｜只开4个月｜烤肉店投资70万｜半… |
-| [G677](../cases/05-china-interviews/G677-70万开店品牌25万想收购.md) | 70万开奶茶店，品牌想25万收购 | Spent 700K RMB on a tea shop, the brand o… | 餐饮 | 失败关停 | unknown·2022 | 总投资70万｜加盟费49800元｜设备和首批物料不到20万｜月流水16万实收13万｜5个员… |
-| [G678](../cases/05-china-interviews/G678-加盟费27万物料占六成.md) | 加盟费27万，物料吃掉六成营收 | A 270K RMB franchise fee, and supplies at… | 餐饮 | 失败关停 | CN·2019 | 加盟费16.8万到27.8万｜保证金3万到5万｜连续两月亏损过万｜物料成本占收入50%到6… |
-| [G679](../cases/05-china-interviews/G679-日营业额不过百的馒头店.md) | 日营业额不过百，开门一天赔两三百 | A steamed-bun shop taking in under 100 RM… | 餐饮 | 失败关停 | CN·2023 | 投入10多万｜加盟费16800元｜转让费3.5万｜半年房租1.8万｜装修1万｜设备2万｜日… |
-| [G681](../cases/05-china-interviews/G681-11万设备卖3000块.md) | 11万买的设备，3000块打包卖掉 | Equipment bought for 110K RMB sold as a l… | 餐饮 | 失败关停 | CN·2019 | 亏损24万｜开业投入20来万｜月租7500元｜日营业额1500元｜设备桌椅原价近11万｜二… |
-| [G682](../cases/05-china-interviews/G682-自创奶茶品牌亏150万.md) | 自创奶茶品牌，三家店关到剩一家 | Homegrown tea brand lost 1.5M RMB when le… | 餐饮 | 失败关停 | CN·2020 | 单店投入40万｜累计亏损150万｜巅峰3家店关掉2家｜柠檬从两块多一斤涨到35元｜全国48… |
-| [G685](../cases/05-china-interviews/G685-天津海鲜680万清零.md) | 从年流水过亿到失信人，他在天津开的三家海鲜店，68… | From 100M RMB a year to debtor: three sea… | 餐饮 | 失败关停 | CN·2000 | 学徒月薪200元｜首店凑100万，350平米首年营收近1400万｜二店投资近240万，首月… |
-| [G686](../cases/05-china-interviews/G686-曲靖奶茶半年亏50万.md) | 冲着"霸王茶姬"去加盟，他在曲靖开店半年，背上30… | Signed a 130K RMB tea franchise in Qujing… | 餐饮 | 失败关停 | CN·2024 | 加盟费13万｜设备费10万｜贷款30多万｜总投入50多万｜负债30多万｜同品牌几十家店倒闭… |
-| [G687](../cases/05-china-interviews/G687-长沙奶茶亏200万改炸鸡.md) | 长沙奶茶亏掉200多万，她用3万块、3天改成炸鸡店 | Lost 2M RMB on milk tea, switched to frie… | 餐饮 | 转型存活 | CN·2018 | 单店年营业额最高400多万｜门店最多50多家｜日营业额1万→5000→2000｜累计亏损2… |
-| [G688](../cases/05-china-interviews/G688-广州25平米牛杂咖啡关店.md) | 25平米小店日流水从2万跌到3000，他在还盈利时… | A 25-square-meter shop fell from 20K to 3… | 餐饮 | 失败关停 | CN·2021 | 25平米｜转让费12万｜月租14500元涨到18500元｜巅峰日营业额近2万、单日排队超1… |
-| [G689](../cases/05-china-interviews/G689-昆山300平咖啡馆12年没回本.md) | 20个人凑钱开的300平咖啡馆，12年没回本，只剩… | Twenty partners opened a 300-square-meter… | 餐饮 | 失败关停 | CN·2013 | 300多平米｜启动资金46万｜重装再投50万｜12年未回本｜合伙人从20人减到7人，6人股… |
-| [G690](../cases/05-china-interviews/G690-昆明米线80万一年半.md) | 总部占股51%的联营米线店，她掏40万，一年半后交… | Headquarters held 51%, she put in 400K, a… | 餐饮 | 失败关停 | CN·2024 | 总投资80万，自付40万｜总部占股51%、她占49%｜每月工资5000元｜日流水峰值700… |
-| [G691](../cases/05-china-interviews/G691-烘焙加盟10万块买了个文字游戏.md) | 花10万加盟烘焙店，品牌在1.5公里外开了家更便宜… | Paid 100K RMB for a bakery franchise, the… | 餐饮 | 失败关停 | CN·2024 | 加盟费9万｜保证金1万｜一次性付10万｜40平米｜月租4000元｜合同3年｜直营店开在1.… |
-| [G695](../cases/05-china-interviews/G695-武汉烤鸭30万接手四个月.md) | 30万接手武汉烤鸭店，4个月后他才知道"直营店"是… | Paid 300K RMB for a Wuhan roast-duck shop… | 餐饮 | 失败关停 | CN·2024 | 总投资近30万｜转让费12万｜月租1.5万｜员工月薪5000元｜首月日营收3000多元｜之… |
-| [G696](../cases/05-china-interviews/G696-合肥小火锅半年亏30万.md) | 被裁后加盟小火锅，加盟费39800元，半年亏掉30万 | Paid 39,800 RMB to join a hotpot chain, l… | 餐饮 | 失败关停 | CN·2025 | 加盟费39800元｜保证金4000元｜管理费5000元/年｜定金2000元｜月租6800元… |
-| [G719](../cases/06-starter-story/G719-多伦多两个人做狗零食.md) | 多伦多两个人做狗零食，做到月入一万五，八年后关掉 | A Toronto couple built a dog treat brand … | 餐饮 | 失败关停 | CA·2015 | 月收入 $15K｜启动成本 未披露（自制起步，宠物展周末卖 $3,000）｜启动耗时 被解… |
-| [G720](../cases/06-starter-story/G720-把腌黄瓜水装进酒瓶.md) | 把腌黄瓜水装进酒瓶，卖给纽约的酒吧 | They raised $11,000 to bottle pickle juic… | 餐饮 | 失败关停 | US·2016 | 月收入 $10K｜启动成本 $11,000（2016 年）｜启动耗时 2016 年投入，2… |
-| [G723](../cases/06-starter-story/G723-用一辆自行车烘咖啡豆.md) | 用一辆自行车烘咖啡豆，在育空卖到月入七千五 | He roasted coffee on a bicycle and reache… | 餐饮 | 结果未定 | CA·2015 | 月收入 $7.5K｜启动成本 第一套烘焙装置 $11（两只不锈钢滤网 + 一根烤热狗的杆）… |
 
 ## 本地服务 (29)
 
@@ -366,7 +371,7 @@
 | [G717](../cases/06-starter-story/G717-三个大学生卖雪茄订阅.md) | 三个大学生凑四千五百美元，卖雪茄订阅第一个月只来三单 | Three students invested $4,500 and got th… | 电商 | 结果未定 | US·2015 | 月收入 $20K（页面字段；正文写年 $250K、月 $12K、35% 利润率）｜启动成本… |
 | [G722](../cases/06-starter-story/G722-一个人把日本糖果寄到全世界.md) | 一个人把日本糖果寄到全世界，月流水八千只剩一千五 | One man shipped Japanese candy for $8,200… | 电商 | 结果未定 | JP·2011 | 月收入 $8,200（正文；页面字段 $6.5K）｜月利润 约 $1,500｜启动成本 $… |
 
-## 教育 (20)
+## 教育 (21)
 
 | ID | 标题 | 英文标题 | 行业 | 结局 | 地区·年份 | 关键数字 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -390,8 +395,9 @@
 | [G649](../cases/05-china-interviews/G649-常州教培校区一年亏百万.md) | 加盟"超级演说家"开常州校区，不到一年亏掉100多万 | Franchised a speaking school in Changzhou… | 教育 | 失败关停 | CN·2020 | 前期投入60多万（加盟费+房租+装修+老师培训）｜月租4万｜每月固定开支约16万｜2021… |
 | [G650](../cases/05-china-interviews/G650-卖4套房负债1亿的托育连锁.md) | 卖了4套房创业12年，疫情半年支出超7000万，她… | Sold four apartments to build a 40-site d… | 教育 | 失败关停 | CN·2020 | 公司负债约1亿｜疫情停摆半年支出超7000万：退费超3000万+物业租金2000多万+老师… |
 | [G666](../cases/05-china-interviews/G666-580家店全停15天做出自负盈亏.md) | 580家门店全停，她用15天做出自负盈亏 | With 580 centers closed, she reached brea… | 教育 | 成功在营 | CN·2020 | 旗下580家托育早教中心全部停业｜3家直营店每月净亏90万至120万元｜加盟费按城市分18… |
+| [J003](../cases/07-judgments/J003-跟个体户签加盟协议3万只退回1.5万.md) | 跟个体户签加盟协议，3万加盟费只退回1.5万 | Signing a franchise deal with a sole prop… | 教育 | 失败关停 | CN·2023 | 加盟费3万元｜品牌使用费每年5000元｜判决返还1.5万元（50%）｜2023年8月签约、… |
 
-## 其他 (14)
+## 其他 (15)
 
 | ID | 标题 | 英文标题 | 行业 | 结局 | 地区·年份 | 关键数字 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -409,6 +415,7 @@
 | [G243](../cases/04-indie-hacker/G243-12岁男孩的像素鲸鱼9小时卖了40万美元.md) | 12岁男孩的像素鲸鱼，9小时卖了40万美元 | A 12-year-old sold 3,350 pixel whales for… | 其他 | 成功在营 | UK·2021 | 12岁｜3350条像素鲸鱼｜9小时售罄｜一天80枚以太币｜总收入超40万美元（按当时以太币… |
 | [G272](../cases/04-indie-hacker/G272-NFT版税最高月入15万但他说不重来.md) | NFT版税最高月入15万，但他说不会再来一次 | NFT Royalties Peaked at $150,000 a Month,… | 其他 | 失败关停 | unknown·2022 | 标题口径36万美元/年｜正文称每月版税5万到15万美元｜18人团队｜用户共铸造10万个NF… |
 | [G652](../cases/05-china-interviews/G652-武汉服装厂150人瞬间清零.md) | 武汉150人的服装厂，封城三个月后瞬间清零 | A 150-worker garment factory in Wuhan wen… | 其他 | 失败关停 | CN·2020 | 150名工人分批遣散｜欠薪70多万（最终仍有十几万缺口发不出）｜年前订的面辅料几十万全砸仓… |
+| [J006](../cases/07-judgments/J006-15家门店全是加盟商的被罚10万.md) | 15家门店全是加盟商的，不具备"两店一年"，被罚1… | Fifteen outlets were all franchisees', fa… | 其他 | 结果未定 | CN·2021 | 15家门店全部为个体工商户｜罚款10万元｜"两店一年"为法定门槛｜2021年9月检查发现未… |
 
 ## 硬件制造 (14)
 

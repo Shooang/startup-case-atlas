@@ -20,6 +20,9 @@ TAG_ZH = {
     "partnership-dispute": "合伙纠纷", "product-market-fit": "需求错配",
     "retention": "复购留存", "cost-structure": "成本结构", "scaling": "扩张过快",
     "pivot": "转型",
+    # 司法判决案例新增
+    "contract-dispute": "合同纠纷", "false-advertising": "虚假宣传",
+    "qualification": "资质门槛",
 }
 
 
@@ -155,23 +158,27 @@ for _f in _fw_files:
     if _m:
         _fw_books.add(_m.group(1).strip())
 _fw_b = len(_fw_books)
+_dir_n = collections.Counter(str(pathlib.Path(r["path"]).parent) for r in rows)
+def _dn(d):
+    return _dir_n.get(d, 0)
 ll = ["# Startup Case Atlas", "",
-      "> 419 个创业与生意案例的结构化中文库，覆盖失败复盘、独立开发变现、中国小店账本、"
-      "真实生意收入数据。每个案例字段统一：行业、结局、地区、年份、关键数字、时间线、因果链、可用角度。",
+      f"> {len(rows)} 个创业与生意案例的结构化中文库，覆盖失败复盘、独立开发变现、中国小店账本、"
+      "真实生意收入数据、司法判决里的加盟纠纷。每个案例字段统一：行业、结局、地区、年份、关键数字、时间线、因果链、可用角度。",
       "",
       "## 使用方式", "",
       "- 单篇：`cases/<分类>/<ID>-<标题>.md`，YAML front matter 可直接解析",
       "- 批量：`data/cases.jsonl`（每行一个案例，含全部字段）",
       "- 表格：`data/cases.csv`",
-      "- 全文：`llms-full.txt`（全部案例正文拼接，约 40 万字）",
+      f"- 全文：`llms-full.txt`（全部案例正文拼接，约 {sum(len(r['body']) for r in rows)//10000} 万字）",
       "",
       "## 分类目录", "",
-      "- [个人失败自述](cases/01-personal-failure/)：4 篇，当事人自己写的",
-      "- [创始人文复盘](cases/02-founder-postmortems/)：25 篇，2006-2016 为主",
-      "- [失败访谈 Failory](cases/03-failory/)：129 篇，2020-2023 多国",
-      "- [独立开发变现](cases/04-indie-hacker/)：156 篇，单人产品与订阅生意",
-      "- [中文创业访谈与小店](cases/05-china-interviews/)：69 篇，2019 年后中国实体生意账本",
-      "- [真实生意数据库](cases/06-starter-story/)：36 篇，带月收入与启动成本",
+      f"- [个人失败自述](cases/01-personal-failure/)：{_dn('cases/01-personal-failure')} 篇，当事人自己写的",
+      f"- [创始人文复盘](cases/02-founder-postmortems/)：{_dn('cases/02-founder-postmortems')} 篇，2006-2016 为主",
+      f"- [失败访谈 Failory](cases/03-failory/)：{_dn('cases/03-failory')} 篇，2020-2023 多国",
+      f"- [独立开发变现](cases/04-indie-hacker/)：{_dn('cases/04-indie-hacker')} 篇，单人产品与订阅生意",
+      f"- [中文创业访谈与小店](cases/05-china-interviews/)：{_dn('cases/05-china-interviews')} 篇，2019 年后中国实体生意账本",
+      f"- [真实生意数据库](cases/06-starter-story/)：{_dn('cases/06-starter-story')} 篇，带月收入与启动成本",
+      f"- [司法判决案例](cases/07-judgments/)：{_dn('cases/07-judgments')} 篇，法院生效判决里的加盟与合伙纠纷，双方账目经法庭质证",
       "",
       "## 索引", "",
       "- [按行业](index/by-industry.md)", "- [按结局](index/by-outcome.md)",
@@ -187,7 +194,7 @@ ll = ["# Startup Case Atlas", "",
 
 # 5. llms-full.txt（仅原创卡片，不含 legacy 全文）
 fl = ["# Startup Case Atlas — Full Text", "",
-      "> 419 个案例的完整正文。每条含 front matter 与三段正文。", ""]
+      f"> {len(rows)} 个案例的完整正文。每条含 front matter 与三段正文。", ""]
 for r in rows:
     fl.append(f"\n\n===== {r['id']} | {r['title']} | {r['title_en']} =====\n")
     fl.append(f"行业: {r['industry']} | 结局: {r['outcome']} | 地区: {r['region']} | 年份: {r['year']}")

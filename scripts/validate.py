@@ -12,7 +12,9 @@ INDUSTRY = {"food-beverage", "retail", "ecommerce", "content-media", "software-s
 OUTCOME = {"failure", "success", "exit", "pivoted", "ongoing"}
 TAGS = {"franchise", "low-price-trap", "traffic-dependency", "platform-risk",
         "cashflow-crunch", "supply-chain", "partnership-dispute",
-        "product-market-fit", "retention", "cost-structure", "scaling", "pivot"}
+        "product-market-fit", "retention", "cost-structure", "scaling", "pivot",
+        # 司法判决案例（07-judgments）新增
+        "contract-dispute", "false-advertising", "qualification"}
 SECTIONS = ["## 故事正文", "## 可用观点", "## 事实边界"]
 
 

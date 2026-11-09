@@ -13,7 +13,7 @@ quote: "你要什么KPI，我就能给你做什么KPI。"
 doctrine: [management, decision]
 tags: [retention, scaling]
 applies_to: [设计一套考核指标, 审一份向上汇报的数据, 判断数据变好是不是真的变好, 给创新业务定目标]
-related_cases: []
+related_cases: [G346]
 status: 未使用
 ---
 
