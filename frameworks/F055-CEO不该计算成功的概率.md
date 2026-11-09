@@ -13,6 +13,7 @@ quote: "创业公司的CEO不应该计算成功的概率"
 doctrine: [decision, management]
 tags: [resilience, decision-making, courage]
 applies_to: [判断该继续坚持还是止损, 在信息不足时做不可逆决策, 检查自己是否在用"概率"逃避动作, 评估一个 CEO 的决策质量]
+related_cases: [G109, G647]
 status: 未使用
 ---
 
