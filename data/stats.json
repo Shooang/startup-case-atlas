@@ -1,30 +1,30 @@
 {
-  "cases": 426,
+  "cases": 433,
   "legacy": 95,
   "by_industry": {
-    "software-saas": 195,
-    "other": 15,
-    "food-beverage": 46,
+    "software-saas": 196,
+    "other": 16,
+    "food-beverage": 47,
     "logistics": 6,
     "fintech": 9,
-    "content-media": 46,
-    "retail": 10,
+    "content-media": 47,
+    "retail": 11,
     "ecommerce": 26,
     "education": 21,
-    "hardware": 14,
+    "hardware": 15,
     "services": 29,
     "gaming": 6,
-    "healthcare": 3
+    "healthcare": 4
   },
   "by_outcome": {
-    "failure": 199,
+    "failure": 203,
     "pivoted": 14,
     "ongoing": 62,
     "exit": 15,
-    "success": 136
+    "success": 139
   },
   "by_region": {
-    "CN": 72,
+    "CN": 79,
     "US": 108,
     "UK": 24,
     "BE": 5,
@@ -56,6 +56,6 @@
     "ZA": 1,
     "JP": 1
   },
-  "total_body_chars": 582888,
+  "total_body_chars": 591907,
   "legacy_chars": 2381235
 }

@@ -2,17 +2,17 @@
 
 [中文](README.md) · [English](README.en.md) · [日本語](README.ja.md) · **한국어** · [Español](README.es.md)
 
-![cases](https://img.shields.io/badge/cases-426-D85A30?style=flat-square) ![frameworks](https://img.shields.io/badge/frameworks-234-1D4ED8?style=flat-square) ![chars](https://img.shields.io/badge/text-582k_chars-6B7280?style=flat-square) ![license](https://img.shields.io/badge/license-CC_BY--SA_4.0-0F6E56?style=flat-square) ![llms](https://img.shields.io/badge/llms.txt-ready-534AB7?style=flat-square)
+![cases](https://img.shields.io/badge/cases-433-D85A30?style=flat-square) ![frameworks](https://img.shields.io/badge/frameworks-234-1D4ED8?style=flat-square) ![chars](https://img.shields.io/badge/text-592k_chars-6B7280?style=flat-square) ![license](https://img.shields.io/badge/license-CC_BY--SA_4.0-0F6E56?style=flat-square) ![llms](https://img.shields.io/badge/llms.txt-ready-534AB7?style=flat-square)
 
-**426개의 사업, 모두 장부가 붙어 있습니다. 얼마를 들였고, 얼마를 벌었고, 어느 대목에서 돈이 끊겼는지.**
+**433개의 사업, 모두 장부가 붙어 있습니다. 얼마를 들였고, 얼마를 벌었고, 어느 대목에서 돈이 끊겼는지.**
 
 그중 **246건(59%)이 같은 이유로 끝났습니다**——아무도 원하지 않는 것을 만들고, 아무도 원하지 않는다는 사실을 확인하는 데 돈을 다 쓴 경우입니다.
 
 [실패 메커니즘별로 보기](index/by-mechanism.md) · [업종별](index/by-industry.md) · [지역별](index/by-region.md) · [데이터 받기](data/cases.jsonl) · [모델에 먹이기](llms.txt)
 
-<img src="assets/failure-mechanisms.svg" width="780" alt="426개 사례의 실패 메커니즘 분포: 수요 불일치 246, 과잉 확장 120, 비용 구조 118, 단일 유입 의존 108, 현금흐름 단절 93">
+<img src="assets/failure-mechanisms.svg" width="780" alt="433개 사례의 실패 메커니즘 분포: 수요 불일치 246, 과잉 확장 120, 비용 구조 118, 단일 유입 의존 108, 현금흐름 단절 93">
 
-> **사례 본문은 중국어입니다.** 스키마·색인·데이터 파일·이 README는 한국어지만, 426편의 본문은 중국어로 쓰여 있습니다. 구조화된 중국어 사업 사례는 희귀하고, 이 아틀라스가 메우는 빈틈이 바로 그 지점입니다.
+> **사례 본문은 중국어입니다.** 스키마·색인·데이터 파일·이 README는 한국어지만, 433편의 본문은 중국어로 쓰여 있습니다. 구조화된 중국어 사업 사례는 희귀하고, 이 아틀라스가 메우는 빈틈이 바로 그 지점입니다.
 
 ---
 
@@ -22,7 +22,7 @@
 | --- | --- |
 | 일단 하나 읽기 | [`index/by-mechanism.md`](index/by-mechanism.md)——"프랜차이즈 함정"이나 "현금흐름 단절"부터 |
 | 특정 기준으로 찾기 | [업종](index/by-industry.md) · [결말](index/by-outcome.md) · [지역](index/by-region.md) · [연도](index/by-year.md) |
-| 데이터가 필요할 때 | [`data/cases.jsonl`](data/cases.jsonl)——426행, 한 줄에 사례 하나, 전체 필드 |
+| 데이터가 필요할 때 | [`data/cases.jsonl`](data/cases.jsonl)——433행, 한 줄에 사례 하나, 전체 필드 |
 | 모델에 넣을 때 | 먼저 [`llms.txt`](llms.txt)(1.3 KB), 컨텍스트가 충분하면 [`llms-full.txt`](llms-full.txt)(1.7 MB) |
 
 ```bash
@@ -67,10 +67,10 @@ key_numbers: 总投入150多万（加盟费十几万＋装修40多万＋备货�
 | [`cases/04-indie-hacker/`](cases/04-indie-hacker/) | 156 | 1인 또는 소규모 팀의 유료 제품 | 2019–2026 |
 | [`cases/05-china-interviews/`](cases/05-china-interviews/) | 69 | 중국 실물 사업: 요식, 프랜차이즈, 소규모 점포, 서비스 | 2018–2026 |
 | [`cases/06-starter-story/`](cases/06-starter-story/) | 36 | 월 매출·초기 비용·준비 기간이 붙은 소규모 사업 | 2019–2024 |
-| [`cases/07-judgments/`](cases/07-judgments/) | 7 | 확정 판결에 남은 가맹 분쟁. 장부가 법정에서 다퉈진 사례 | 2018–2026 |
+| [`cases/07-judgments/`](cases/07-judgments/) | 14 | 판결과 사례집 등재 사례: 가맹·동업 해체·대가 도박·미지급 대금 분쟁 | 2016–2026 |
 | [`legacy/articles/`](legacy/articles/) | 95 | 초기 중국어 웹 아티클 아카이브, 원링크 다수 소실 | 2000–2012 |
 
-**합계:** 426개 사례 · 본문 약 58.2만 자 · 아카이브 95편 · 31개 국가·지역 · 13개 업종 · 5가지 결말 · 15가지 실패 메커니즘.
+**합계:** 433개 사례 · 본문 약 59.2만 자 · 아카이브 95편 · 31개 국가·지역 · 13개 업종 · 5가지 결말 · 15가지 실패 메커니즘.
 
 ## 프레임 카드: 사례 뒤에 있는 판단 도구
 
@@ -138,7 +138,7 @@ key_numbers: 总投入150多万（加盟费十几万＋装修40多万＋备货�
 
 창업에 관한 글은 대개 두 가지 결함을 갖습니다. 성공담은 숫자를 지우고, 실패담은 원인을 "경영 부진" 네 글자로 압축합니다.
 
-이 아틀라스는 그 반대를 겨냥했습니다. 426개의 구체적인 사업을 하나씩 기록합니다——**얼마를 들였고, 얼마를 벌었고, 돈이 어디로 사라졌고, 어느 한 수에서 무너졌는지**.
+이 아틀라스는 그 반대를 겨냥했습니다. 433개의 구체적인 사업을 하나씩 기록합니다——**얼마를 들였고, 얼마를 벌었고, 돈이 어디로 사라졌고, 어느 한 수에서 무너졌는지**.
 
 다른 점은 두 가지입니다.
 
@@ -174,7 +174,7 @@ key_numbers: 总投入150多万（加盟费十几万＋装修40多万＋备货�
 
 이것은 **2차적 저작물이며 미러 사이트가 아닙니다**. 다른 사람의 기사를 복사해 붙인 글은 한 편도 없습니다. 모두 공개된 보도를 바탕으로 다시 쓴 중국어 기술이며, 원문 링크가 파일 안에 있습니다.
 
-- **사례 본문**(426편): [CC BY-SA 4.0](LICENSE). 전재·변형 가능, 출처 표시 필요, 파생물도 동일 라이선스.
+- **사례 본문**(433편): [CC BY-SA 4.0](LICENSE). 전재·변형 가능, 출처 표시 필요, 파생물도 동일 라이선스.
 - **그중 4편은 [`byoungd/up`](https://github.com/byoungd/up)에서 유래**: 해당 프로젝트 본문이 **CC BY-NC 4.0**이므로 이 4편은 **상업적 이용 불가**. 자세한 내용은 [`ATTRIBUTIONS.md`](ATTRIBUTIONS.md).
 - **아카이브 아티클**(`legacy/`): 저작권은 원저자와 원 발행처에 있습니다. 연구와 색인 목적으로만 수록했으며 통지-삭제 절차를 따릅니다. [`DISCLAIMER.md`](DISCLAIMER.md) 참조.
 
