@@ -42,7 +42,7 @@ def main():
     height = PAD_TOP + ROW * len(items) + PAD_BOTTOM
 
     parts = [
-        f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {height}" width="{W}" height="{height}" role="img" aria-label="419 个创业案例的失败机制分布">',
+        f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {height}" width="{W}" height="{height}" role="img" aria-label="{total_cases} 个创业案例的失败机制分布">',
         f"<title>{total_cases} 个创业案例的失败机制分布</title>",
         "<style>",
         "  .bg{fill:#ffffff} .ttl{fill:#111827} .sub{fill:#6b7280}",
