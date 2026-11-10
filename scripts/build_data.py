@@ -25,6 +25,7 @@ TAG_ZH = {
     "qualification": "资质门槛",
     "labor-dispute": "劳动纠纷", "ip-infringement": "知识产权侵权",
     "equity-dispute": "股权代持与出资",
+    "prepaid-card": "预付卡跑路",
 }
 
 
@@ -165,7 +166,7 @@ def _dn(d):
     return _dir_n.get(d, 0)
 ll = ["# Startup Case Atlas", "",
       f"> {len(rows)} 个创业与生意案例的结构化中文库，覆盖失败复盘、独立开发变现、中国小店账本、"
-      "真实生意收入数据、司法判决里的加盟纠纷。每个案例字段统一：行业、结局、地区、年份、关键数字、时间线、因果链、可用角度。",
+      "真实生意收入数据、司法判决里的生意纠纷。每个案例字段统一：行业、结局、地区、年份、关键数字、时间线、因果链、可用角度。",
       "",
       "## 使用方式", "",
       "- 单篇：`cases/<分类>/<ID>-<标题>.md`，YAML front matter 可直接解析",
@@ -180,7 +181,7 @@ ll = ["# Startup Case Atlas", "",
       f"- [独立开发变现](cases/04-indie-hacker/)：{_dn('cases/04-indie-hacker')} 篇，单人产品与订阅生意",
       f"- [中文创业访谈与小店](cases/05-china-interviews/)：{_dn('cases/05-china-interviews')} 篇，2019 年后中国实体生意账本",
       f"- [真实生意数据库](cases/06-starter-story/)：{_dn('cases/06-starter-story')} 篇，带月收入与启动成本",
-      f"- [司法判决案例](cases/07-judgments/)：{_dn('cases/07-judgments')} 篇，法院生效判决里的加盟与合伙纠纷，双方账目经法庭质证",
+      f"- [司法判决案例](cases/07-judgments/)：{_dn('cases/07-judgments')} 篇，法院生效判决与最高法案例库入库案例：加盟、合伙散伙、对赌、货款、竞业限制、商标、代持、预付卡、工程款",
       "",
       "## 索引", "",
       "- [按行业](index/by-industry.md)", "- [按结局](index/by-outcome.md)",

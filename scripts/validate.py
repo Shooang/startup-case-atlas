@@ -15,7 +15,8 @@ TAGS = {"franchise", "low-price-trap", "traffic-dependency", "platform-risk",
         "product-market-fit", "retention", "cost-structure", "scaling", "pivot",
         # 司法判决案例（07-judgments）新增
         "contract-dispute", "false-advertising", "qualification",
-        "labor-dispute", "ip-infringement", "equity-dispute"}
+        "labor-dispute", "ip-infringement", "equity-dispute",
+        "prepaid-card"}
 SECTIONS = ["## 故事正文", "## 可用观点", "## 事实边界"]
 
 
