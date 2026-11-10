@@ -1,5 +1,5 @@
 {
-  "cases": 479,
+  "cases": 489,
   "legacy": 95,
   "by_industry": {
     "software-saas": 196,
@@ -12,19 +12,19 @@
     "ecommerce": 29,
     "education": 25,
     "hardware": 17,
-    "services": 39,
+    "services": 49,
     "gaming": 6,
     "healthcare": 12
   },
   "by_outcome": {
-    "failure": 248,
+    "failure": 258,
     "pivoted": 14,
     "ongoing": 62,
     "exit": 15,
     "success": 140
   },
   "by_region": {
-    "CN": 125,
+    "CN": 135,
     "US": 108,
     "UK": 24,
     "BE": 5,
@@ -56,6 +56,6 @@
     "ZA": 1,
     "JP": 1
   },
-  "total_body_chars": 664948,
+  "total_body_chars": 686504,
   "legacy_chars": 2381235
 }
