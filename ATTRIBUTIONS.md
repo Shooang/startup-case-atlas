@@ -16,7 +16,7 @@ This repository is a **derived work**, not a mirror. Every case note is an origi
 | [Failory](https://www.failory.com/interviews) | 商业网站 | 129 | 保留所有权利 | 仅引用访谈要点，**未复制原文** | 是（本库自有改写部分） |
 | [Starter Story](https://www.starterstory.com/) | 商业网站 | 36 | 保留所有权利 | 仅引用公开字段，**未复制原文** | 是（本库自有改写部分） |
 | 中文媒体（见第三节） | 新闻媒体 | 69 | 各媒体所有 | 仅引用事实与数字，**未复制原文** | 是（本库自有改写部分） |
-| 法院公开案例（见第四节） | 司法公开信息 | 14 | 司法公开信息，无版权主张 | 仅引用判决认定的事实与金额，**未复制原文** | 是（本库自有改写部分） |
+| 法院公开案例（见第四节） | 司法公开信息 | 21 | 司法公开信息，无版权主张 | 仅引用判决认定的事实与金额，**未复制原文** | 是（本库自有改写部分） |
 | 早期中文网页（见第五节） | 存档文章 | 95 | 归属不明 | **全文存档**，见 `DISCLAIMER.md` | **否** |
 
 **关键区别**：`legacy/` 之外的七个来源，本库都只做「读原文 → 用自己的话重写 → 标注链接」，没有搬运原文。唯一例外是 `legacy/`，那 95 篇是全文存档，独立处理，见第四节。
@@ -95,7 +95,7 @@ This repository is a **derived work**, not a mirror. Every case note is an origi
 
 ---
 
-## 四、法院公开案例（`cases/07-judgments/`，14 篇）
+## 四、法院公开案例（`cases/07-judgments/`，21 篇）
 
 这批案例的事实基础不是媒体报道，而是**法院生效判决认定的事实**或**最高人民法院案例库入库案例**。
 
@@ -107,8 +107,16 @@ This repository is a **derived work**, not a mirror. Every case note is an origi
   - J011：贵州省思南县人民法院官网刊载的法官案例分析（https://sinan.guizhoucourt.gov.cn/tpxw/310257.jhtml）
   - J013：湖南省平江县人民法院官网以案释法（http://pjxfy.hunancourt.gov.cn/article/detail/2025/12/id/9132782.shtml）
   - J014：江苏法院网（江苏省高级人民法院主办）刊载的如皋法院案例报道（https://www.jsfy.gov.cn/article/90397.html）
+- **第三批（J015–J021，竞业限制／商标侵权／股权代持）**：
+  - J015：中国法院网刊载的合肥市中级人民法院“守护劳动用工生态”劳动争议典型案例（https://www.chinacourt.cn/article/detail/2026/07/id/9422387.shtml）
+  - J016：广州市黄埔区人民法院官网转载的广州中院案例（http://hpfy.gzcourt.gov.cn/article/detail/2026/04/id/9258629.shtml）
+  - J017：济南市莱芜区人民法院官方微信公众号“以案说法”
+  - J018：金昌法院网转载的兰州市中级人民法院知识产权庭案例及庭长访谈（https://jinchang.chinagscourt.gov.cn/Wap/Show/105709）
+  - J019：人民网转载的武汉市江岸区人民法院案例报道（http://m2.people.cn/news/default.html?s=Ml8yXzQxNDczNDY1XzE5MjIzN18xNzY4NDY3OTI4）
+  - J020：中国法院网刊载的四川省简阳市人民法院案例（https://www.chinacourt.cn/article/detail/2026/09/id/9514427.shtml）
+  - J021：江苏法院网（江苏省高级人民法院主办）刊载的如皋法院案例（https://www.jsfy.gov.cn/article/98545.html）
 - **性质**：司法公开信息。各发布稿均对当事人作匿名处理，本库照录这一匿名状态，不做反向指认
-- **本库使用**：J001–J014。提取判决认定的金额、时间、裁判理由，重写为案例卡，保留原文链接
+- **本库使用**：J001–J021。提取判决认定的金额、时间、裁判理由，重写为案例卡，保留原文链接
 - **未做**：未复制判决书或发布稿原文；未对匿名主体做身份推断；未把单案比例表述为类案规律（每张卡「事实边界」一节均作此声明）
 - **为什么值得单列**：法院认定的事实经过双方举证质证，在「当事人自述 ＞ 媒体采访 ＞ 二手转述」这条可信度阶梯上位于最高一档。同一个「亏了多少、承诺过什么」，判决书里的版本和招商方的宣传版本经常不是一回事
 
@@ -194,16 +202,16 @@ This repository is a **derived work**, not a mirror. Every case note is an origi
 
 在上述素材之外，以下工作由本库完成，属原创部分，适用 CC BY-SA 4.0：
 
-1. **选题与筛选**：从数千篇候选里挑出 433 个有具体账目、有明确机制的案例，剔除 AI 生成内容、匿名软文、加盟招商导流稿
+1. **选题与筛选**：从数千篇候选里挑出 440 个有具体账目、有明确机制的案例，剔除 AI 生成内容、匿名软文、加盟招商导流稿
 2. **结构化重写**：统一为 16 字段，抽取关键数字、时间线、单一因果主链
 3. **事实核校**：逐篇核对数字与原始出处的对应关系，标注哪些是当事人自述、哪些是记者转述、哪些无法核实
-4. **失败机制标注**：15 类闭合标签体系，人工判定
+4. **失败机制标注**：18 类闭合标签体系，人工判定
 5. **索引与数据工程**：五套交叉索引、JSONL/CSV 数据集、`llms.txt` 机器入口、`legacy` 批量转换与清洗
 
 如果你在论文、产品、课程里用到本库，建议引用为：
 
 ```
-Startup Case Atlas (2026). 433 structured case studies of startups and small
+Startup Case Atlas (2026). 440 structured case studies of startups and small
 businesses. https://github.com/Shooang/startup-case-atlas
 ```
 
@@ -223,3 +231,4 @@ businesses. https://github.com/Shooang/startup-case-atlas
 | 2026-11-09 | 新增第 7 类案例「司法判决」（`cases/07-judgments/`，7 篇，最高人民法院商业特许经营典型案例）；案例总数 419 → 426；新增 3 个机制标签（合同纠纷／虚假宣传／资质门槛），标签体系 12 → 15 类 |
 | 2026-11-09 | 维护批：32 张 QOWN 误报清零、12 张 OCR 老卡补原文引文、7 张英文标题补足词数，全量 234 张框架卡质检 0 问题 |
 | 2026-11-09 | J 系列扩量：新增 7 篇判决类案例（J008-J014，合伙散伙／对赌回购／拖欠货款），案例总数 426 → 433；来源均为法院官网或最高法案例库入库案例 |
+| 2026-11-10 | J 系列三批：新增 7 篇判决类案例（J015-J021，竞业限制／商标侵权／股权代持），案例总数 433 → 440；新增 3 个机制标签（labor-dispute／ip-infringement／equity-dispute），标签体系 15 → 18 类 |

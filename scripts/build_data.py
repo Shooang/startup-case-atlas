@@ -23,6 +23,8 @@ TAG_ZH = {
     # 司法判决案例新增
     "contract-dispute": "合同纠纷", "false-advertising": "虚假宣传",
     "qualification": "资质门槛",
+    "labor-dispute": "劳动纠纷", "ip-infringement": "知识产权侵权",
+    "equity-dispute": "股权代持与出资",
 }
 
 

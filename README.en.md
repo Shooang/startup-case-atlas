@@ -2,9 +2,9 @@
 
 [中文](README.md) · **English** · [日本語](README.ja.md) · [한국어](README.ko.md) · [Español](README.es.md)
 
-![cases](https://img.shields.io/badge/cases-433-D85A30?style=flat-square) ![frameworks](https://img.shields.io/badge/frameworks-234-1D4ED8?style=flat-square) ![chars](https://img.shields.io/badge/text-592k_chars-6B7280?style=flat-square) ![license](https://img.shields.io/badge/license-CC_BY--SA_4.0-0F6E56?style=flat-square) ![llms](https://img.shields.io/badge/llms.txt-ready-534AB7?style=flat-square)
+![cases](https://img.shields.io/badge/cases-440-D85A30?style=flat-square) ![frameworks](https://img.shields.io/badge/frameworks-234-1D4ED8?style=flat-square) ![chars](https://img.shields.io/badge/text-601k_chars-6B7280?style=flat-square) ![license](https://img.shields.io/badge/license-CC_BY--SA_4.0-0F6E56?style=flat-square) ![llms](https://img.shields.io/badge/llms.txt-ready-534AB7?style=flat-square)
 
-**433 businesses, every one with the books kept: what it cost, what it earned, and the exact step where the money ran out.**
+**440 businesses, every one with the books kept: what it cost, what it earned, and the exact step where the money ran out.**
 
 **246 of them (59%) died of the same thing** — building something nobody wanted, and spending the money finding that out.
 
@@ -12,9 +12,9 @@
 
 [Browse by failure mechanism](index/by-mechanism.md) · [By industry](index/by-industry.md) · [By region](index/by-region.md) · [Get the data](data/cases.jsonl) · [Feed a model](llms.txt)
 
-<img src="assets/failure-mechanisms.svg" width="780" alt="Failure mechanisms across 433 cases: product-market fit 246, over-scaling 120, cost structure 118, single traffic source 108, cash-flow crunch 93">
+<img src="assets/failure-mechanisms.svg" width="780" alt="Failure mechanisms across 440 cases: product-market fit 246, over-scaling 120, cost structure 118, single traffic source 108, cash-flow crunch 93">
 
-> **Case bodies are written in Chinese.** The schema, indexes, data files and this README are English; the 433 narratives are Chinese, because that is the gap this atlas fills — Chinese-language, structured, sourced business cases are scarce, while English ones are not.
+> **Case bodies are written in Chinese.** The schema, indexes, data files and this README are English; the 440 narratives are Chinese, because that is the gap this atlas fills — Chinese-language, structured, sourced business cases are scarce, while English ones are not.
 
 ---
 
@@ -24,7 +24,7 @@
 | --- | --- |
 | Read one | [`index/by-mechanism.md`](index/by-mechanism.md) — start with "franchise" or "cash-flow crunch" |
 | A specific cut | [Industry](index/by-industry.md) · [Outcome](index/by-outcome.md) · [Region](index/by-region.md) · [Year](index/by-year.md) |
-| The data | [`data/cases.jsonl`](data/cases.jsonl) — 433 lines, one case per line, all fields |
+| The data | [`data/cases.jsonl`](data/cases.jsonl) — 440 lines, one case per line, all fields |
 | An LLM | Read [`llms.txt`](llms.txt) (1.3 KB) first, then [`llms-full.txt`](llms-full.txt) (1.7 MB) if context allows |
 | A judgement tool | [Browse frameworks by book](index/frameworks-by-book.md) — 234 cards from 43 books and courses |
 
@@ -68,10 +68,10 @@ That third section is deliberate. "Lost 700k" carries very different weight depe
 | [`cases/04-indie-hacker/`](cases/04-indie-hacker/) | 156 | Solo founders and small teams shipping paid products | 2019–2026 |
 | [`cases/05-china-interviews/`](cases/05-china-interviews/) | 69 | Chinese physical businesses: restaurants, franchises, shops, services | 2018–2026 |
 | [`cases/06-starter-story/`](cases/06-starter-story/) | 36 | Small businesses with revenue, startup cost and time-to-launch | 2019–2024 |
-| [`cases/07-judgments/`](cases/07-judgments/) | 14 | Court judgments and case-library entries: franchise, partnership splits, buyback bets, unpaid invoices | 2016–2026 |
+| [`cases/07-judgments/`](cases/07-judgments/) | 21 | Court judgments: franchise, partnership splits, buyback bets, unpaid invoices, non-compete, trademark, nominee shares | 2016–2026 |
 | [`legacy/articles/`](legacy/articles/) | 95 | Archived early Chinese web entrepreneurship stories, most original links dead | 2000–2012 |
 
-**Totals:** 433 cases · ~592,000 characters of case text · 95 archived articles · 31 countries and regions · 13 industries · 5 outcome types · 15 failure mechanisms.
+**Totals:** 440 cases · ~601,000 characters of case text · 95 archived articles · 31 countries and regions · 13 industries · 5 outcome types · 18 failure mechanisms.
 
 ## Framework cards: the judgement layer
 
@@ -139,7 +139,7 @@ Cases and frameworks are different tools: **cases are evidence, frameworks are j
 
 ## Why this exists
 
-Most startup writing is either a success story with the numbers removed, or a failure story with the cause reduced to "poor management". This atlas is an attempt to do the opposite: take 433 individual businesses, and record for each one **what it cost, what it earned, where the money actually went, and which decision broke it**.
+Most startup writing is either a success story with the numbers removed, or a failure story with the cause reduced to "poor management". This atlas is an attempt to do the opposite: take 440 individual businesses, and record for each one **what it cost, what it earned, where the money actually went, and which decision broke it**.
 
 Two things make this collection unusual:
 
@@ -164,7 +164,7 @@ Two things make this collection unusual:
 | `year` | int | Year the story starts |
 | `outcome` | enum | `failure` \| `success` \| `exit` \| `pivoted` \| `ongoing` |
 | `industry` | enum | 13 values, see [`docs/taxonomy.md`](docs/taxonomy.md) |
-| `tags` | list | 2–5 failure mechanisms from a closed 15-term vocabulary |
+| `tags` | list | 2–5 failure mechanisms from a closed 18-term vocabulary |
 | `key_numbers` | string | The numbers that carry the story, separated by `｜` |
 | `timeline` | string | Start → turn → outcome, one line each |
 | `causal_chain` | string | One causal spine, not a list of reasons |
@@ -175,7 +175,7 @@ Two things make this collection unusual:
 
 This is a **derivative work, not a mirror**. Nothing here is copy-pasted: each case is a Chinese rewrite based on previously published reporting, with the original link in the file.
 
-- **Case bodies** (433): [CC BY-SA 4.0](LICENSE). Reuse and adapt with attribution; derivatives keep the same licence.
+- **Case bodies** (440): [CC BY-SA 4.0](LICENSE). Reuse and adapt with attribution; derivatives keep the same licence.
 - **4 cases derived from [`byoungd/up`](https://github.com/byoungd/up)**: that project's text is **CC BY-NC 4.0**, so those 4 are **non-commercial**. See [`ATTRIBUTIONS.md`](ATTRIBUTIONS.md).
 - **Archived articles** (`legacy/`): copyright remains with the original authors and publishers. Included for research and indexing under a notice-and-takedown policy. See [`DISCLAIMER.md`](DISCLAIMER.md).
 

@@ -2,9 +2,9 @@
 
 > 按案例发生年份排序，看风口起落。
 
-> 共 433 个案例。按此维度去重后 24 组。
+> 共 440 个案例。按此维度去重后 24 组。
 
-## 2022 (58)
+## 2022 (60)
 
 | ID | 标题 | 英文标题 | 行业 | 结局 | 地区·年份 | 关键数字 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -66,6 +66,8 @@
 | [G705](../cases/06-starter-story/G705-一百封冷邮件零回复他把开场白做成了产品.md) | 一百封冷邮件零回复，他把开场白做成了产品 | After 100 cold emails got zero replies, h… | 软件与 SaaS | 结果未定 | TR·2022 | 月收入 $4K｜启动成本 $200｜启动耗时 35 天｜团队 1 人 |
 | [G706](../cases/06-starter-story/G706-他挑了个最无聊的API先写五个月文章再做产品.md) | 他挑了个最无聊的 API，先写五个月文章再做产品 | He wrote five months of articles before s… | 软件与 SaaS | 结果未定 | unknown·2022 | 月收入 $2.2K（访谈时；页面头部标注 $24.8K）｜启动成本 $2K｜启动耗时 5 … |
 | [G707](../cases/06-starter-story/G707-他没开发布会换个logo就上线了.md) | 他没开发布会，把别人的落地页换个 logo 就上线了 | He relaunched an old landing page with a … | 软件与 SaaS | 结果未定 | FR·2022 | 月收入 $2.5K（访谈时；页面头部标注 $20K）｜启动成本 $100｜启动耗时 落地页… |
+| [J017](../cases/07-judgments/J017-公司没付竞业补偿金销售员跳槽照样被判赔2万.md) | 公司没付竞业补偿金，销售员跳槽同行照样被判赔2万 | Unpaid non-compete compensation did not f… | 零售 | 失败关停 | CN·2022 | 约定违约金6万元｜每月"随工资发放"500元保密费｜判决违约金2万元｜2022年4月入职、… |
+| [J018](../cases/07-judgments/J018-卖假酒被罚后和解又再犯法院判惩罚性赔偿11万.md) | 卖假酒被罚后和解又再犯，法院判惩罚性赔偿11万 | Caught selling fake liquor twice, the sho… | 零售 | 失败关停 | CN·2022 | 判赔11万余元｜进货价远低于正品｜两次被查（行政处罚+和解后再次销售）｜侵权白酒数十瓶｜兰… |
 
 ## 2021 (56)
 
@@ -128,7 +130,7 @@
 | [J011](../cases/07-judgments/J011-对赌赢了官司进入破产只能排队最后受偿.md) | 对赌赢了官司拿到2080万判决，进入破产只能排队最… | Winning a 20.8 million buyback judgment m… | 医疗健康 | 失败关停 | CN·2021 | 初始投资532.8万元｜持股160万股｜约定回购总价2400万元（年15%计息）｜生效判决… |
 | [J012](../cases/07-judgments/J012-判决货款444万法院四天三市扣回6台挖掘机.md) | 判决货款444万账上没钱，法院四天三市扣回6台挖掘机 | A 4.44 million judgment was recovered by … | 硬件制造 | 成功在营 | CN·2021 | 判决货款444.3048万元｜执行挽回364.7608万元｜扣押液压挖掘机6台｜四天跨贺州… |
 
-## 2024 (42)
+## 2024 (43)
 
 | ID | 标题 | 英文标题 | 行业 | 结局 | 地区·年份 | 关键数字 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -174,6 +176,95 @@
 | [G694](../cases/05-china-interviews/G694-4.8万充电桩代理背后的85万.md) | 4.8万元只是入场券，充电桩代理背后还有85万元设… | A 48K RMB agency fee turned out to requir… | 本地服务 | 失败关停 | CN·2024 | 代理费4.8万｜首次采购最低10台设备，合计85万｜年运维15-20万｜总部称回本至少3年… |
 | [G695](../cases/05-china-interviews/G695-武汉烤鸭30万接手四个月.md) | 30万接手武汉烤鸭店，4个月后他才知道"直营店"是… | Paid 300K RMB for a Wuhan roast-duck shop… | 餐饮 | 失败关停 | CN·2024 | 总投资近30万｜转让费12万｜月租1.5万｜员工月薪5000元｜首月日营收3000多元｜之… |
 | [J013](../cases/07-judgments/J013-没签书面合同超市照样要付86139元货款.md) | 没签书面合同，超市照样要付86139元货款 | No written contract, but the supermarket … | 零售 | 成功在营 | CN·2024 | 累计供货价值9万余元｜确认拖欠货款86139.52元｜供货周期2024年11月至2025年… |
+| [J016](../cases/07-judgments/J016-跳槽同行被索赔78万指纹开锁记录成关键证据.md) | 跳槽同行被索赔78万，指纹开锁记录成了关键证据 | A 780,000 non-compete claim hinged on fin… | 其他 | 失败关停 | CN·2024 | 约定违约金为离职前12个月薪资总额2倍（24倍月均工资）｜仲裁索赔78万元｜补偿金每月97… |
+
+## 2023 (39)
+
+| ID | 标题 | 英文标题 | 行业 | 结局 | 地区·年份 | 关键数字 |
+| --- | --- | --- | --- | --- | --- | --- |
+| [G004](../cases/01-personal-failure/G004-亏掉两千万之后.md) | 亏掉两千万之后，他关掉了 GitHub，回老家先学… | After losing 20 million yuan he closed Gi… | 餐饮 | 失败关停 | CN·2023 | 2023年3月底转让最后一家餐饮店｜2023年6月底离开南京｜合计损失2000多万（个人估… |
+| [G122](../cases/02-founder-postmortems/G122-付费版上线在崩盘前五分钟.md) | 付费版上线在经济崩盘前五分钟 | Standout Jobs launched its paid tier five… | 软件与 SaaS | 失败关停 | CA·2023 | 2007年末到2010年运营｜付费版2008年秋上线｜客户说18个月内不招人｜招聘预算举例… |
+| [G303](../cases/03-failory/G303-进了YC融了四十六万美元十个月换了三个想法.md) | 进了 YC 融了四十六万美元，十个月换了三个想法 | Raised 462k through YC, then cycled throu… | 软件与 SaaS | 失败关停 | US·2023 | 融资462,000美元｜退还投资人370,545.77美元｜10个月（2020年11月—2… |
+| [G324](../cases/03-failory/G324-从月入两万四到归零.md) | 七个月做到月入两万四，然后亲手把它花回零 | Reached 24k a month in seven months, then… | 本地服务 | 失败关停 | US·2023 | 峰值MRR 2.4万美元｜月费2000美元含4篇文章｜单篇稿费200-400美元｜获10万… |
+| [G345](../cases/03-failory/G345-九万五美元做了个没人买的见面会.md) | 花九万五美元，做了个没人买得起的直播见面会 | Spent 95k building live meet-and-greets n… | 内容媒体 | 失败关停 | US·2023 | 开发外包9.5万美元｜两年总支出约10万美元｜平台抽成20%｜主播报价每千名观众每小时1美… |
+| [G346](../cases/03-failory/G346-为了让投资人看到五百万营收他改了报表.md) | 为了让投资人看到五百万营收，他把报表改了 | He altered the books to show investors 5m… | 内容媒体 | 失败关停 | US·2023 | 广告流量第1天付款｜第30天给客户开票｜第120到150天回款｜投资人门槛举例"500万美… |
+| [G347](../cases/03-failory/G347-免费送都没人要的食堂营养软件.md) | 免费送都没人要的食堂营养软件 | Nutrition software for cafeterias that no… | 软件与 SaaS | 失败关停 | CA·2023 | 运营8个月｜联系近100所北美高校｜第一轮通话的十来所全部失联｜团队8人（仅创始人全职，全… |
+| [G218](../cases/04-indie-hacker/G218-499欧元起步的数字规划器.md) | 花499欧元买台iPad，她做出月入4000美元的… | A digital planner built on a 499-euro iPa… | 内容媒体 | 成功在营 | unknown·2023 | 起步投入499欧元｜首版540页、13421个超链接｜现版1511页、53726个超链接｜… |
+| [G219](../cases/04-indie-hacker/G219-取消订阅工具改订阅制月入1万.md) | 一次性收3到10美元，改成订阅后月入1万美元 | Switching from one-time fees to subscript… | 软件与 SaaS | 成功在营 | UK·2023 | 一次性定价3到10美元｜7美元七天通行证｜TikTok一条视频两天带来3000多注册、26… |
+| [G220](../cases/04-indie-hacker/G220-AI语音笔记两个月7.3万美元.md) | 学着玩 API 做出的小工具，两个月赚了7.3万美元 | A small AI voice notes tool made $73,000 … | 软件与 SaaS | 成功在营 | unknown·2023 | 两个月1000多名付费用户、7.3万美元收入｜注册用户超11000｜Product Hun… |
+| [G226](../cases/04-indie-hacker/G226-怕被裁的假期.md) | 怕被裁的那个假期，他用十天做出了一个月入五千美元的… | He built a SaaS in 10 days and reached $5… | 软件与 SaaS | 成功在营 | unknown·2023 | 10天buildinpublic｜月收入5000美元｜发布当天5个付费用户、50美元｜Pr… |
+| [G249](../cases/04-indie-hacker/G249-自学程序员的GPT应用年入36万美元.md) | 自学程序员的GPT应用，年入36万美元 | A self-taught developer's GPT app earns $… | 软件与 SaaS | 成功在营 | BR·2023 | 2020年11月获得GPT-3访问权限，12月做出MVP｜2021年1月AppSumo发布… |
+| [G250](../cases/04-indie-hacker/G250-两年从0到月入4.5万美元中间还被迫卖掉主力产品.md) | 两年从0到月入4.5万美元，中间还被迫卖掉主力产品 | He reached $45,000 a month, then was forc… | 软件与 SaaS | 成功在营 | VN·2023 | 失业日2021年9月20日｜上一份薪水约9000美元/月｜DevUtils定价9美元一次性… |
+| [G252](../cases/04-indie-hacker/G252-每周一款产品第11款成功.md) | 每周做一款产品，第11款做成350万美元年收入后被… | The eleventh product in a weekly challeng… | 软件与 SaaS | 出售退出 | unknown·2023 | 两年年收入从0到350万美元｜被Lempire收购、金额视明年增长为1000万至1500万… |
+| [G253](../cases/04-indie-hacker/G253-周末做出来的域名生成器.md) | 周末做出来的AI域名生成器，四个月后月收入1000… | Weekend-Built AI Domain Generator Reached… | 软件与 SaaS | 成功在营 | unknown·2023 | 周末完成原型｜Hacker News发布吸引8000名用户｜发布前20分钟打满API限额｜… |
+| [G254](../cases/04-indie-hacker/G254-卖Notion模板的YouTube老手.md) | 教人用Notion的YouTube老手，靠两个模板… | YouTuber Sold Two Notion Templates for $2… | 教育 | 成功在营 | unknown·2023 | YouTube频道290万订阅者｜两个模板约两年创造210万美元销售额｜模板销售额平均每月… |
+| [G281](../cases/04-indie-hacker/G281-简历刺客的价目表.md) | 简历刺客：一个 12 美元的域名，和一张 499 … | A Resume Writing Service Charges $499 to … | 本地服务 | 成功在营 | US·2023 | 年收入 24 万美元（周刊标题口径）｜自述从年入 3.2 万美元到月入 2.6 万美元以上… |
+| [G282](../cases/04-indie-hacker/G282-抢在谷歌关停短链之前.md) | 谷歌宣布关停短链服务那一年，他抢下了 T.LY 这… | He Bought T.LY After Google Killed Short … | 软件与 SaaS | 成功在营 | unknown·2023 | 月收入超 2600 美元｜超 800 万个短网址｜追踪超 8000 万次点击｜扩展超 35… |
+| [G283](../cases/04-indie-hacker/G283-一个周末做了五年.md) | 在 Stripe 上班时花一个周末写的东西，做了五年 | A Weekend Project at Stripe Became Button… | 软件与 SaaS | 成功在营 | US·2023 | 盈利 1.5 万美元/月（周刊标题口径）｜5 年几乎每月增长 5%｜原以为只是每月 100… |
+| [G284](../cases/04-indie-hacker/G284-建筑师转行做二维码.md) | 建筑师转行，第一次创业失败欠债，用不到 1 万美元… | A Debt-Ridden Architect Built a QR Code P… | 软件与 SaaS | 成功在营 | unknown·2023 | 月收入 30 万美元（周刊标题口径）｜第一次创业失败后只剩 1 个开发者、背着债｜不到 1… |
+| [G285](../cases/04-indie-hacker/G285-十万用户和两万美元月收入.md) | 十万用户和两万美元月收入，从一杯冷饮的问卷开始 | Six Months of User Interviews Led to 100,… | 软件与 SaaS | 成功在营 | unknown·2023 | 用户超过10万｜月收入2万美元｜用户每月增长50%｜与用户沟通约500-700次｜验证阶段… |
+| [G286](../cases/04-indie-hacker/G286-两次失败后的聊天产品.md) | 两次失败之后，他做出年收入240万美元的聊天产品 | After Two Failed Products He Built a Chat… | 软件与 SaaS | 成功在营 | unknown·2023 | 年收入240万美元｜从3人团队到20多名员工｜约5000名用户、覆盖20多个国家｜经常性年… |
+| [G287](../cases/04-indie-hacker/G287-四年副业处理百万交易.md) | 做了四年的副业，处理过百万美元交易，年收入1.3万… | A Side Project Handled $1 Million in Paym… | 金融 | 结果未定 | unknown·2023 | 做了4年副业｜累计处理交易超100万美元｜年收入1.3万美元｜Product Hunt 7… |
+| [G288](../cases/04-indie-hacker/G288-Kindle小工具月入一千美金.md) | Kindle 小工具，月入 1000 美金 | A Kindle Sending Tool Reached $1,000 Mont… | 软件与 SaaS | 成功在营 | unknown·2023 | 月经常性收入1000美元｜终身会员销售额3000美元｜订阅价每月5美元｜落地页模板59美元… |
+| [G289](../cases/04-indie-hacker/G289-三个人一个月做出拍照工具.md) | 三个人一个月做出的拍照工具，年收入120万美元 | Three People Built a D2C Photo Tool to $1… | 软件与 SaaS | 成功在营 | unknown·2023 | 年收入120万美元｜月增长超30%｜2021年3月启动、5月内测、9月公开发布｜三人团队、… |
+| [G290](../cases/04-indie-hacker/G290-六个月做到月入一万二.md) | 六个月做到月入一万二的播客工具 | A Podcast Repurposing Tool Reached $12,00… | 软件与 SaaS | 成功在营 | unknown·2023 | 6个月做到月收入1.2万美元｜前50个客户约3周｜从0开始｜技术栈为Python、Goog… |
+| [G291](../cases/04-indie-hacker/G291-二十四小时拿到十二万美元.md) | 二十四小时，从想放弃到拿到十二万美元 | Twenty-Four Hours Turned a Near-Quit Side… | 软件与 SaaS | 成功在营 | unknown·2023 | 12万美元SAFE投资｜24小时内完成从想放弃到融资｜Hacker News近500个赞、… |
+| [G460](../cases/04-indie-hacker/G460-AI聊天机器人月入1.5万但次月流失一半.md) | AI聊天机器人一个月MRR破万美元，次月流失一半 | SiteGPT Hit $10,000 MRR in a Month, Then … | 软件与 SaaS | 结果未定 | IN·2023 | 约6个月做到月收入1.5万美元｜发布当天网站迎来约1.5万访客｜发布不到一个月MRR突破1… |
+| [G468](../cases/04-indie-hacker/G468-推文变视频工具发行一周年入7.5万美元.md) | 把推文变成视频的工具，发行一周年入7.5万美元 | A Tweet-to-Video Tool Made $75,000 in Its… | 软件与 SaaS | 成功在营 | unknown·2023 | 年收入7.5万美元（月收入略高于6000美元）｜发行一周内实现｜3天突破5000美元MRR… |
+| [G604](../cases/05-china-interviews/G604-博士走光后本科生做成了机器人.md) | 招过的博士比我见过的都多，最后干活的本科生 | Hired more PhDs than he had ever met; the… | 硬件制造 | 结果未定 | CN·2023 | 2017年一个AI工程师工资一年涨2-3倍、挖人double或triple｜餐厅机器人月租… |
+| [G606](../cases/05-china-interviews/G606-吃完饭他要造中国OpenAI一个月后改口.md) | 吃完那顿饭他要造中国OpenAI，一个多月后改口了 | Vowed to build China's OpenAI after one d… | 软件与 SaaS | 转型存活 | CN·2023 | 做通用大模型至少需要5000万美金——2000万美金买算力、2000万美金招人、1000万… |
+| [G643](../cases/05-china-interviews/G643-合肥宜家一年亏200万.md) | 餐饮十年没亏过，他在合肥宜家一年亏掉200万 | A decade of profitable restaurants, one y… | 餐饮 | 失败关停 | CN·2023 | 一年亏200万｜拉面店投入50万｜煲仔饭店投入110多万（超预算30万）｜200万里有10… |
+| [G679](../cases/05-china-interviews/G679-日营业额不过百的馒头店.md) | 日营业额不过百，开门一天赔两三百 | A steamed-bun shop taking in under 100 RM… | 餐饮 | 失败关停 | CN·2023 | 投入10多万｜加盟费16800元｜转让费3.5万｜半年房租1.8万｜装修1万｜设备2万｜日… |
+| [G693](../cases/05-china-interviews/G693-县城剧本杀19万开店亏30万.md) | 县城剧本杀店，19万开店、3万月固定支出，被代运营… | A county-town escape room cost 190K RMB t… | 本地服务 | 失败关停 | CN·2023 | 150平米｜5间包房｜一次性投入19万｜每月固定支出3万｜代运营月费5000元（月流水5万… |
+| [G702](../cases/06-starter-story/G702-一个月做到一万美元第二个月跑掉一半.md) | 一个月做到一万美元，第二个月跑掉一半客户 | SiteGPT hit $10,000 a month, then lost ha… | 软件与 SaaS | 结果未定 | IN·2023 | 月收入 $15K（访谈时；页面头部标注 $20.8K）｜启动成本 $500｜启动耗时 2-… |
+| [G703](../cases/06-starter-story/G703-放假前一天得知可能被裁他用十天做了个工具.md) | 放假前一天得知可能被裁，他用十天做了个工具 | He built an AI carousel tool in ten days … | 软件与 SaaS | 结果未定 | SE·2023 | 月收入 $5K（访谈时；页面头部标注 $10K）｜启动成本 $0｜启动耗时 10 天｜团队… |
+| [J003](../cases/07-judgments/J003-跟个体户签加盟协议3万只退回1.5万.md) | 跟个体户签加盟协议，3万加盟费只退回1.5万 | Signing a franchise deal with a sole prop… | 教育 | 失败关停 | CN·2023 | 加盟费3万元｜品牌使用费每年5000元｜判决返还1.5万元（50%）｜2023年8月签约、… |
+| [J015](../cases/07-judgments/J015-竞业限制约定100万违约金法院两级审判到12万.md) | 竞业限制约定100万违约金，法院两级审判到12万 | A 1 million non-compete penalty clause en… | 硬件制造 | 失败关停 | CN·2023 | 约定违约金100万元｜竞业限制期6个月｜已付补偿金3万余元｜一审判50万元｜二审改判12万… |
+| [J019](../cases/07-judgments/J019-外卖店挂彭厨招牌判赔16万出借执照的餐馆连带.md) | 外卖店挂"彭厨"招牌，判赔16万连出借执照的餐馆一… | An online-only store borrowed a famous br… | 餐饮 | 失败关停 | CN·2023 | 判赔经济损失16万余元｜某菜馆承担连带责任｜原告索赔100万元｜"彭厨"全国门店五百余家、… |
+
+## 2020 (39)
+
+| ID | 标题 | 英文标题 | 行业 | 结局 | 地区·年份 | 关键数字 |
+| --- | --- | --- | --- | --- | --- | --- |
+| [G125](../cases/02-founder-postmortems/G125-她把股权当成孩子的血.md) | 她把股权当成孩子的血，六年后卸任 | Apptimize raised over $20 million, then i… | 软件与 SaaS | 出售退出 | US·2020 | 2013年创办｜自己先投5万美元｜花1万美元买域名｜3轮融资｜累计超过2000万美元｜第一… |
+| [G305](../cases/03-failory/G305-六个月没做出产品合伙人先散了.md) | 六个月没做出产品，合伙人先散了 | Six months without a product, then his co… | 软件与 SaaS | 失败关停 | US·2020 | 约10万美元种子/风险资金｜0收入｜6个月做多轮原型未上线｜他辞任CEO后约1个月公司清算 |
+| [G306](../cases/03-failory/G306-三年五万美元做了个没人要的iPad赛车方向盘.md) | 三年五万美元，做了个没人要的 iPad 赛车方向盘 | Three years and 50k on an iPad racing whe… | 硬件制造 | 失败关停 | unknown·2020 | 5万美元｜其中银行贷款3万美元｜加速器投资2万美元｜3年｜单价约100美元｜Kicksta… |
+| [G307](../cases/03-failory/G307-两千万美元的收购要约五百万现金加一千五百万股票.md) | 两千万美元的收购要约，五百万现金加一千五百万股票 | A 20m acquisition offer of 5m cash and 15… | 硬件制造 | 失败关停 | US·2020 | 两年营收略超20万美元（单一企业客户）｜现金损失不到15万美元｜其中亲友可转债2.5万美元… |
+| [G311](../cases/03-failory/G311-一万五千美元输在时机域名和一份拿不到的名单.md) | 一万五千美元，输在时机、域名和一份拿不到的名单 | 15k and ten months, undone by timing and … | 本地服务 | 失败关停 | SG·2020 | 收入1.5万美元出头｜其中约1.1万美元再投入工具与自我提升｜10个月关停｜3个客户、每家… |
+| [G312](../cases/03-failory/G312-五百个充气沙发卖得越多亏得越多.md) | 五百个充气沙发，卖得越多亏得越多 | Sold 500 inflatable sofas on Amazon and l… | 电商 | 失败关停 | US·2020 | 亏损1.6万美元｜500件库存｜库存成本1万美元｜进口服务2,200美元｜售价50美元（竞… |
+| [G317](../cases/03-failory/G317-月入四万美元却欠债七万.md) | 月入四万美元的代理公司，为什么最后欠了七万 | An agency billing 40k a month that ended … | 本地服务 | 失败关停 | US·2020 | 峰值月收入约4万美元｜月支出3万美元以上｜峰值10个客户、5名员工｜离场时债务超7万美元（… |
+| [G318](../cases/03-failory/G318-融了一百万却零收入.md) | 融了一百万、十万用户、零收入，一周之内发不出工资 | Raised 1m, got 100k users and zero revenu… | 内容媒体 | 失败关停 | US·2020 | 融资约100万美元（前身公司原有100万+，转向前又融约25万美元天使）｜10万用户｜网红… |
+| [G319](../cases/03-failory/G319-月入三千五却把自己干垮.md) | 月入三千五的咨询公司，被他自己的"什么都能做"拖死 | A one-man consulting shop at 3,500 a mont… | 本地服务 | 失败关停 | US·2020 | 单客户月费约3500美元｜管线合同报价3500-6000美元/月｜月开销约300美元、月利… |
+| [G326](../cases/03-failory/G326-把热度当成验证烧掉五万五.md) | 把一条爆火的推文当成市场验证，烧掉五万五 | Treated one viral tweet as validation and… | 软件与 SaaS | 失败关停 | US·2020 | 唯一一笔融资15万美元｜7月到次年1月烧掉约5.5万美元｜创始人年薪约5万美元｜总收入约1… |
+| [G327](../cases/03-failory/G327-月流水一万美元却算出零毛利.md) | 月流水做到一万美元，然后算出了零毛利 | Hit 10k a month in orders, then calculate… | 物流 | 失败关停 | US·2020 | 关停时月经常性收入1万美元（佣金与费用平均占13%）｜500个用户｜每趟平均15件以上｜平… |
+| [G335](../cases/03-failory/G335-榜单第六名零个付费.md) | Product Hunt 当天第六名，零个付费用户 | Number six on Product Hunt and not one pa… | 软件与 SaaS | 失败关停 | RU·2020 | 两周研究＋一个月开发｜两个月上线｜Product Hunt 当日第6名｜数千次访问、几十个… |
+| [G338](../cases/03-failory/G338-产品做对了没人知道.md) | 产品做对了，没人知道它存在 | The product was right, but nobody knew it… | 软件与 SaaS | 结果未定 | DK·2020 | 免费额度3个习惯｜纸牌站每月300万局｜预估3周实际做了1个半月｜开发支出几乎为0｜两次发… |
+| [G206](../cases/04-indie-hacker/G206-截图API的广告账.md) | 20 个付费用户里的 13 个，来自每月 100 … | 13 of 20 paying users came from $100 a mo… | 软件与 SaaS | 结果未定 | NL·2020 | 20 个活跃付费用户｜月收入约 400 美元｜每月 100 美元谷歌广告投入｜20 个付费… |
+| [G222](../cases/04-indie-hacker/G222-迷你砖块.md) | 卖迷你砖块，月入一万七：一个平面设计师的三年 | A designer selling miniature cinder block… | 电商 | 成功在营 | unknown·2020 | 启动成本不到500美元｜月入1.7万美元｜Instagram两年4.5万粉丝｜单块1.33… |
+| [G244](../cases/04-indie-hacker/G244-两个死掉的副业项目养出一个200万美元的生意.md) | 两个死掉的副业项目，养出一个200万美元的生意 | Two abandoned side projects led to a $2 m… | 软件与 SaaS | 成功在营 | CA·2020 | 2个被放弃的副业项目｜2017年万圣节之夜发布v0.1.0｜2019年5月13日发布v1.… |
+| [G459](../cases/04-indie-hacker/G459-会议转录插件一年增长20倍.md) | 会议转录插件一年增长20倍 | A Meeting Transcription Extension Grew 20… | 软件与 SaaS | 成功在营 | AU·2020 | 几个月内获得1万名用户｜用户增长到19万+｜业务同比增长20倍｜团队7人｜收入环比增长超2… |
+| [G461](../cases/04-indie-hacker/G461-公开构建两年月入1.2万美元.md) | 公开构建两年，从零粉丝到月入1.2万美元 | Two Years of Building in Public Took Him … | 教育 | 成功在营 | unknown·2020 | 前6个月网上收入0美元（有意为之）｜指南发布前3天2100人阅读、100多人帮忙传播｜第一… |
+| [G626](../cases/05-china-interviews/G626-西安7-11便利店四年.md) | 开7-11投了100多万，日销只有预估的三分之一，… | Put 1M RMB into a 7-Eleven, sales a third… | 零售 | 出售退出 | CN·2020 | 开店前投入100多万（租金押金42.25万＋加盟费10万＋保证金20万＋货款押金10万＋装… |
+| [G629](../cases/05-china-interviews/G629-昆明娘惹糕私房甜品.md) | 从露楚到娘惹糕：昆明私房甜品主理人，一天卖三四十份… | Nyonya cake kitchen in Kunming sells 30-4… | 餐饮 | 结果未定 | CN·2020 | 泰式露楚5元/个、一盒10个50元｜斑斓戚风蛋糕靠自然客流一天卖三四十份｜新年礼盒最多订出… |
+| [G632](../cases/05-china-interviews/G632-上海郊区皮肤管理店亏60万.md) | 拿父母60万在上海郊区开皮肤管理店，每天进店10个… | A 600K RMB skin clinic needed 50 clients … | 本地服务 | 失败关停 | CN·2020 | 父母出资60万创业｜学习日式皮肤管理花8万｜上海郊区150多平商铺、月房租1万多｜前两个月… |
+| [G647](../cases/05-china-interviews/G647-网络电影投融资亏上千万.md) | 做网络电影投融资四年亏上千万，2019年全年只接到… | Four years financing web films lost 10M R… | 内容媒体 | 失败关停 | unknown·2020 | 创业四年累计亏损上千万（当事人估算）｜员工最多30多人、遣散时只剩6人｜为救公司向银行贷款… |
+| [G649](../cases/05-china-interviews/G649-常州教培校区一年亏百万.md) | 加盟"超级演说家"开常州校区，不到一年亏掉100多万 | Franchised a speaking school in Changzhou… | 教育 | 失败关停 | CN·2020 | 前期投入60多万（加盟费+房租+装修+老师培训）｜月租4万｜每月固定开支约16万｜2021… |
+| [G650](../cases/05-china-interviews/G650-卖4套房负债1亿的托育连锁.md) | 卖了4套房创业12年，疫情半年支出超7000万，她… | Sold four apartments to build a 40-site d… | 教育 | 失败关停 | CN·2020 | 公司负债约1亿｜疫情停摆半年支出超7000万：退费超3000万+物业租金2000多万+老师… |
+| [G652](../cases/05-china-interviews/G652-武汉服装厂150人瞬间清零.md) | 武汉150人的服装厂，封城三个月后瞬间清零 | A 150-worker garment factory in Wuhan wen… | 其他 | 失败关停 | CN·2020 | 150名工人分批遣散｜欠薪70多万（最终仍有十几万缺口发不出）｜年前订的面辅料几十万全砸仓… |
+| [G666](../cases/05-china-interviews/G666-580家店全停15天做出自负盈亏.md) | 580家门店全停，她用15天做出自负盈亏 | With 580 centers closed, she reached brea… | 教育 | 成功在营 | CN·2020 | 旗下580家托育早教中心全部停业｜3家直营店每月净亏90万至120万元｜加盟费按城市分18… |
+| [G669](../cases/05-china-interviews/G669-一单亏6块用一颗糖做到年入5000万.md) | 一单亏6块，月亏40万，他靠一颗糖做到年入5000万 | Lost 6 RMB per order, then built a 50M RM… | 电商 | 成功在营 | CN·2020 | 解酒糖启动资金60多万元｜第一年卖400万元、第二年1500万元、2024年预计突破500… |
+| [G682](../cases/05-china-interviews/G682-自创奶茶品牌亏150万.md) | 自创奶茶品牌，三家店关到剩一家 | Homegrown tea brand lost 1.5M RMB when le… | 餐饮 | 失败关停 | CN·2020 | 单店投入40万｜累计亏损150万｜巅峰3家店关掉2家｜柠檬从两块多一斤涨到35元｜全国48… |
+| [G683](../cases/05-china-interviews/G683-社区团购卖酒半年亏20万.md) | 社区团购卖酒，半年亏20万 | Group-buying liquor sales lost 200K RMB i… | 电商 | 失败关停 | unknown·2020 | 半年亏损20多万｜团长返佣20%｜微信发上万元红包｜头一个月盈利｜第二个月竞争加剧｜酱酒厂… |
+| [G684](../cases/05-china-interviews/G684-100万美元订单取消之后.md) | 100万美元订单取消之后 | A 1M USD order was cancelled; he sold 30K… | 电商 | 转型存活 | CN·2020 | 取消订单近100万美元｜3万多件镂空蕾丝上衣｜几十万美元胚布｜线上一周卖3万美元｜同行被取… |
+| [G708](../cases/06-starter-story/G708-他的产品在别人的应用商店里审核等了三个月.md) | 他的产品在别人的应用商店里，光审核就等了三个月 | His Airtable plugin waited three months f… | 软件与 SaaS | 结果未定 | UK·2020 | 月收入 $6.5K（访谈时 190 个付费客户；页面头部标注 $23K）｜启动成本 $10… |
+| [G709](../cases/06-starter-story/G709-第四次创业他给自己定了三条规矩.md) | 第四次创业，他给自己定了三条规矩，其中一条是三个月… | On his fourth startup he set three rules,… | 软件与 SaaS | 结果未定 | SG·2020 | 月收入 $15K（两个产品合计 MRR）｜启动成本 $800｜启动耗时 3 个月开发 + … |
+| [G712](../cases/06-starter-story/G712-总成本5美元他把打码做成了插件.md) | 总成本 5 美元，他把打码做成了一个每月一千多美元… | He built a blur tool for $5 and it earns … | 软件与 SaaS | 结果未定 | IN·2020 | 月收入 $1.5K（访谈时口述 $1,000+）｜启动成本 $5｜启动耗时 2-3 周｜团… |
+| [G725](../cases/06-starter-story/G725-被裁当天下午他开了个Substack.md) | 被裁员的当天下午，他给自己开了个 Substack | Hours after being laid off, he launched a… | 内容媒体 | 成功在营 | US·2020 | 月收入 $18,400｜启动成本 一顿饭（换一个 logo）｜启动耗时 7 个月追平原薪水… |
+| [G728](../cases/06-starter-story/G728-前半年每天零到两个访客.md) | 前半年每天零到两个访客，他写了两年才敢投广告 | He ran a sexual health affiliate site wit… | 内容媒体 | 结果未定 | US·2020 | 月收入 $5K｜启动成本 $10 域名＋约 $10 托管｜启动耗时 前半年几乎零收入，第 … |
+| [G730](../cases/06-starter-story/G730-第一年零收入第二年花一千块买课.md) | 第一年零收入，第二年她花一千块买课 | From zero income to $55,688 a month with … | 内容媒体 | 成功在营 | US·2020 | 月收入 $55,688（2023 年 1-4 月平均）｜启动成本 $1,000 买课＋建站… |
+| [J005](../cases/07-judgments/J005-加盟费15.9万品牌备案被撤销没告知法院判退7万.md) | 加盟费15.9万，品牌备案被撤销没告知，法院判退7万 | Franchise fee 159000; the brand's filing … | 餐饮 | 失败关停 | CN·2020 | 加盟费15.9万元｜保证金1万元｜合计16.9万元｜判决返还7万元（41.4%）｜2022… |
+| [J020](../cases/07-judgments/J020-帮人挂名持股49%认缴4498万公司欠债被判补充赔偿.md) | 帮人挂名持股49%，认缴4498万，公司欠债他被判… | Lending his name as a 49 percent sharehol… | 其他 | 失败关停 | CN·2020 | 认缴出资4498.2万元（持股49%）｜出资期限2069年12月31日｜公司2019年成立… |
+| [J021](../cases/07-judgments/J021-替人代持20%股权公司破产被追缴210万出资.md) | 替人代持20%股权，公司破产被追缴210万出资 | Holding 20 percent on paper meant 2.1 mil… | 其他 | 失败关停 | CN·2020 | 代持20%股权、认缴220万元｜小吴认缴880万元（80%）｜注册资本由50万元增至110… |
 
 ## 2018 (38)
 
@@ -217,90 +308,6 @@
 | [G732](../cases/06-starter-story/G732-他写了半本书才发现没人看书.md) | 他写了半本书，才发现年轻警察根本不看书 | He wrote half a book before learning youn… | 内容媒体 | 结果未定 | US·2018 | 月收入 $3.5K｜启动成本 页面未给金额（自述"成立 LLC 后边做边学"）｜启动耗时 … |
 | [G736](../cases/06-starter-story/G736-他发现自己在别人的地盘上盖房子.md) | 他发现自己在别人的地盘上盖房子 | He moved his audience off Instagram into … | 内容媒体 | 结果未定 | CA·2018 | 月收入 $8.5K｜启动成本 全部用个人积蓄（页面未给具体金额）｜启动耗时 约一年才见到有… |
 | [J004](../cases/07-judgments/J004-广告说一天流水三万多法院认定欺诈19万只拿回5.5万.md) | 广告说"一天流水三万多"，法院认定欺诈，19万只拿… | Ads promised 30,000 daily revenue; court … | 餐饮 | 失败关停 | CN·2018 | 服务费86800元｜代购料款44900元｜装修费55000元｜合计191700元｜配送设备… |
-
-## 2023 (37)
-
-| ID | 标题 | 英文标题 | 行业 | 结局 | 地区·年份 | 关键数字 |
-| --- | --- | --- | --- | --- | --- | --- |
-| [G004](../cases/01-personal-failure/G004-亏掉两千万之后.md) | 亏掉两千万之后，他关掉了 GitHub，回老家先学… | After losing 20 million yuan he closed Gi… | 餐饮 | 失败关停 | CN·2023 | 2023年3月底转让最后一家餐饮店｜2023年6月底离开南京｜合计损失2000多万（个人估… |
-| [G122](../cases/02-founder-postmortems/G122-付费版上线在崩盘前五分钟.md) | 付费版上线在经济崩盘前五分钟 | Standout Jobs launched its paid tier five… | 软件与 SaaS | 失败关停 | CA·2023 | 2007年末到2010年运营｜付费版2008年秋上线｜客户说18个月内不招人｜招聘预算举例… |
-| [G303](../cases/03-failory/G303-进了YC融了四十六万美元十个月换了三个想法.md) | 进了 YC 融了四十六万美元，十个月换了三个想法 | Raised 462k through YC, then cycled throu… | 软件与 SaaS | 失败关停 | US·2023 | 融资462,000美元｜退还投资人370,545.77美元｜10个月（2020年11月—2… |
-| [G324](../cases/03-failory/G324-从月入两万四到归零.md) | 七个月做到月入两万四，然后亲手把它花回零 | Reached 24k a month in seven months, then… | 本地服务 | 失败关停 | US·2023 | 峰值MRR 2.4万美元｜月费2000美元含4篇文章｜单篇稿费200-400美元｜获10万… |
-| [G345](../cases/03-failory/G345-九万五美元做了个没人买的见面会.md) | 花九万五美元，做了个没人买得起的直播见面会 | Spent 95k building live meet-and-greets n… | 内容媒体 | 失败关停 | US·2023 | 开发外包9.5万美元｜两年总支出约10万美元｜平台抽成20%｜主播报价每千名观众每小时1美… |
-| [G346](../cases/03-failory/G346-为了让投资人看到五百万营收他改了报表.md) | 为了让投资人看到五百万营收，他把报表改了 | He altered the books to show investors 5m… | 内容媒体 | 失败关停 | US·2023 | 广告流量第1天付款｜第30天给客户开票｜第120到150天回款｜投资人门槛举例"500万美… |
-| [G347](../cases/03-failory/G347-免费送都没人要的食堂营养软件.md) | 免费送都没人要的食堂营养软件 | Nutrition software for cafeterias that no… | 软件与 SaaS | 失败关停 | CA·2023 | 运营8个月｜联系近100所北美高校｜第一轮通话的十来所全部失联｜团队8人（仅创始人全职，全… |
-| [G218](../cases/04-indie-hacker/G218-499欧元起步的数字规划器.md) | 花499欧元买台iPad，她做出月入4000美元的… | A digital planner built on a 499-euro iPa… | 内容媒体 | 成功在营 | unknown·2023 | 起步投入499欧元｜首版540页、13421个超链接｜现版1511页、53726个超链接｜… |
-| [G219](../cases/04-indie-hacker/G219-取消订阅工具改订阅制月入1万.md) | 一次性收3到10美元，改成订阅后月入1万美元 | Switching from one-time fees to subscript… | 软件与 SaaS | 成功在营 | UK·2023 | 一次性定价3到10美元｜7美元七天通行证｜TikTok一条视频两天带来3000多注册、26… |
-| [G220](../cases/04-indie-hacker/G220-AI语音笔记两个月7.3万美元.md) | 学着玩 API 做出的小工具，两个月赚了7.3万美元 | A small AI voice notes tool made $73,000 … | 软件与 SaaS | 成功在营 | unknown·2023 | 两个月1000多名付费用户、7.3万美元收入｜注册用户超11000｜Product Hun… |
-| [G226](../cases/04-indie-hacker/G226-怕被裁的假期.md) | 怕被裁的那个假期，他用十天做出了一个月入五千美元的… | He built a SaaS in 10 days and reached $5… | 软件与 SaaS | 成功在营 | unknown·2023 | 10天buildinpublic｜月收入5000美元｜发布当天5个付费用户、50美元｜Pr… |
-| [G249](../cases/04-indie-hacker/G249-自学程序员的GPT应用年入36万美元.md) | 自学程序员的GPT应用，年入36万美元 | A self-taught developer's GPT app earns $… | 软件与 SaaS | 成功在营 | BR·2023 | 2020年11月获得GPT-3访问权限，12月做出MVP｜2021年1月AppSumo发布… |
-| [G250](../cases/04-indie-hacker/G250-两年从0到月入4.5万美元中间还被迫卖掉主力产品.md) | 两年从0到月入4.5万美元，中间还被迫卖掉主力产品 | He reached $45,000 a month, then was forc… | 软件与 SaaS | 成功在营 | VN·2023 | 失业日2021年9月20日｜上一份薪水约9000美元/月｜DevUtils定价9美元一次性… |
-| [G252](../cases/04-indie-hacker/G252-每周一款产品第11款成功.md) | 每周做一款产品，第11款做成350万美元年收入后被… | The eleventh product in a weekly challeng… | 软件与 SaaS | 出售退出 | unknown·2023 | 两年年收入从0到350万美元｜被Lempire收购、金额视明年增长为1000万至1500万… |
-| [G253](../cases/04-indie-hacker/G253-周末做出来的域名生成器.md) | 周末做出来的AI域名生成器，四个月后月收入1000… | Weekend-Built AI Domain Generator Reached… | 软件与 SaaS | 成功在营 | unknown·2023 | 周末完成原型｜Hacker News发布吸引8000名用户｜发布前20分钟打满API限额｜… |
-| [G254](../cases/04-indie-hacker/G254-卖Notion模板的YouTube老手.md) | 教人用Notion的YouTube老手，靠两个模板… | YouTuber Sold Two Notion Templates for $2… | 教育 | 成功在营 | unknown·2023 | YouTube频道290万订阅者｜两个模板约两年创造210万美元销售额｜模板销售额平均每月… |
-| [G281](../cases/04-indie-hacker/G281-简历刺客的价目表.md) | 简历刺客：一个 12 美元的域名，和一张 499 … | A Resume Writing Service Charges $499 to … | 本地服务 | 成功在营 | US·2023 | 年收入 24 万美元（周刊标题口径）｜自述从年入 3.2 万美元到月入 2.6 万美元以上… |
-| [G282](../cases/04-indie-hacker/G282-抢在谷歌关停短链之前.md) | 谷歌宣布关停短链服务那一年，他抢下了 T.LY 这… | He Bought T.LY After Google Killed Short … | 软件与 SaaS | 成功在营 | unknown·2023 | 月收入超 2600 美元｜超 800 万个短网址｜追踪超 8000 万次点击｜扩展超 35… |
-| [G283](../cases/04-indie-hacker/G283-一个周末做了五年.md) | 在 Stripe 上班时花一个周末写的东西，做了五年 | A Weekend Project at Stripe Became Button… | 软件与 SaaS | 成功在营 | US·2023 | 盈利 1.5 万美元/月（周刊标题口径）｜5 年几乎每月增长 5%｜原以为只是每月 100… |
-| [G284](../cases/04-indie-hacker/G284-建筑师转行做二维码.md) | 建筑师转行，第一次创业失败欠债，用不到 1 万美元… | A Debt-Ridden Architect Built a QR Code P… | 软件与 SaaS | 成功在营 | unknown·2023 | 月收入 30 万美元（周刊标题口径）｜第一次创业失败后只剩 1 个开发者、背着债｜不到 1… |
-| [G285](../cases/04-indie-hacker/G285-十万用户和两万美元月收入.md) | 十万用户和两万美元月收入，从一杯冷饮的问卷开始 | Six Months of User Interviews Led to 100,… | 软件与 SaaS | 成功在营 | unknown·2023 | 用户超过10万｜月收入2万美元｜用户每月增长50%｜与用户沟通约500-700次｜验证阶段… |
-| [G286](../cases/04-indie-hacker/G286-两次失败后的聊天产品.md) | 两次失败之后，他做出年收入240万美元的聊天产品 | After Two Failed Products He Built a Chat… | 软件与 SaaS | 成功在营 | unknown·2023 | 年收入240万美元｜从3人团队到20多名员工｜约5000名用户、覆盖20多个国家｜经常性年… |
-| [G287](../cases/04-indie-hacker/G287-四年副业处理百万交易.md) | 做了四年的副业，处理过百万美元交易，年收入1.3万… | A Side Project Handled $1 Million in Paym… | 金融 | 结果未定 | unknown·2023 | 做了4年副业｜累计处理交易超100万美元｜年收入1.3万美元｜Product Hunt 7… |
-| [G288](../cases/04-indie-hacker/G288-Kindle小工具月入一千美金.md) | Kindle 小工具，月入 1000 美金 | A Kindle Sending Tool Reached $1,000 Mont… | 软件与 SaaS | 成功在营 | unknown·2023 | 月经常性收入1000美元｜终身会员销售额3000美元｜订阅价每月5美元｜落地页模板59美元… |
-| [G289](../cases/04-indie-hacker/G289-三个人一个月做出拍照工具.md) | 三个人一个月做出的拍照工具，年收入120万美元 | Three People Built a D2C Photo Tool to $1… | 软件与 SaaS | 成功在营 | unknown·2023 | 年收入120万美元｜月增长超30%｜2021年3月启动、5月内测、9月公开发布｜三人团队、… |
-| [G290](../cases/04-indie-hacker/G290-六个月做到月入一万二.md) | 六个月做到月入一万二的播客工具 | A Podcast Repurposing Tool Reached $12,00… | 软件与 SaaS | 成功在营 | unknown·2023 | 6个月做到月收入1.2万美元｜前50个客户约3周｜从0开始｜技术栈为Python、Goog… |
-| [G291](../cases/04-indie-hacker/G291-二十四小时拿到十二万美元.md) | 二十四小时，从想放弃到拿到十二万美元 | Twenty-Four Hours Turned a Near-Quit Side… | 软件与 SaaS | 成功在营 | unknown·2023 | 12万美元SAFE投资｜24小时内完成从想放弃到融资｜Hacker News近500个赞、… |
-| [G460](../cases/04-indie-hacker/G460-AI聊天机器人月入1.5万但次月流失一半.md) | AI聊天机器人一个月MRR破万美元，次月流失一半 | SiteGPT Hit $10,000 MRR in a Month, Then … | 软件与 SaaS | 结果未定 | IN·2023 | 约6个月做到月收入1.5万美元｜发布当天网站迎来约1.5万访客｜发布不到一个月MRR突破1… |
-| [G468](../cases/04-indie-hacker/G468-推文变视频工具发行一周年入7.5万美元.md) | 把推文变成视频的工具，发行一周年入7.5万美元 | A Tweet-to-Video Tool Made $75,000 in Its… | 软件与 SaaS | 成功在营 | unknown·2023 | 年收入7.5万美元（月收入略高于6000美元）｜发行一周内实现｜3天突破5000美元MRR… |
-| [G604](../cases/05-china-interviews/G604-博士走光后本科生做成了机器人.md) | 招过的博士比我见过的都多，最后干活的本科生 | Hired more PhDs than he had ever met; the… | 硬件制造 | 结果未定 | CN·2023 | 2017年一个AI工程师工资一年涨2-3倍、挖人double或triple｜餐厅机器人月租… |
-| [G606](../cases/05-china-interviews/G606-吃完饭他要造中国OpenAI一个月后改口.md) | 吃完那顿饭他要造中国OpenAI，一个多月后改口了 | Vowed to build China's OpenAI after one d… | 软件与 SaaS | 转型存活 | CN·2023 | 做通用大模型至少需要5000万美金——2000万美金买算力、2000万美金招人、1000万… |
-| [G643](../cases/05-china-interviews/G643-合肥宜家一年亏200万.md) | 餐饮十年没亏过，他在合肥宜家一年亏掉200万 | A decade of profitable restaurants, one y… | 餐饮 | 失败关停 | CN·2023 | 一年亏200万｜拉面店投入50万｜煲仔饭店投入110多万（超预算30万）｜200万里有10… |
-| [G679](../cases/05-china-interviews/G679-日营业额不过百的馒头店.md) | 日营业额不过百，开门一天赔两三百 | A steamed-bun shop taking in under 100 RM… | 餐饮 | 失败关停 | CN·2023 | 投入10多万｜加盟费16800元｜转让费3.5万｜半年房租1.8万｜装修1万｜设备2万｜日… |
-| [G693](../cases/05-china-interviews/G693-县城剧本杀19万开店亏30万.md) | 县城剧本杀店，19万开店、3万月固定支出，被代运营… | A county-town escape room cost 190K RMB t… | 本地服务 | 失败关停 | CN·2023 | 150平米｜5间包房｜一次性投入19万｜每月固定支出3万｜代运营月费5000元（月流水5万… |
-| [G702](../cases/06-starter-story/G702-一个月做到一万美元第二个月跑掉一半.md) | 一个月做到一万美元，第二个月跑掉一半客户 | SiteGPT hit $10,000 a month, then lost ha… | 软件与 SaaS | 结果未定 | IN·2023 | 月收入 $15K（访谈时；页面头部标注 $20.8K）｜启动成本 $500｜启动耗时 2-… |
-| [G703](../cases/06-starter-story/G703-放假前一天得知可能被裁他用十天做了个工具.md) | 放假前一天得知可能被裁，他用十天做了个工具 | He built an AI carousel tool in ten days … | 软件与 SaaS | 结果未定 | SE·2023 | 月收入 $5K（访谈时；页面头部标注 $10K）｜启动成本 $0｜启动耗时 10 天｜团队… |
-| [J003](../cases/07-judgments/J003-跟个体户签加盟协议3万只退回1.5万.md) | 跟个体户签加盟协议，3万加盟费只退回1.5万 | Signing a franchise deal with a sole prop… | 教育 | 失败关停 | CN·2023 | 加盟费3万元｜品牌使用费每年5000元｜判决返还1.5万元（50%）｜2023年8月签约、… |
-
-## 2020 (37)
-
-| ID | 标题 | 英文标题 | 行业 | 结局 | 地区·年份 | 关键数字 |
-| --- | --- | --- | --- | --- | --- | --- |
-| [G125](../cases/02-founder-postmortems/G125-她把股权当成孩子的血.md) | 她把股权当成孩子的血，六年后卸任 | Apptimize raised over $20 million, then i… | 软件与 SaaS | 出售退出 | US·2020 | 2013年创办｜自己先投5万美元｜花1万美元买域名｜3轮融资｜累计超过2000万美元｜第一… |
-| [G305](../cases/03-failory/G305-六个月没做出产品合伙人先散了.md) | 六个月没做出产品，合伙人先散了 | Six months without a product, then his co… | 软件与 SaaS | 失败关停 | US·2020 | 约10万美元种子/风险资金｜0收入｜6个月做多轮原型未上线｜他辞任CEO后约1个月公司清算 |
-| [G306](../cases/03-failory/G306-三年五万美元做了个没人要的iPad赛车方向盘.md) | 三年五万美元，做了个没人要的 iPad 赛车方向盘 | Three years and 50k on an iPad racing whe… | 硬件制造 | 失败关停 | unknown·2020 | 5万美元｜其中银行贷款3万美元｜加速器投资2万美元｜3年｜单价约100美元｜Kicksta… |
-| [G307](../cases/03-failory/G307-两千万美元的收购要约五百万现金加一千五百万股票.md) | 两千万美元的收购要约，五百万现金加一千五百万股票 | A 20m acquisition offer of 5m cash and 15… | 硬件制造 | 失败关停 | US·2020 | 两年营收略超20万美元（单一企业客户）｜现金损失不到15万美元｜其中亲友可转债2.5万美元… |
-| [G311](../cases/03-failory/G311-一万五千美元输在时机域名和一份拿不到的名单.md) | 一万五千美元，输在时机、域名和一份拿不到的名单 | 15k and ten months, undone by timing and … | 本地服务 | 失败关停 | SG·2020 | 收入1.5万美元出头｜其中约1.1万美元再投入工具与自我提升｜10个月关停｜3个客户、每家… |
-| [G312](../cases/03-failory/G312-五百个充气沙发卖得越多亏得越多.md) | 五百个充气沙发，卖得越多亏得越多 | Sold 500 inflatable sofas on Amazon and l… | 电商 | 失败关停 | US·2020 | 亏损1.6万美元｜500件库存｜库存成本1万美元｜进口服务2,200美元｜售价50美元（竞… |
-| [G317](../cases/03-failory/G317-月入四万美元却欠债七万.md) | 月入四万美元的代理公司，为什么最后欠了七万 | An agency billing 40k a month that ended … | 本地服务 | 失败关停 | US·2020 | 峰值月收入约4万美元｜月支出3万美元以上｜峰值10个客户、5名员工｜离场时债务超7万美元（… |
-| [G318](../cases/03-failory/G318-融了一百万却零收入.md) | 融了一百万、十万用户、零收入，一周之内发不出工资 | Raised 1m, got 100k users and zero revenu… | 内容媒体 | 失败关停 | US·2020 | 融资约100万美元（前身公司原有100万+，转向前又融约25万美元天使）｜10万用户｜网红… |
-| [G319](../cases/03-failory/G319-月入三千五却把自己干垮.md) | 月入三千五的咨询公司，被他自己的"什么都能做"拖死 | A one-man consulting shop at 3,500 a mont… | 本地服务 | 失败关停 | US·2020 | 单客户月费约3500美元｜管线合同报价3500-6000美元/月｜月开销约300美元、月利… |
-| [G326](../cases/03-failory/G326-把热度当成验证烧掉五万五.md) | 把一条爆火的推文当成市场验证，烧掉五万五 | Treated one viral tweet as validation and… | 软件与 SaaS | 失败关停 | US·2020 | 唯一一笔融资15万美元｜7月到次年1月烧掉约5.5万美元｜创始人年薪约5万美元｜总收入约1… |
-| [G327](../cases/03-failory/G327-月流水一万美元却算出零毛利.md) | 月流水做到一万美元，然后算出了零毛利 | Hit 10k a month in orders, then calculate… | 物流 | 失败关停 | US·2020 | 关停时月经常性收入1万美元（佣金与费用平均占13%）｜500个用户｜每趟平均15件以上｜平… |
-| [G335](../cases/03-failory/G335-榜单第六名零个付费.md) | Product Hunt 当天第六名，零个付费用户 | Number six on Product Hunt and not one pa… | 软件与 SaaS | 失败关停 | RU·2020 | 两周研究＋一个月开发｜两个月上线｜Product Hunt 当日第6名｜数千次访问、几十个… |
-| [G338](../cases/03-failory/G338-产品做对了没人知道.md) | 产品做对了，没人知道它存在 | The product was right, but nobody knew it… | 软件与 SaaS | 结果未定 | DK·2020 | 免费额度3个习惯｜纸牌站每月300万局｜预估3周实际做了1个半月｜开发支出几乎为0｜两次发… |
-| [G206](../cases/04-indie-hacker/G206-截图API的广告账.md) | 20 个付费用户里的 13 个，来自每月 100 … | 13 of 20 paying users came from $100 a mo… | 软件与 SaaS | 结果未定 | NL·2020 | 20 个活跃付费用户｜月收入约 400 美元｜每月 100 美元谷歌广告投入｜20 个付费… |
-| [G222](../cases/04-indie-hacker/G222-迷你砖块.md) | 卖迷你砖块，月入一万七：一个平面设计师的三年 | A designer selling miniature cinder block… | 电商 | 成功在营 | unknown·2020 | 启动成本不到500美元｜月入1.7万美元｜Instagram两年4.5万粉丝｜单块1.33… |
-| [G244](../cases/04-indie-hacker/G244-两个死掉的副业项目养出一个200万美元的生意.md) | 两个死掉的副业项目，养出一个200万美元的生意 | Two abandoned side projects led to a $2 m… | 软件与 SaaS | 成功在营 | CA·2020 | 2个被放弃的副业项目｜2017年万圣节之夜发布v0.1.0｜2019年5月13日发布v1.… |
-| [G459](../cases/04-indie-hacker/G459-会议转录插件一年增长20倍.md) | 会议转录插件一年增长20倍 | A Meeting Transcription Extension Grew 20… | 软件与 SaaS | 成功在营 | AU·2020 | 几个月内获得1万名用户｜用户增长到19万+｜业务同比增长20倍｜团队7人｜收入环比增长超2… |
-| [G461](../cases/04-indie-hacker/G461-公开构建两年月入1.2万美元.md) | 公开构建两年，从零粉丝到月入1.2万美元 | Two Years of Building in Public Took Him … | 教育 | 成功在营 | unknown·2020 | 前6个月网上收入0美元（有意为之）｜指南发布前3天2100人阅读、100多人帮忙传播｜第一… |
-| [G626](../cases/05-china-interviews/G626-西安7-11便利店四年.md) | 开7-11投了100多万，日销只有预估的三分之一，… | Put 1M RMB into a 7-Eleven, sales a third… | 零售 | 出售退出 | CN·2020 | 开店前投入100多万（租金押金42.25万＋加盟费10万＋保证金20万＋货款押金10万＋装… |
-| [G629](../cases/05-china-interviews/G629-昆明娘惹糕私房甜品.md) | 从露楚到娘惹糕：昆明私房甜品主理人，一天卖三四十份… | Nyonya cake kitchen in Kunming sells 30-4… | 餐饮 | 结果未定 | CN·2020 | 泰式露楚5元/个、一盒10个50元｜斑斓戚风蛋糕靠自然客流一天卖三四十份｜新年礼盒最多订出… |
-| [G632](../cases/05-china-interviews/G632-上海郊区皮肤管理店亏60万.md) | 拿父母60万在上海郊区开皮肤管理店，每天进店10个… | A 600K RMB skin clinic needed 50 clients … | 本地服务 | 失败关停 | CN·2020 | 父母出资60万创业｜学习日式皮肤管理花8万｜上海郊区150多平商铺、月房租1万多｜前两个月… |
-| [G647](../cases/05-china-interviews/G647-网络电影投融资亏上千万.md) | 做网络电影投融资四年亏上千万，2019年全年只接到… | Four years financing web films lost 10M R… | 内容媒体 | 失败关停 | unknown·2020 | 创业四年累计亏损上千万（当事人估算）｜员工最多30多人、遣散时只剩6人｜为救公司向银行贷款… |
-| [G649](../cases/05-china-interviews/G649-常州教培校区一年亏百万.md) | 加盟"超级演说家"开常州校区，不到一年亏掉100多万 | Franchised a speaking school in Changzhou… | 教育 | 失败关停 | CN·2020 | 前期投入60多万（加盟费+房租+装修+老师培训）｜月租4万｜每月固定开支约16万｜2021… |
-| [G650](../cases/05-china-interviews/G650-卖4套房负债1亿的托育连锁.md) | 卖了4套房创业12年，疫情半年支出超7000万，她… | Sold four apartments to build a 40-site d… | 教育 | 失败关停 | CN·2020 | 公司负债约1亿｜疫情停摆半年支出超7000万：退费超3000万+物业租金2000多万+老师… |
-| [G652](../cases/05-china-interviews/G652-武汉服装厂150人瞬间清零.md) | 武汉150人的服装厂，封城三个月后瞬间清零 | A 150-worker garment factory in Wuhan wen… | 其他 | 失败关停 | CN·2020 | 150名工人分批遣散｜欠薪70多万（最终仍有十几万缺口发不出）｜年前订的面辅料几十万全砸仓… |
-| [G666](../cases/05-china-interviews/G666-580家店全停15天做出自负盈亏.md) | 580家门店全停，她用15天做出自负盈亏 | With 580 centers closed, she reached brea… | 教育 | 成功在营 | CN·2020 | 旗下580家托育早教中心全部停业｜3家直营店每月净亏90万至120万元｜加盟费按城市分18… |
-| [G669](../cases/05-china-interviews/G669-一单亏6块用一颗糖做到年入5000万.md) | 一单亏6块，月亏40万，他靠一颗糖做到年入5000万 | Lost 6 RMB per order, then built a 50M RM… | 电商 | 成功在营 | CN·2020 | 解酒糖启动资金60多万元｜第一年卖400万元、第二年1500万元、2024年预计突破500… |
-| [G682](../cases/05-china-interviews/G682-自创奶茶品牌亏150万.md) | 自创奶茶品牌，三家店关到剩一家 | Homegrown tea brand lost 1.5M RMB when le… | 餐饮 | 失败关停 | CN·2020 | 单店投入40万｜累计亏损150万｜巅峰3家店关掉2家｜柠檬从两块多一斤涨到35元｜全国48… |
-| [G683](../cases/05-china-interviews/G683-社区团购卖酒半年亏20万.md) | 社区团购卖酒，半年亏20万 | Group-buying liquor sales lost 200K RMB i… | 电商 | 失败关停 | unknown·2020 | 半年亏损20多万｜团长返佣20%｜微信发上万元红包｜头一个月盈利｜第二个月竞争加剧｜酱酒厂… |
-| [G684](../cases/05-china-interviews/G684-100万美元订单取消之后.md) | 100万美元订单取消之后 | A 1M USD order was cancelled; he sold 30K… | 电商 | 转型存活 | CN·2020 | 取消订单近100万美元｜3万多件镂空蕾丝上衣｜几十万美元胚布｜线上一周卖3万美元｜同行被取… |
-| [G708](../cases/06-starter-story/G708-他的产品在别人的应用商店里审核等了三个月.md) | 他的产品在别人的应用商店里，光审核就等了三个月 | His Airtable plugin waited three months f… | 软件与 SaaS | 结果未定 | UK·2020 | 月收入 $6.5K（访谈时 190 个付费客户；页面头部标注 $23K）｜启动成本 $10… |
-| [G709](../cases/06-starter-story/G709-第四次创业他给自己定了三条规矩.md) | 第四次创业，他给自己定了三条规矩，其中一条是三个月… | On his fourth startup he set three rules,… | 软件与 SaaS | 结果未定 | SG·2020 | 月收入 $15K（两个产品合计 MRR）｜启动成本 $800｜启动耗时 3 个月开发 + … |
-| [G712](../cases/06-starter-story/G712-总成本5美元他把打码做成了插件.md) | 总成本 5 美元，他把打码做成了一个每月一千多美元… | He built a blur tool for $5 and it earns … | 软件与 SaaS | 结果未定 | IN·2020 | 月收入 $1.5K（访谈时口述 $1,000+）｜启动成本 $5｜启动耗时 2-3 周｜团… |
-| [G725](../cases/06-starter-story/G725-被裁当天下午他开了个Substack.md) | 被裁员的当天下午，他给自己开了个 Substack | Hours after being laid off, he launched a… | 内容媒体 | 成功在营 | US·2020 | 月收入 $18,400｜启动成本 一顿饭（换一个 logo）｜启动耗时 7 个月追平原薪水… |
-| [G728](../cases/06-starter-story/G728-前半年每天零到两个访客.md) | 前半年每天零到两个访客，他写了两年才敢投广告 | He ran a sexual health affiliate site wit… | 内容媒体 | 结果未定 | US·2020 | 月收入 $5K｜启动成本 $10 域名＋约 $10 托管｜启动耗时 前半年几乎零收入，第 … |
-| [G730](../cases/06-starter-story/G730-第一年零收入第二年花一千块买课.md) | 第一年零收入，第二年她花一千块买课 | From zero income to $55,688 a month with … | 内容媒体 | 成功在营 | US·2020 | 月收入 $55,688（2023 年 1-4 月平均）｜启动成本 $1,000 买课＋建站… |
-| [J005](../cases/07-judgments/J005-加盟费15.9万品牌备案被撤销没告知法院判退7万.md) | 加盟费15.9万，品牌备案被撤销没告知，法院判退7万 | Franchise fee 159000; the brand's filing … | 餐饮 | 失败关停 | CN·2020 | 加盟费15.9万元｜保证金1万元｜合计16.9万元｜判决返还7万元（41.4%）｜2022… |
 
 ## 2019 (31)
 
