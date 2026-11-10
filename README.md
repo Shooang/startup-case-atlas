@@ -2,9 +2,9 @@
 
 中文 · [English](README.en.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Español](README.es.md)
 
-![cases](https://img.shields.io/badge/cases-489-D85A30?style=flat-square) ![frameworks](https://img.shields.io/badge/frameworks-234-1D4ED8?style=flat-square) ![chars](https://img.shields.io/badge/text-686k_chars-6B7280?style=flat-square) ![license](https://img.shields.io/badge/license-CC_BY--SA_4.0-0F6E56?style=flat-square) ![llms](https://img.shields.io/badge/llms.txt-ready-534AB7?style=flat-square)
+![cases](https://img.shields.io/badge/cases-499-D85A30?style=flat-square) ![frameworks](https://img.shields.io/badge/frameworks-234-1D4ED8?style=flat-square) ![chars](https://img.shields.io/badge/text-706k_chars-6B7280?style=flat-square) ![license](https://img.shields.io/badge/license-CC_BY--SA_4.0-0F6E56?style=flat-square) ![llms](https://img.shields.io/badge/llms.txt-ready-534AB7?style=flat-square)
 
-**489 个生意，每一个都记了账：花了多少，挣了多少，钱在哪一步没的。**
+**499 个生意，每一个都记了账：花了多少，挣了多少，钱在哪一步没的。**
 
 其中 **246 个（59%）死于同一件事**——做了一件没人要的东西，然后在发现这件事的过程中把钱用完了。
 
@@ -12,7 +12,7 @@
 
 [按失败机制浏览](index/by-mechanism.md) · [按行业](index/by-industry.md) · [按地区](index/by-region.md) · [拿数据](data/cases.jsonl) · [喂给模型](llms.txt)
 
-<img src="assets/failure-mechanisms.svg" width="780" alt="489 个案例的失败机制分布：需求错配 246 个，扩张过快 120，成本结构过重 119，依赖单一流量 108，现金流断裂 106">
+<img src="assets/failure-mechanisms.svg" width="780" alt="499 个案例的失败机制分布：需求错配 246 个，扩张过快 120，成本结构过重 119，依赖单一流量 108，现金流断裂 106">
 
 ---
 
@@ -22,7 +22,7 @@
 | --- | --- |
 | 随便读一个 | [`index/by-mechanism.md`](index/by-mechanism.md)——从"加盟陷阱"或"现金流断裂"开始 |
 | 找特定角度 | [按行业](index/by-industry.md) · [按结局](index/by-outcome.md) · [按地区](index/by-region.md) · [按年份](index/by-year.md) |
-| 拿数据 | [`data/cases.jsonl`](data/cases.jsonl)——489 行，每行一个案例，字段齐全 |
+| 拿数据 | [`data/cases.jsonl`](data/cases.jsonl)——499 行，每行一个案例，字段齐全 |
 | 喂给模型 | 先读 [`llms.txt`](llms.txt)（1.3 KB），上下文够再上 [`llms-full.txt`](llms-full.txt)（1.7 MB） |
 | 找一个判断工具 | [按书浏览框架卡](index/frameworks-by-book.md)——234 张，从 43 本书与课程里提的 |
 
@@ -65,10 +65,10 @@ key_numbers: 总投入150多万（加盟费十几万＋装修40多万＋备货�
 | [`cases/04-indie-hacker/`](cases/04-indie-hacker/) | 156 | 单人或小团队做付费产品 | 2019–2026 |
 | [`cases/05-china-interviews/`](cases/05-china-interviews/) | 69 | 中国实体生意：餐饮、加盟、小店、服务 | 2018–2026 |
 | [`cases/06-starter-story/`](cases/06-starter-story/) | 36 | 带月收入、启动成本、启动耗时的小生意 | 2019–2024 |
-| [`cases/07-judgments/`](cases/07-judgments/) | 70 | 法院判决：加盟·合伙·对赌·货款·竞业限制·商标·代持·预付卡·工程款·二手车·装修·直播·劳务派遣·医美·宠物·驾校·婚介·口腔正畸·助贷·健身私教·母婴护理·旅游 | 2016–2026 |
+| [`cases/07-judgments/`](cases/07-judgments/) | 80 | 法院判决：加盟·合伙·对赌·货款·竞业限制·商标·代持·预付卡·工程款·二手车·装修·直播·劳务派遣·医美·宠物·驾校·婚介·口腔正畸·助贷·健身私教·母婴护理·旅游·宠物诊疗·宠物寄养·租房甲醛·装修材料环保·机动车检测·非法催收·家政中介 | 2016–2026 |
 | [`legacy/articles/`](legacy/articles/) | 95 | 早期中文网络创业故事存档，多数原链接已失效 | 2000–2012 |
 
-**合计：** 489 个案例 · 约 68.7 万字案例正文 · 95 篇存档 · 31 个国家和地区 · 13 个行业 · 5 种结局 · 19 类失败机制。
+**合计：** 499 个案例 · 约 70.7 万字案例正文 · 95 篇存档 · 31 个国家和地区 · 13 个行业 · 5 种结局 · 19 类失败机制。
 
 ## 框架卡：案例背后的判断工具
 
@@ -138,7 +138,7 @@ key_numbers: 总投入150多万（加盟费十几万＋装修40多万＋备货�
 
 讲创业的东西，大多两个毛病：成功的故事把数字抹掉，失败的故事把原因缩成"经营不善"四个字。
 
-这个库想做的正相反：拿 489 个具体的生意，一个一个记下来——**它花了多少钱，挣了多少钱，钱到底去哪了，是哪一步把它弄塌的**。
+这个库想做的正相反：拿 499 个具体的生意，一个一个记下来——**它花了多少钱，挣了多少钱，钱到底去哪了，是哪一步把它弄塌的**。
 
 有两件事让它跟别的不太一样：
 
@@ -174,7 +174,7 @@ key_numbers: 总投入150多万（加盟费十几万＋装修40多万＋备货�
 
 这是一个**衍生作品，不是镜像站**。这里没有一篇是把别人的文章复制粘贴过来的——每个案例都是基于已公开发表的内容重新写的中文记述，原文链接就在文件里。
 
-- **案例正文**（489 篇）：[CC BY-SA 4.0](LICENSE)。可转载、可改编，需署名，衍生作品沿用同一许可。
+- **案例正文**（499 篇）：[CC BY-SA 4.0](LICENSE)。可转载、可改编，需署名，衍生作品沿用同一许可。
 - **其中 4 篇源自 [`byoungd/up`](https://github.com/byoungd/up)**：该项目正文为 **CC BY-NC 4.0**，这 4 篇同样**不可商用**。详见 [`ATTRIBUTIONS.md`](ATTRIBUTIONS.md)。
 - **存档文章**（`legacy/`）：版权归原作者与原发布方所有，仅为研究与索引目的收录，采用通知—删除机制。详见 [`DISCLAIMER.md`](DISCLAIMER.md)。
 

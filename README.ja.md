@@ -2,17 +2,17 @@
 
 [中文](README.md) · [English](README.en.md) · **日本語** · [한국어](README.ko.md) · [Español](README.es.md)
 
-![cases](https://img.shields.io/badge/cases-489-D85A30?style=flat-square) ![frameworks](https://img.shields.io/badge/frameworks-234-1D4ED8?style=flat-square) ![chars](https://img.shields.io/badge/text-686k_chars-6B7280?style=flat-square) ![license](https://img.shields.io/badge/license-CC_BY--SA_4.0-0F6E56?style=flat-square) ![llms](https://img.shields.io/badge/llms.txt-ready-534AB7?style=flat-square)
+![cases](https://img.shields.io/badge/cases-499-D85A30?style=flat-square) ![frameworks](https://img.shields.io/badge/frameworks-234-1D4ED8?style=flat-square) ![chars](https://img.shields.io/badge/text-706k_chars-6B7280?style=flat-square) ![license](https://img.shields.io/badge/license-CC_BY--SA_4.0-0F6E56?style=flat-square) ![llms](https://img.shields.io/badge/llms.txt-ready-534AB7?style=flat-square)
 
-**489 の事業、すべてに帳簿がついている。いくらかけて、いくら売れて、どの一手で金が尽きたのか。**
+**499 の事業、すべてに帳簿がついている。いくらかけて、いくら売れて、どの一手で金が尽きたのか。**
 
 そのうち **246 件（59%）は同じ原因で死んでいる**——誰も欲しがらないものを作り、それが誰も欲しがらないと分かるために金を使い切った。
 
 [失敗メカニズム別に見る](index/by-mechanism.md) · [業種別](index/by-industry.md) · [地域別](index/by-region.md) · [データを取る](data/cases.jsonl) · [モデルに読ませる](llms.txt)
 
-<img src="assets/failure-mechanisms.svg" width="780" alt="489 事例の失敗メカニズム分布：需要のミスマッチ 246、過剰拡大 120、コスト構造 119、単一の集客依存 108、資金繰り破綻 106">
+<img src="assets/failure-mechanisms.svg" width="780" alt="499 事例の失敗メカニズム分布：需要のミスマッチ 246、過剰拡大 120、コスト構造 119、単一の集客依存 108、資金繰り破綻 106">
 
-> **ケース本文は中国語です。** スキーマ・索引・データファイル・この README は日本語ですが、489 本の本文は中国語で書かれています。構造化された中国語の事業ケースは希少で、そこがこのアトラスが埋めている穴だからです。
+> **ケース本文は中国語です。** スキーマ・索引・データファイル・この README は日本語ですが、499 本の本文は中国語で書かれています。構造化された中国語の事業ケースは希少で、そこがこのアトラスが埋めている穴だからです。
 
 ---
 
@@ -22,7 +22,7 @@
 | --- | --- |
 | とりあえず一件読む | [`index/by-mechanism.md`](index/by-mechanism.md)——「フランチャイズの罠」か「資金繰り破綻」から |
 | 特定の切り口で探す | [業種](index/by-industry.md) · [結末](index/by-outcome.md) · [地域](index/by-region.md) · [年](index/by-year.md) |
-| データが欲しい | [`data/cases.jsonl`](data/cases.jsonl)——489 行、1 行 1 事例、全フィールド |
+| データが欲しい | [`data/cases.jsonl`](data/cases.jsonl)——499 行、1 行 1 事例、全フィールド |
 | モデルに読ませる | まず [`llms.txt`](llms.txt)（1.3 KB）、コンテキストが足りれば [`llms-full.txt`](llms-full.txt)（1.7 MB） |
 
 ```bash
@@ -67,10 +67,10 @@ key_numbers: 总投入150多万（加盟费十几万＋装修40多万＋备货�
 | [`cases/04-indie-hacker/`](cases/04-indie-hacker/) | 156 | 個人・少人数チームによる有料プロダクト | 2019–2026 |
 | [`cases/05-china-interviews/`](cases/05-china-interviews/) | 69 | 中国の実業：飲食、フランチャイズ、小店、サービス | 2018–2026 |
 | [`cases/06-starter-story/`](cases/06-starter-story/) | 36 | 月収・初期費用・立ち上げ期間つきの小規模事業 | 2019–2024 |
-| [`cases/07-judgments/`](cases/07-judgments/) | 70 | 裁判：加盟・散伙・対賭・未払代金・競業避止・商標・名義株・プリペイドカード・工事代金・中古車・リフォーム・ライブ配信・労働者派遣・美容医療・ペット・自動車教習所・結婚相談所・歯科矯正・融資仲介・パーソナルトレーニング・産後ケア・旅行 | 2016–2026 |
+| [`cases/07-judgments/`](cases/07-judgments/) | 80 | 裁判：加盟・散伙・対賭・未払代金・競業避止・商標・名義株・プリペイドカード・工事代金・中古車・リフォーム・ライブ配信・労働者派遣・美容医療・ペット・自動車教習所・結婚相談所・歯科矯正・融資仲介・パーソナルトレーニング・産後ケア・旅行・ペット診療・ペットホテル・賃貸のホルムアルデヒド・リフォーム資材・車両検査・違法取り立て・家事仲介 | 2016–2026 |
 | [`legacy/articles/`](legacy/articles/) | 95 | 初期の中国語ウェブ記事アーカイブ（リンク切れ多数） | 2000–2012 |
 
-**合計：** 489 ケース · 本文約 68.7 万文字 · アーカイブ 95 本 · 31 の国と地域 · 13 業種 · 5 つの結末 · 19 の失敗メカニズム。
+**合計：** 499 ケース · 本文約 70.7 万文字 · アーカイブ 95 本 · 31 の国と地域 · 13 業種 · 5 つの結末 · 19 の失敗メカニズム。
 
 ## フレームカード：事例の背後にある判断道具
 
@@ -138,7 +138,7 @@ key_numbers: 总投入150多万（加盟费十几万＋装修40多万＋备货�
 
 起業についての文章は、たいてい二つの欠陥を抱えています。成功談は数字を消し、失敗談は原因を「経営不振」の四文字に圧縮する。
 
-このアトラスはその逆を狙いました。489 の具体的な事業を一件ずつ記録する——**いくらかけて、いくら売れて、金はどこへ消え、どの一手で崩れたのか**。
+このアトラスはその逆を狙いました。499 の具体的な事業を一件ずつ記録する——**いくらかけて、いくら売れて、金はどこへ消え、どの一手で崩れたのか**。
 
 他と違う点は二つあります。
 
@@ -174,7 +174,7 @@ key_numbers: 总投入150多万（加盟费十几万＋装修40多万＋备货�
 
 これは**二次的著作物であり、ミラーではありません**。他人の記事をコピーしたものは一本もなく、すべて公開済みの報道に基づいて書き直した中国語の記述で、原文リンクがファイル内にあります。
 
-- **ケース本文**（489 本）：[CC BY-SA 4.0](LICENSE)。転載・改変可、出典表示が必要、派生物も同一ライセンス。
+- **ケース本文**（499 本）：[CC BY-SA 4.0](LICENSE)。転載・改変可、出典表示が必要、派生物も同一ライセンス。
 - **うち 4 本は [`byoungd/up`](https://github.com/byoungd/up) 由来**：同プロジェクトの本文は **CC BY-NC 4.0** のため、この 4 本は**商用利用不可**。詳細は [`ATTRIBUTIONS.md`](ATTRIBUTIONS.md)。
 - **アーカイブ記事**（`legacy/`）：著作権は原著者・原出版社に帰属。研究と索引目的のみの収録で、通知・削除の仕組みを採ります。[`DISCLAIMER.md`](DISCLAIMER.md) を参照。
 

@@ -2,7 +2,7 @@
 
 > 每个标签是一个可复用的判断点，写选题时按机制找案例。
 
-> 共 489 个案例。按此维度去重后 19 组。
+> 共 499 个案例。按此维度去重后 19 组。
 
 ## 需求错配 (246)
 
@@ -504,6 +504,119 @@
 | [G724](../cases/06-starter-story/G724-在厨房做手工皂.md) | 在厨房做手工皂，第三年才打平 | She made soap in her kitchen and broke ev… | 零售 | 结果未定 | US·2009 | 月收入 $5K（页面字段）｜启动成本 $13.7K（页面字段；正文称自筹、未贷款）｜启动耗… |
 | [J059](../cases/07-judgments/J059-30万贷款被收18%即5.4万服务费法院核实系统自动审批后砍到1万.md) | 30万贷款被收18%即5.4万服务费，法院核实系统… | A 54000 yuan agency fee on a 300000 yuan … | 金融 | 失败关停 | CN·2026 | 贷款30万元｜年利率3.5%｜期限3年｜服务费按放款金额18%收取＝5.4万元｜法院酌减至… |
 
+## 现金流断裂 (108)
+
+| ID | 标题 | 英文标题 | 行业 | 结局 | 地区·年份 | 关键数字 |
+| --- | --- | --- | --- | --- | --- | --- |
+| [G002](../cases/01-personal-failure/G002-温泉酒店亏掉三千万.md) | 温泉酒店亏掉三千万，他才明白"赚过钱"不等于"懂这… | He lost 30 million yuan on a hot spring h… | 其他 | 失败关停 | CN·2018 | 温泉度假酒店项目亏损约3000万元｜会所项目损失另计｜软件公司同期投入几百万｜酒吧项目初期… |
+| [G004](../cases/01-personal-failure/G004-亏掉两千万之后.md) | 亏掉两千万之后，他关掉了 GitHub，回老家先学… | After losing 20 million yuan he closed Gi… | 餐饮 | 失败关停 | CN·2023 | 2023年3月底转让最后一家餐饮店｜2023年6月底离开南京｜合计损失2000多万（个人估… |
+| [G108](../cases/02-founder-postmortems/G108-九个月花掉一半就退钱.md) | 募了56万美元，九个月花掉一半，然后退钱 | He raised $560,000, spent half in nine mo… | 金融 | 失败关停 | US·2009 | 融资56万美元｜9个月花掉约一半｜退还近50%资本｜艺术品市场700亿美元｜道指募资日12… |
+| [G109](../cases/02-founder-postmortems/G109-第一家公司的复盘.md) | 转型转到一半钱没了：三年、50万种子轮和一辆卖掉的车 | His first company ran three years on $500… | 餐饮 | 失败关停 | US·2013 | 2009年12月关停｜经营三年｜种子轮50万美元｜波士顿20家餐厅试点跑了超一年｜无薪工作… |
+| [G110](../cases/02-founder-postmortems/G110-一家拿过风投的公司怎么写复盘.md) | 苹果谷歌都在推、拿了近200万美元，这家社交App… | Sonar raised nearly $2 million and was fe… | 软件与 SaaS | 失败关停 | US·2013 | 融资近200万美元｜苹果和谷歌在100多个国家推荐｜TechCrunch Disrupt亚… |
+| [G111](../cases/02-founder-postmortems/G111-好好说再见.md) | 上周刚送出第一百万单，今天申请司法重组 | Take Eat Easy delivered 1 million orders,… | 物流 | 失败关停 | BE·2016 | 经营近四年｜团队一年内从10人到160人｜月增长率30%｜累计送达100万单｜合作餐厅45… |
+| [G122](../cases/02-founder-postmortems/G122-付费版上线在崩盘前五分钟.md) | 付费版上线在经济崩盘前五分钟 | Standout Jobs launched its paid tier five… | 软件与 SaaS | 失败关停 | CA·2023 | 2007年末到2010年运营｜付费版2008年秋上线｜客户说18个月内不招人｜招聘预算举例… |
+| [G301](../cases/03-failory/G301-三万美元十个月做了个自己都不用的系统.md) | 三万美元十个月，他做了个自己都不用的系统 | Spent 30k and ten months building a syste… | 软件与 SaaS | 失败关停 | US·2019 | 约3万美元（受访者称“大概”）｜10个月全职开发｜0收入｜0客户｜2017年6月离职｜Ru… |
+| [G302](../cases/03-failory/G302-一边降价一边比价年营收二十五万新元也归零.md) | 一边降价一边比价，年营收二十五万新元也归零 | Cut prices while matching competitors, an… | 电商 | 失败关停 | SG·2019 | S$120,000 天使种子轮（全部亏光）｜峰值年营收 S$250,000｜5人创始团队｜… |
+| [G304](../cases/03-failory/G304-二十八个人报了名他做出一个谁都不合适的项目.md) | 二十八个人报了名，他做出一个谁都不合适的项目 | 28 sign-ups for a program that fit nobody… | 教育 | 失败关停 | DE·2021 | 15万欧元（两年）｜承诺 ARR 约3万欧元｜首批28名学员｜1,800欧元/年｜年龄17… |
+| [G306](../cases/03-failory/G306-三年五万美元做了个没人要的iPad赛车方向盘.md) | 三年五万美元，做了个没人要的 iPad 赛车方向盘 | Three years and 50k on an iPad racing whe… | 硬件制造 | 失败关停 | unknown·2020 | 5万美元｜其中银行贷款3万美元｜加速器投资2万美元｜3年｜单价约100美元｜Kicksta… |
+| [G307](../cases/03-failory/G307-两千万美元的收购要约五百万现金加一千五百万股票.md) | 两千万美元的收购要约，五百万现金加一千五百万股票 | A 20m acquisition offer of 5m cash and 15… | 硬件制造 | 失败关停 | US·2020 | 两年营收略超20万美元（单一企业客户）｜现金损失不到15万美元｜其中亲友可转债2.5万美元… |
+| [G309](../cases/03-failory/G309-二十五万美元做一个非洲版奈飞输给免费.md) | 二十五万美元做一个非洲版奈飞，输给免费 | Spent 250k building an African Netflix, t… | 内容媒体 | 失败关停 | US·2018 | 现金投入25万美元｜片源采购10万美元｜员工9,000美元/月｜服务器1,200美元/月｜… |
+| [G313](../cases/03-failory/G313-自己申请牌照省下律师费.md) | 自己申请牌照省下律师费，四万五千英镑买了个不懂的行业 | Lost 45k on a fantasy sports site he did … | 游戏 | 失败关停 | UK·2019 | 亏约4.5万英镑｜收入不到1000英镑（对应报名费流水约6000-7000英镑）｜用户约1… |
+| [G315](../cases/03-failory/G315-一万五千美元的上门修车生意.md) | 一万五千美元的上门修车生意，卡在十二个月的复购周期 | Spent 15k on on-demand car repair, stuck … | 本地服务 | 失败关停 | IN·2018 | 自筹约1.5万美元｜总收入约5000美元｜净亏约1万美元｜单个获客成本12美元｜传单覆盖2… |
+| [G317](../cases/03-failory/G317-月入四万美元却欠债七万.md) | 月入四万美元的代理公司，为什么最后欠了七万 | An agency billing 40k a month that ended … | 本地服务 | 失败关停 | US·2020 | 峰值月收入约4万美元｜月支出3万美元以上｜峰值10个客户、5名员工｜离场时债务超7万美元（… |
+| [G318](../cases/03-failory/G318-融了一百万却零收入.md) | 融了一百万、十万用户、零收入，一周之内发不出工资 | Raised 1m, got 100k users and zero revenu… | 内容媒体 | 失败关停 | US·2020 | 融资约100万美元（前身公司原有100万+，转向前又融约25万美元天使）｜10万用户｜网红… |
+| [G320](../cases/03-failory/G320-年营收二十五万英镑却没有现金.md) | 年营收二十五万英镑，账上却没有现金 | 250k a year in sales and no cash left in … | 零售 | 失败关停 | UK·2019 | 第三年营收25万英镑｜第一年6500英镑、第二年9.9万英镑｜最好一个月4万英镑、下一个月… |
+| [G321](../cases/03-failory/G321-年化三十三万美元却只剩一个月跑道.md) | 年化三十三万美元的印度生鲜平台，只剩一个月跑道 | A 335k annual run rate with one month of … | 物流 | 出售退出 | IN·2021 | MRR 250万卢比｜ARR 2500万卢比（页面折算33.5万美元）｜月净烧10万-15… |
+| [G323](../cases/03-failory/G323-五千用户和一家僵尸公司.md) | 五千用户、烧掉四万美元，一家"僵尸公司"的两年 | 5,000 users and 40k burned over two years… | 其他 | 失败关停 | US·2019 | 月活峰值约5000｜团队峰值7人｜两年烧掉3万-4万美元（个人储蓄）｜外部融资0｜每日匹配… |
+| [G324](../cases/03-failory/G324-从月入两万四到归零.md) | 七个月做到月入两万四，然后亲手把它花回零 | Reached 24k a month in seven months, then… | 本地服务 | 失败关停 | US·2023 | 峰值MRR 2.4万美元｜月费2000美元含4篇文章｜单篇稿费200-400美元｜获10万… |
+| [G326](../cases/03-failory/G326-把热度当成验证烧掉五万五.md) | 把一条爆火的推文当成市场验证，烧掉五万五 | Treated one viral tweet as validation and… | 软件与 SaaS | 失败关停 | US·2020 | 唯一一笔融资15万美元｜7月到次年1月烧掉约5.5万美元｜创始人年薪约5万美元｜总收入约1… |
+| [G331](../cases/03-failory/G331-一张迟到的支票压垮一所学校.md) | 一所免学费的寄宿学校，死在支票到账的那四个月 | A tuition-free boarding school killed by … | 教育 | 失败关停 | US·2017 | 从想法到开学6年｜运营约2.5年｜累计捐款约100万美元｜前三年每季度新增500多个联系人… |
+| [G334](../cases/03-failory/G334-两三百条房源撑不起一个市场.md) | 两三百条房源，撑不起一个双边市场 | Two or three hundred listings were not en… | 电商 | 失败关停 | US·2011 | 两位创始人都非技术背景｜后端外包至少1万美元｜峰值约200-300条房源｜零收入｜至少6个… |
+| [G339](../cases/03-failory/G339-出技术的人也握着你的生死.md) | 出技术的人，也握着你的生死 | The team that built the product also held… | 软件与 SaaS | 失败关停 | US·2019 | 副业做了8个月｜beta报价15万-20万美元、完整版50万-200万美元｜自付60美元l… |
+| [G343](../cases/03-failory/G343-两个技术合伙人没卖出第一台.md) | 两个技术合伙人，没卖出第一台 | Two technical founders who never sold a s… | 硬件制造 | 失败关停 | US·2013 | 产品由3部分组成（WiFi版OBD-II读取器、数据服务器、API）｜众筹未达目标｜众筹金… |
+| [G346](../cases/03-failory/G346-为了让投资人看到五百万营收他改了报表.md) | 为了让投资人看到五百万营收，他把报表改了 | He altered the books to show investors 5m… | 内容媒体 | 失败关停 | US·2023 | 广告流量第1天付款｜第30天给客户开票｜第120到150天回款｜投资人门槛举例"500万美… |
+| [G347](../cases/03-failory/G347-免费送都没人要的食堂营养软件.md) | 免费送都没人要的食堂营养软件 | Nutrition software for cafeterias that no… | 软件与 SaaS | 失败关停 | CA·2023 | 运营8个月｜联系近100所北美高校｜第一轮通话的十来所全部失联｜团队8人（仅创始人全职，全… |
+| [G348](../cases/03-failory/G348-一百公里无人机空投一年半后解散.md) | 一百公里无人机空投，一年半后解散 | A 100-kilometer drone airlift that disban… | 硬件制造 | 失败关停 | US·2021 | 往返100公里自主空投｜自掏约1.2万美元｜创新比赛奖金3,500美元｜捐赠者5,000美… |
+| [G350](../cases/03-failory/G350-用无代码搭的市场一年没问过谁要买.md) | 用无代码工具搭的市场，一年没问过谁要买 | A year building a no-code marketplace wit… | 电商 | 失败关停 | US·2021 | 2016年上线｜无代码搭建用Sharetribe，覆盖约80%的功能｜做了一年才发布｜上线… |
+| [G351](../cases/03-failory/G351-融了二十五万欧元最后四个月白送也没救回来.md) | 融了二十五万欧元，最后四个月白送也没救回来 | Raised 250k euros, then gave it away free… | 软件与 SaaS | 失败关停 | BE·2021 | 融资25万欧元｜4名招聘顾问｜订阅49/99/149欧元每月（年付/学期/月付）｜页面导语… |
+| [G353](../cases/03-failory/G353-和Dropcam同时起跑连一篇评测都没拿到.md) | 和 Dropcam 同时起跑，连一篇评测都没拿到 | Racing Dropcam from the same start and ne… | 硬件制造 | 失败关停 | US·2021 | 建产品约5个月｜天使轮来自亲友（原文未披露金额）｜住所月租约800美元｜每批约10台摄像头… |
+| [G356](../cases/03-failory/G356-融了一百五十万欧元做到一万美元月收入还是没钱了.md) | 融了一百五十万欧元，做到一万美元月收入还是没钱了 | Raised 1.5m euros, reached 10k a month, a… | 游戏 | 失败关停 | ES·2021 | 种子轮150万欧元｜团队10人｜首版20个游戏，10月到次年2月做完｜5家VC均给出ter… |
+| [G359](../cases/03-failory/G359-能一个月造出一个Quora.md) | 能一个月造出一个 Quora，于是六年什么都没做成 | Could build a Quora clone in a month, and… | 软件与 SaaS | 失败关停 | IN·2010 | 2010年成立｜2016年关闭｜团队最多27人｜服务业务收入约30万美元｜融资10万美元｜… |
+| [G360](../cases/03-failory/G360-每月两万美元是资助不是收入.md) | 每月两万美元是资助，不是收入 | 20,000 a month in grants that was never p… | 软件与 SaaS | 失败关停 | US·2017 | 峰值每月2万美元（协议资助，非产品收入）｜累计获得资助约13万美元｜法务费超过3万美元｜营… |
+| [G361](../cases/03-failory/G361-产品还没上线他先撑不住了.md) | 产品还没上线，他先撑不住了 | Two years on a product that never launche… | 软件与 SaaS | 失败关停 | RU·2018 | 2018年写下项目文档｜做了2年｜定价28美元/月｜总支出略低于1000美元｜未产生任何收… |
+| [G362](../cases/03-failory/G362-两周回本十个月关门.md) | 两周回本，十个月关门 | Paid back the investment in two weeks and… | 教育 | 失败关停 | IN·2013 | 2013年9月开班｜2014年7月资金见底｜启动投入45万卢比（自己15万＋合伙人30万）… |
+| [G364](../cases/03-failory/G364-每月收一万二每月花五万.md) | 每月收一万二，每月花五万 | Brought in 12,000 a month and spent 50,000 | 电商 | 失败关停 | US·2015 | 做了2年｜峰值月收入约1.2万美元｜月支出4万-5万美元｜产品开发耗时5.5个月｜加速器驻… |
+| [G366](../cases/03-failory/G366-十万用户卖出三个贴纸.md) | 十万用户，卖出三个贴纸 | Social app reached 100,000 users, sold on… | 其他 | 失败关停 | US·2013 | 运营4年｜用户超过10万｜四年总支出略低于20万美元｜收入为0｜贴纸功能做了数周、花掉数千… |
+| [G368](../cases/03-failory/G368-一百个试用零个付费.md) | 一百个试用，零个付费 | One hundred free trials, zero paid conver… | 软件与 SaaS | 失败关停 | BR·2011 | 投资约3000美元（两位合伙人）｜创始人自己投入约200美元｜100多个免费试用｜付费转化… |
+| [G370](../cases/03-failory/G370-收客户一千给高中生七百五.md) | 收客户一千给高中生七百五，他两年亏了一万五 | Charged clients 1,000 dollars, paid stude… | 教育 | 失败关停 | CA·2018 | 网站一单收1000美元、付学生750美元、留250美元管理费｜支出约3.5万美元｜收入约2… |
+| [G373](../cases/03-failory/G373-众筹页面从没上线.md) | 众筹页面从没上线，十个月亏掉近六万美元 | Crowdfunding page never launched, ten mon… | 硬件制造 | 失败关停 | US·2014 | 直接投入3000美元｜生活开支15000美元｜放弃的工资41660美元（按年薪5万美元×1… |
+| [G375](../cases/03-failory/G375-烧掉七十五万月收入三千.md) | 烧掉七十五万，关停时月收入三千 | Burned 750,000 dollars and shut down at 3… | 软件与 SaaS | 失败关停 | US·2017 | 总融资约75万美元（另处表述为"近100万"）｜两年半花掉约75万美元｜关停时MRR约30… |
+| [G376](../cases/03-failory/G376-每单赚五毛二拉新花一块五.md) | 每单赚五毛二，拉一个新用户花一块五 | Made 52 cents per order, paid 1.50 dollar… | 金融 | 失败关停 | US·2019 | 开发费约1.5万美元｜开发者时薪150美元｜2个月做完App｜门费5美元、售价5.99美元… |
+| [G378](../cases/03-failory/G378-十三万美元砸印度卖出不到六十支.md) | 十三万美元砸印度，卖出不到六十支球拍 | Spent 130,000 dollars marketing cricket b… | 零售 | 失败关停 | UK·2009 | 总募集与支出约30万美元｜营销投入超13万美元｜知识产权律师费近3万美元｜发布首周卖出24… |
+| [G382](../cases/03-failory/G382-两年零收入他把非洲短片放进了自己的服务器.md) | 两年零收入，他把非洲短片放进了自己的服务器 | Two years, zero revenue: an African short… | 内容媒体 | 失败关停 | NG·2019 | 运营2年｜收入0美元｜总支出超过1万美元｜投资人2000美元换20%股权｜上线2周上线50… |
+| [G383](../cases/03-failory/G383-一千五百美元一个月他一份都没卖出去.md) | 一千五百美元一个月，他一份都没卖出去 | Zero sales at 1,500 dollars a month after… | 软件与 SaaS | 失败关停 | CA·2019 | 收入0美元｜总支出约1000美元｜MVP开发6周、数百小时｜试点4名经纪人｜潜在合同约10… |
+| [G385](../cases/03-failory/G385-两个开发者辞职八个月连一个内测用户都没找到.md) | 两个开发者辞职八个月，连一个内测用户都没找到 | Two developers quit their jobs, built eig… | 软件与 SaaS | 失败关停 | IL·2019 | 2名创始人｜开发8个月｜前3个月纯写代码｜每月生活开销约2500美元｜AWS服务器与Lam… |
+| [G395](../cases/03-failory/G395-五千英镑启动金刚好够他不着急.md) | 五千英镑启动金，刚好够让他不着急 | 5,000 pounds of seed money was just enoug… | 本地服务 | 失败关停 | UK·2010 | 1人公司｜自有资金5000英镑｜峰值收入2500英镑（原文未注明统计周期）｜营销顾问费40… |
+| [G396](../cases/03-failory/G396-一年半做出产品六个月后关掉.md) | 一年半做出产品，六个月后关掉 | Eighteen months to ship, six months to sh… | 软件与 SaaS | 失败关停 | US·2014 | 3位创始人（2名开发+1名设计）｜加速器支票16000美元｜月支出1800美元（工资150… |
+| [G402](../cases/03-failory/G402-几万活跃用户一分钱收不上来.md) | 几万活跃用户，一分钱收不上来 | Tens of thousands of active users and not… | 金融 | 失败关停 | US·2010 | 1人开发｜一个周末做出原型｜上线数周后联系媒体｜6周后被 LifeHacker 报道｜用户… |
+| [G407](../cases/03-failory/G407-客户说以后再上.md) | 客户都说这东西该有，然后都说以后再说 | Clients called it useful, then postponed … | 软件与 SaaS | 失败关停 | US·2016 | 2016年10月立项｜2个月做MVP｜4个月找客户｜5-10个试用客户｜一次群发1000人… |
+| [G409](../cases/03-failory/G409-八万五千欧元死在合同之前.md) | 八万五千欧元，死在合同之前 | 85,000 euros gone before an enterprise co… | 软件与 SaaS | 失败关停 | DE·2013 | 天使轮约7万欧元｜自掏约7万欧元生活费｜善后另花1.5万欧元｜收入0｜数千人等候名单｜私人… |
+| [G415](../cases/03-failory/G415-两小时的SWOT拦下一个项目.md) | 两小时的SWOT，让一个项目死在写代码之前 | Two hours of SWOT killed the project befo… | 教育 | 失败关停 | US·2014 | 2位创始人｜SWOT分析约2小时｜0行代码｜0收入｜0投入｜发现一批有VC背书、有付费客户… |
+| [G418](../cases/03-failory/G418-样车做好了市场还没到.md) | 样车做好了，市场还没到 | The prototype electric motorcycle was rea… | 硬件制造 | 失败关停 | IN·2018 | 2014年新德里车展原定发布｜原型车阶段｜一台改装雅马哈FZ-06（自研EMS与电池组）｜… |
+| [G421](../cases/03-failory/G421-二十岁一个人卖T恤先印了一批.md) | 二十岁一个人卖T恤，先印了一批不知道卖给谁的衣服 | At 20 he printed a batch of t-shirts befo… | 电商 | 失败关停 | MX·2018 | 2005年创办｜20岁｜无投资、无商业计划｜一人运营（技术、销售、生产）｜获客靠个人博客+… |
+| [G429](../cases/03-failory/G429-二〇〇三年做了个没人需要的P2P.md) | 二〇〇三年做了个P2P产品，没人需要 | In 2003 he built a P2P product that nobod… | 软件与 SaaS | 失败关停 | US·2018 | 2003年启动｜三人分工（本人写代码、一人融资与产品营销、一人设计）｜自筹资金，来自前一家… |
+| [G232](../cases/04-indie-hacker/G232-被VC拒绝后的200个付费用户.md) | 被VC拒绝48小时后，他们开始收钱 | Rejected by VCs, they added payments and … | 软件与 SaaS | 成功在营 | UK·2021 | 被VC拒绝时账上的钱只够几个月｜已有35K用户但从未收费｜上线收费48小时内出现20个付费… |
+| [G437](../cases/04-indie-hacker/G437-两个人的插件平台.md) | 两个人的插件平台，做到第三年才拿到钱 | Two Developers Spent Three Years on a Plu… | 软件与 SaaS | 成功在营 | CN·2018 | 2018 年发布｜做了约 3 年｜2020 年融资时"仅够 1 个月"｜2 名开发人员｜1… |
+| [G607](../cases/05-china-interviews/G607-账上4000块给员工两个选择.md) | 账上只剩4000块还要发工资，他给员工两个选择 | With 4,000 RMB left and payroll due, he g… | 硬件制造 | 成功在营 | CN·2025 | 2009年账上不到4000块、距发薪两周｜阿里先投约100万美元、后以约1000万美元收购… |
+| [G609](../cases/05-china-interviews/G609-三个月烧200万美金中国第一被下架.md) | 三个月烧完200万美金登顶中国第一，下一秒被下架 | Burned 2M USD in three months to rank fir… | 软件与 SaaS | 转型存活 | unknown·2025 | 首轮融资400万美金（估值1800万美金）｜2023年6月-9月3个月烧了200万美金投流… |
+| [G623](../cases/05-china-interviews/G623-150万加盟火锅自助四个月闭店.md) | 卖房凑150万加盟火锅自助，首月流水70万反而亏2… | Sold his house for 1.5M RMB to join a buf… | 餐饮 | 失败关停 | CN·2025 | 总投入150多万（加盟费十几万＋装修40多万＋备货七八十万）｜首月流水六七十万、净亏20多… |
+| [G628](../cases/05-china-interviews/G628-广州轰趴别墅到400套民宿.md) | 刷爆信用卡负债30万做轰趴别墅，月纯利30万；疫情… | Built a party-villa business, lost 600K t… | 本地服务 | 转型存活 | CN·2017 | 首套别墅装修预算10万实花30万、刷信用卡负债30万创业｜别墅间夜1800元、月租仅七八千… |
+| [G641](../cases/05-china-interviews/G641-电台主持卖房开雪冰店亏160万.md) | 电台主持辞职卖房开雪冰店，两年亏掉160万 | Sold his house to open a shaved-ice franc… | 餐饮 | 失败关停 | unknown·2018 | 合计亏损160万（含卖房款）｜加盟费+装修+租金前期投入几十万｜最差一天营业额18元｜最好… |
+| [G642](../cases/05-china-interviews/G642-上海羊肉面馆十几天关店.md) | 三人凑80万在上海开羊肉面馆，开业十几天就关门 | Three partners pooled 800K RMB for a Shan… | 餐饮 | 失败关停 | CN·2024 | 三人凑80万｜月租9.5万、付三押二一次花掉45万房租｜开业约十几天关门｜实际亏损约60万… |
+| [G645](../cases/05-china-interviews/G645-电子烟代工厂500万库存变废品.md) | 电子烟网售禁令一出，深圳代工厂500万的货一夜变废品 | An e-cigarette factory's 5M RMB inventory… | 硬件制造 | 失败关停 | CN·2019 | 最大客户拒付200万库存的货款｜仓库压着500万垫款生产的货｜员工从80人裁到10人｜股权… |
+| [G646](../cases/05-china-interviews/G646-二手车平台假合伙人.md) | 融资被投资方反悔，二手车平台从120人裁到倒闭，我… | When the funding fell through, he learned… | 电商 | 失败关停 | unknown·2018 | 员工从120多人裁到40多人｜公司还欠他4个月工资｜大多数被裁和解散员工没有N+1补偿｜公… |
+| [G647](../cases/05-china-interviews/G647-网络电影投融资亏上千万.md) | 做网络电影投融资四年亏上千万，2019年全年只接到… | Four years financing web films lost 10M R… | 内容媒体 | 失败关停 | unknown·2020 | 创业四年累计亏损上千万（当事人估算）｜员工最多30多人、遣散时只剩6人｜为救公司向银行贷款… |
+| [G648](../cases/05-china-interviews/G648-趣口才借款1200万停运.md) | 双减切断融资，他借1200万硬撑四个月，最后停运道歉 | After the tutoring crackdown cut funding,… | 教育 | 失败关停 | unknown·2021 | 与合伙人以个人名义担保借款1200万自救｜背上数百万个人债务｜2021年8月27日宣布停止… |
+| [G649](../cases/05-china-interviews/G649-常州教培校区一年亏百万.md) | 加盟"超级演说家"开常州校区，不到一年亏掉100多万 | Franchised a speaking school in Changzhou… | 教育 | 失败关停 | CN·2020 | 前期投入60多万（加盟费+房租+装修+老师培训）｜月租4万｜每月固定开支约16万｜2021… |
+| [G650](../cases/05-china-interviews/G650-卖4套房负债1亿的托育连锁.md) | 卖了4套房创业12年，疫情半年支出超7000万，她… | Sold four apartments to build a 40-site d… | 教育 | 失败关停 | CN·2020 | 公司负债约1亿｜疫情停摆半年支出超7000万：退费超3000万+物业租金2000多万+老师… |
+| [G651](../cases/05-china-interviews/G651-格斗连锁负债2000万.md) | 估值近亿的格斗连锁，两年关6家店，负债近2000万 | Gym chain valued near 100M RMB shut six s… | 本地服务 | 失败关停 | CN·2017 | 天使轮融资1050万｜巅峰估值近亿（梅花创投、联想之星等投资）｜北京6家门店｜2021年开… |
+| [G652](../cases/05-china-interviews/G652-武汉服装厂150人瞬间清零.md) | 武汉150人的服装厂，封城三个月后瞬间清零 | A 150-worker garment factory in Wuhan wen… | 其他 | 失败关停 | CN·2020 | 150名工人分批遣散｜欠薪70多万（最终仍有十几万缺口发不出）｜年前订的面辅料几十万全砸仓… |
+| [G661](../cases/05-china-interviews/G661-关掉16家店利润反涨6000万.md) | 关掉16家店，利润反而涨了6000万 | Closed 16 pizza stores in 2019 and profit… | 餐饮 | 成功在营 | CN·2018 | 2015年红杉资本注资6000万元｜2018年为囤榴梿半年筹资8000万元｜2019年主动… |
+| [G662](../cases/05-china-interviews/G662-一天劝离1600人自己背1000万美元债.md) | 一天劝离1600人，他自己背着1000万美元债务 | Laid off 1,600 people in one day and carr… | 物流 | 成功在营 | CN·2009 | 2014年B轮1000万美元｜2013年底借钱300多万元发工资和年终奖｜2016年被跳票… |
+| [G663](../cases/05-china-interviews/G663-一年卖400万份汤292天后全部关停.md) | 一年卖出400万份汤，292天后全部门店关停 | Sold 4M bowls of soup in a year, shut eve… | 餐饮 | 失败关停 | CN·2015 | 不到两年3轮融资累计上亿元｜2018年3月A+轮近亿元｜号称1年卖出400万份汤｜停业时近… |
+| [G664](../cases/05-china-interviews/G664-融资6000万最后自己欠4000万.md) | 融资近6000万，最后自己欠下4000多万 | Raised nearly 60M RMB, personally owed mo… | 电商 | 失败关停 | CN·2013 | 2013-2015年累计融资近6000万元｜2014年海通拟投2000万元、去哪儿打500… |
+| [G665](../cases/05-china-interviews/G665-烧光3000万8家茶馆关掉6家.md) | 六年四次创业，烧光3000万，8家茶馆关掉6家 | Four startups in six years burned 30M RMB… | 餐饮 | 失败关停 | CN·2014 | 六年四次创业累计投入超3000万元｜第一次创业录一门精品课成本10万到三四十万元｜第二次拿… |
+| [G668](../cases/05-china-interviews/G668-一份英文文件让他背上7000万美金.md) | 上市前一晚签的一份英文文件，让他背上7000万美元 | One English document signed the night bef… | 软件与 SaaS | 失败关停 | CN·2012 | 2020年纳斯达克上市、两年后退市｜产品注册用户4000万、日活约200万｜持股约40%｜… |
+| [G670](../cases/05-china-interviews/G670-36家店发不出工资他自筹600万.md) | 36家店发不出工资，他宁可自己凑600万，也不接受… | Rather than open his books, he raised 6M … | 餐饮 | 成功在营 | CN·2008 | 2008年3万元积蓄＋借款3万元开出第一家店｜2016年36家门店、年营业额4亿元｜201… |
+| [G672](../cases/05-china-interviews/G672-7亿订单只交付几十台140亿独角兽破产.md) | 签下7亿订单，最后只交付几十台，140亿独角兽破产 | A 14B RMB unicorn signed a 700M RMB order… | 硬件制造 | 失败关停 | CN·2017 | 估值一度达140亿元｜十余轮融资、已披露融资总额超7亿元｜高峰期员工接近1000人、一年人… |
+| [G673](../cases/05-china-interviews/G673-五年烧光1亿只剩11家店.md) | 五年烧光1亿，500家店只剩11家 | Burned 100M RMB in five years, 500 signed… | 餐饮 | 失败关停 | CN·2021 | 累计亏损超1亿元｜签约超500家门店｜全国只剩11家｜两家旗舰店亏800多万｜旗舰店租金百… |
+| [G674](../cases/05-china-interviews/G674-23家店关到2家卖豪车.md) | 23家店关到2家，他卖掉豪车发工资 | From 23 stores to 2, he sold his luxury c… | 餐饮 | 结果未定 | CN·2016 | 单店估值3000万｜10个城市23家店｜北京20多家店最后剩2家｜100多万的豪车20万出… |
+| [G675](../cases/05-china-interviews/G675-三家面馆亏300万.md) | 三家面馆全关，装修就花了200多万 | Three noodle shops closed with 3M RMB in … | 餐饮 | 失败关停 | CN·2022 | 亏损超300万｜三家店装修200多万｜开业活动20万到30万｜首店300平米｜首店20多个… |
+| [G680](../cases/05-china-interviews/G680-投200万民宿80万转出.md) | 投200万开民宿，80万转出 | Put 2M RMB into a Dali guesthouse and tra… | 本地服务 | 失败关停 | unknown·2024 | 投入近200万｜转出只拿回80万｜经营一年半｜零转让费｜大理7000多家民宿｜12万间客房… |
+| [G681](../cases/05-china-interviews/G681-11万设备卖3000块.md) | 11万买的设备，3000块打包卖掉 | Equipment bought for 110K RMB sold as a l… | 餐饮 | 失败关停 | CN·2019 | 亏损24万｜开业投入20来万｜月租7500元｜日营业额1500元｜设备桌椅原价近11万｜二… |
+| [G682](../cases/05-china-interviews/G682-自创奶茶品牌亏150万.md) | 自创奶茶品牌，三家店关到剩一家 | Homegrown tea brand lost 1.5M RMB when le… | 餐饮 | 失败关停 | CN·2020 | 单店投入40万｜累计亏损150万｜巅峰3家店关掉2家｜柠檬从两块多一斤涨到35元｜全国48… |
+| [G685](../cases/05-china-interviews/G685-天津海鲜680万清零.md) | 从年流水过亿到失信人，他在天津开的三家海鲜店，68… | From 100M RMB a year to debtor: three sea… | 餐饮 | 失败关停 | CN·2000 | 学徒月薪200元｜首店凑100万，350平米首年营收近1400万｜二店投资近240万，首月… |
+| [G686](../cases/05-china-interviews/G686-曲靖奶茶半年亏50万.md) | 冲着"霸王茶姬"去加盟，他在曲靖开店半年，背上30… | Signed a 130K RMB tea franchise in Qujing… | 餐饮 | 失败关停 | CN·2024 | 加盟费13万｜设备费10万｜贷款30多万｜总投入50多万｜负债30多万｜同品牌几十家店倒闭… |
+| [G693](../cases/05-china-interviews/G693-县城剧本杀19万开店亏30万.md) | 县城剧本杀店，19万开店、3万月固定支出，被代运营… | A county-town escape room cost 190K RMB t… | 本地服务 | 失败关停 | CN·2023 | 150平米｜5间包房｜一次性投入19万｜每月固定支出3万｜代运营月费5000元（月流水5万… |
+| [G694](../cases/05-china-interviews/G694-4.8万充电桩代理背后的85万.md) | 4.8万元只是入场券，充电桩代理背后还有85万元设… | A 48K RMB agency fee turned out to requir… | 本地服务 | 失败关停 | CN·2024 | 代理费4.8万｜首次采购最低10台设备，合计85万｜年运维15-20万｜总部称回本至少3年… |
+| [G695](../cases/05-china-interviews/G695-武汉烤鸭30万接手四个月.md) | 30万接手武汉烤鸭店，4个月后他才知道"直营店"是… | Paid 300K RMB for a Wuhan roast-duck shop… | 餐饮 | 失败关停 | CN·2024 | 总投资近30万｜转让费12万｜月租1.5万｜员工月薪5000元｜首月日营收3000多元｜之… |
+| [G696](../cases/05-china-interviews/G696-合肥小火锅半年亏30万.md) | 被裁后加盟小火锅，加盟费39800元，半年亏掉30万 | Paid 39,800 RMB to join a hotpot chain, l… | 餐饮 | 失败关停 | CN·2025 | 加盟费39800元｜保证金4000元｜管理费5000元/年｜定金2000元｜月租6800元… |
+| [J010](../cases/07-judgments/J010-投800万占股21%对赌IPO三年没推进法院判回购970万.md) | 投800万占股21%，对赌IPO三年没推进，法院判… | Invested 8 million for 21 percent, court … | 软件与 SaaS | 失败关停 | CN·2021 | 增资800万元｜投前估值3000万元｜增资后占股21.05%｜回购款970万余元｜约定年化… |
+| [J011](../cases/07-judgments/J011-对赌赢了官司进入破产只能排队最后受偿.md) | 对赌赢了官司拿到2080万判决，进入破产只能排队最… | Winning a 20.8 million buyback judgment m… | 医疗健康 | 失败关停 | CN·2021 | 初始投资532.8万元｜持股160万股｜约定回购总价2400万元（年15%计息）｜生效判决… |
+| [J012](../cases/07-judgments/J012-判决货款444万法院四天三市扣回6台挖掘机.md) | 判决货款444万账上没钱，法院四天三市扣回6台挖掘机 | A 4.44 million judgment was recovered by … | 硬件制造 | 成功在营 | CN·2021 | 判决货款444.3048万元｜执行挽回364.7608万元｜扣押液压挖掘机6台｜四天跨贺州… |
+| [J013](../cases/07-judgments/J013-没签书面合同超市照样要付86139元货款.md) | 没签书面合同，超市照样要付86139元货款 | No written contract, but the supermarket … | 零售 | 成功在营 | CN·2024 | 累计供货价值9万余元｜确认拖欠货款86139.52元｜供货周期2024年11月至2025年… |
+| [J014](../cases/07-judgments/J014-餐厅倒闭注销了供货商照样追到经营者个人头上.md) | 餐厅倒闭注销了，供货商照样追到经营者个人头上 | The restaurant deregistered, but the supp… | 餐饮 | 成功在营 | CN·2019 | 供货周期2019年6月至2020年5月｜判决给付食材货款28000余元｜餐厅系个体工商户且… |
+| [J020](../cases/07-judgments/J020-帮人挂名持股49%认缴4498万公司欠债被判补充赔偿.md) | 帮人挂名持股49%，认缴4498万，公司欠债他被判… | Lending his name as a 49 percent sharehol… | 其他 | 失败关停 | CN·2020 | 认缴出资4498.2万元（持股49%）｜出资期限2069年12月31日｜公司2019年成立… |
+| [J021](../cases/07-judgments/J021-替人代持20%股权公司破产被追缴210万出资.md) | 替人代持20%股权，公司破产被追缴210万出资 | Holding 20 percent on paper meant 2.1 mil… | 其他 | 失败关停 | CN·2020 | 代持20%股权、认缴220万元｜小吴认缴880万元（80%）｜注册资本由50万元增至110… |
+| [J025](../cases/07-judgments/J025-十年预付101万做美容没合同没记录法院酌定退50万.md) | 十年预付101万做美容，没合同没记录，法院酌定退5… | A client prepaid over a million for beaut… | 医疗健康 | 失败关停 | CN·2020 | 累计预付1016124.6元｜跨度2013年至2020年｜无书面合同｜消费者诉请返还547… |
+| [J028](../cases/07-judgments/J028-总包破产了包工头绕过去直接告发包人拿回472万.md) | 总包破产了，包工头绕过去直接告发包人，拿回472万 | When the contractor went bankrupt the sub… | 其他 | 成功在营 | CN·2019 | 施工合同价3982.21万元｜审定造价40900870元｜发包人已付36171976元｜欠… |
+| [J029](../cases/07-judgments/J029-层层分包后他告错了人12.9万工程款只能找直接签约的那一方.md) | 层层分包后他告错了人，12.9万工程款只能找直接签… | A subcontractor sued the wrong layer and … | 其他 | 失败关停 | CN·2026 | 判付工程款129481元｜未结算围网666张被驳｜6000元交通费被驳｜引(2021)最高… |
+| [J030](../cases/07-judgments/J030-能越过总包找发包人但只能要工程款700万利息要不回来.md) | 能越过总包找发包人，但只能要工程款，700万利息要… | The shortcut past the contractor covers t… | 其他 | 失败关停 | CN·2025 | 生效判决认定欠谢某工程款1063.35万元｜发包人欠某公司1419.96万元｜剩余欠付35… |
+| [J034](../cases/07-judgments/J034-49万全包装修拖了两个月退7.6万再赔7.2万老板个人连带.md) | 49万全包装修拖了两个月，退7.6万再赔7.2万，… | A stalled 490,000 renovation cost the com… | 本地服务 | 失败关停 | CN·2024 | 总工程款49万元｜工期70日，2024-03-20前交付｜2024-05-06解除合同｜返… |
+| [J035](../cases/07-judgments/J035-装修逾期两个月业主想索赔3.75万返工费法院只支持了7080元.md) | 装修逾期两个月，业主想索赔3.75万返工费，法院只… | In a stalled renovation the owner's self-… | 本地服务 | 失败关停 | CN·2025 | 合同总价118000元｜工期105天｜逾期约60天｜违约金7080元（60天×118元/天… |
+| [J067](../cases/07-judgments/J067-预付1.4万母婴护理费家政公司服务前人去楼空法院判全退加利息.md) | 预付1.4万母婴护理费，家政公司服务前人去楼空，法… | A 14000 yuan maternity-care prepayment; a… | 本地服务 | 失败关停 | CN·2026 | 预付款14000元｜约定数月后开始服务｜服务期临近未安排人员｜办公地点关闭｜法定代表人失联… |
+| [J079](../cases/07-judgments/J079-只转电话不动手催债中转站6人仍被判催收非法债务罪.md) | 只转电话不动手，催债中转站6人仍被判催收非法债务罪 | Six operators of a debt-collection call r… | 金融 | 失败关停 | CN·2026 | 6名被告人｜70余部手机｜3处窝点｜3个月非法获利近40万元｜40多名亲友遭滋扰｜刑期一年… |
+
 ## 流量依赖 (108)
 
 | ID | 标题 | 英文标题 | 行业 | 结局 | 地区·年份 | 关键数字 |
@@ -617,118 +730,6 @@
 | [G735](../cases/06-starter-story/G735-拳击手写了三年没人看.md) | 拳击手写了三年没人看，直到他只写一件事 | A boxer wrote for three years to no audie… | 内容媒体 | 成功在营 | US·2013 | 月收入 $25K｜启动成本 页面未披露｜启动耗时 页面未披露（2013 年起）｜团队人数 … |
 | [G736](../cases/06-starter-story/G736-他发现自己在别人的地盘上盖房子.md) | 他发现自己在别人的地盘上盖房子 | He moved his audience off Instagram into … | 内容媒体 | 结果未定 | CA·2018 | 月收入 $8.5K｜启动成本 全部用个人积蓄（页面未给具体金额）｜启动耗时 约一年才见到有… |
 
-## 现金流断裂 (107)
-
-| ID | 标题 | 英文标题 | 行业 | 结局 | 地区·年份 | 关键数字 |
-| --- | --- | --- | --- | --- | --- | --- |
-| [G002](../cases/01-personal-failure/G002-温泉酒店亏掉三千万.md) | 温泉酒店亏掉三千万，他才明白"赚过钱"不等于"懂这… | He lost 30 million yuan on a hot spring h… | 其他 | 失败关停 | CN·2018 | 温泉度假酒店项目亏损约3000万元｜会所项目损失另计｜软件公司同期投入几百万｜酒吧项目初期… |
-| [G004](../cases/01-personal-failure/G004-亏掉两千万之后.md) | 亏掉两千万之后，他关掉了 GitHub，回老家先学… | After losing 20 million yuan he closed Gi… | 餐饮 | 失败关停 | CN·2023 | 2023年3月底转让最后一家餐饮店｜2023年6月底离开南京｜合计损失2000多万（个人估… |
-| [G108](../cases/02-founder-postmortems/G108-九个月花掉一半就退钱.md) | 募了56万美元，九个月花掉一半，然后退钱 | He raised $560,000, spent half in nine mo… | 金融 | 失败关停 | US·2009 | 融资56万美元｜9个月花掉约一半｜退还近50%资本｜艺术品市场700亿美元｜道指募资日12… |
-| [G109](../cases/02-founder-postmortems/G109-第一家公司的复盘.md) | 转型转到一半钱没了：三年、50万种子轮和一辆卖掉的车 | His first company ran three years on $500… | 餐饮 | 失败关停 | US·2013 | 2009年12月关停｜经营三年｜种子轮50万美元｜波士顿20家餐厅试点跑了超一年｜无薪工作… |
-| [G110](../cases/02-founder-postmortems/G110-一家拿过风投的公司怎么写复盘.md) | 苹果谷歌都在推、拿了近200万美元，这家社交App… | Sonar raised nearly $2 million and was fe… | 软件与 SaaS | 失败关停 | US·2013 | 融资近200万美元｜苹果和谷歌在100多个国家推荐｜TechCrunch Disrupt亚… |
-| [G111](../cases/02-founder-postmortems/G111-好好说再见.md) | 上周刚送出第一百万单，今天申请司法重组 | Take Eat Easy delivered 1 million orders,… | 物流 | 失败关停 | BE·2016 | 经营近四年｜团队一年内从10人到160人｜月增长率30%｜累计送达100万单｜合作餐厅45… |
-| [G122](../cases/02-founder-postmortems/G122-付费版上线在崩盘前五分钟.md) | 付费版上线在经济崩盘前五分钟 | Standout Jobs launched its paid tier five… | 软件与 SaaS | 失败关停 | CA·2023 | 2007年末到2010年运营｜付费版2008年秋上线｜客户说18个月内不招人｜招聘预算举例… |
-| [G301](../cases/03-failory/G301-三万美元十个月做了个自己都不用的系统.md) | 三万美元十个月，他做了个自己都不用的系统 | Spent 30k and ten months building a syste… | 软件与 SaaS | 失败关停 | US·2019 | 约3万美元（受访者称“大概”）｜10个月全职开发｜0收入｜0客户｜2017年6月离职｜Ru… |
-| [G302](../cases/03-failory/G302-一边降价一边比价年营收二十五万新元也归零.md) | 一边降价一边比价，年营收二十五万新元也归零 | Cut prices while matching competitors, an… | 电商 | 失败关停 | SG·2019 | S$120,000 天使种子轮（全部亏光）｜峰值年营收 S$250,000｜5人创始团队｜… |
-| [G304](../cases/03-failory/G304-二十八个人报了名他做出一个谁都不合适的项目.md) | 二十八个人报了名，他做出一个谁都不合适的项目 | 28 sign-ups for a program that fit nobody… | 教育 | 失败关停 | DE·2021 | 15万欧元（两年）｜承诺 ARR 约3万欧元｜首批28名学员｜1,800欧元/年｜年龄17… |
-| [G306](../cases/03-failory/G306-三年五万美元做了个没人要的iPad赛车方向盘.md) | 三年五万美元，做了个没人要的 iPad 赛车方向盘 | Three years and 50k on an iPad racing whe… | 硬件制造 | 失败关停 | unknown·2020 | 5万美元｜其中银行贷款3万美元｜加速器投资2万美元｜3年｜单价约100美元｜Kicksta… |
-| [G307](../cases/03-failory/G307-两千万美元的收购要约五百万现金加一千五百万股票.md) | 两千万美元的收购要约，五百万现金加一千五百万股票 | A 20m acquisition offer of 5m cash and 15… | 硬件制造 | 失败关停 | US·2020 | 两年营收略超20万美元（单一企业客户）｜现金损失不到15万美元｜其中亲友可转债2.5万美元… |
-| [G309](../cases/03-failory/G309-二十五万美元做一个非洲版奈飞输给免费.md) | 二十五万美元做一个非洲版奈飞，输给免费 | Spent 250k building an African Netflix, t… | 内容媒体 | 失败关停 | US·2018 | 现金投入25万美元｜片源采购10万美元｜员工9,000美元/月｜服务器1,200美元/月｜… |
-| [G313](../cases/03-failory/G313-自己申请牌照省下律师费.md) | 自己申请牌照省下律师费，四万五千英镑买了个不懂的行业 | Lost 45k on a fantasy sports site he did … | 游戏 | 失败关停 | UK·2019 | 亏约4.5万英镑｜收入不到1000英镑（对应报名费流水约6000-7000英镑）｜用户约1… |
-| [G315](../cases/03-failory/G315-一万五千美元的上门修车生意.md) | 一万五千美元的上门修车生意，卡在十二个月的复购周期 | Spent 15k on on-demand car repair, stuck … | 本地服务 | 失败关停 | IN·2018 | 自筹约1.5万美元｜总收入约5000美元｜净亏约1万美元｜单个获客成本12美元｜传单覆盖2… |
-| [G317](../cases/03-failory/G317-月入四万美元却欠债七万.md) | 月入四万美元的代理公司，为什么最后欠了七万 | An agency billing 40k a month that ended … | 本地服务 | 失败关停 | US·2020 | 峰值月收入约4万美元｜月支出3万美元以上｜峰值10个客户、5名员工｜离场时债务超7万美元（… |
-| [G318](../cases/03-failory/G318-融了一百万却零收入.md) | 融了一百万、十万用户、零收入，一周之内发不出工资 | Raised 1m, got 100k users and zero revenu… | 内容媒体 | 失败关停 | US·2020 | 融资约100万美元（前身公司原有100万+，转向前又融约25万美元天使）｜10万用户｜网红… |
-| [G320](../cases/03-failory/G320-年营收二十五万英镑却没有现金.md) | 年营收二十五万英镑，账上却没有现金 | 250k a year in sales and no cash left in … | 零售 | 失败关停 | UK·2019 | 第三年营收25万英镑｜第一年6500英镑、第二年9.9万英镑｜最好一个月4万英镑、下一个月… |
-| [G321](../cases/03-failory/G321-年化三十三万美元却只剩一个月跑道.md) | 年化三十三万美元的印度生鲜平台，只剩一个月跑道 | A 335k annual run rate with one month of … | 物流 | 出售退出 | IN·2021 | MRR 250万卢比｜ARR 2500万卢比（页面折算33.5万美元）｜月净烧10万-15… |
-| [G323](../cases/03-failory/G323-五千用户和一家僵尸公司.md) | 五千用户、烧掉四万美元，一家"僵尸公司"的两年 | 5,000 users and 40k burned over two years… | 其他 | 失败关停 | US·2019 | 月活峰值约5000｜团队峰值7人｜两年烧掉3万-4万美元（个人储蓄）｜外部融资0｜每日匹配… |
-| [G324](../cases/03-failory/G324-从月入两万四到归零.md) | 七个月做到月入两万四，然后亲手把它花回零 | Reached 24k a month in seven months, then… | 本地服务 | 失败关停 | US·2023 | 峰值MRR 2.4万美元｜月费2000美元含4篇文章｜单篇稿费200-400美元｜获10万… |
-| [G326](../cases/03-failory/G326-把热度当成验证烧掉五万五.md) | 把一条爆火的推文当成市场验证，烧掉五万五 | Treated one viral tweet as validation and… | 软件与 SaaS | 失败关停 | US·2020 | 唯一一笔融资15万美元｜7月到次年1月烧掉约5.5万美元｜创始人年薪约5万美元｜总收入约1… |
-| [G331](../cases/03-failory/G331-一张迟到的支票压垮一所学校.md) | 一所免学费的寄宿学校，死在支票到账的那四个月 | A tuition-free boarding school killed by … | 教育 | 失败关停 | US·2017 | 从想法到开学6年｜运营约2.5年｜累计捐款约100万美元｜前三年每季度新增500多个联系人… |
-| [G334](../cases/03-failory/G334-两三百条房源撑不起一个市场.md) | 两三百条房源，撑不起一个双边市场 | Two or three hundred listings were not en… | 电商 | 失败关停 | US·2011 | 两位创始人都非技术背景｜后端外包至少1万美元｜峰值约200-300条房源｜零收入｜至少6个… |
-| [G339](../cases/03-failory/G339-出技术的人也握着你的生死.md) | 出技术的人，也握着你的生死 | The team that built the product also held… | 软件与 SaaS | 失败关停 | US·2019 | 副业做了8个月｜beta报价15万-20万美元、完整版50万-200万美元｜自付60美元l… |
-| [G343](../cases/03-failory/G343-两个技术合伙人没卖出第一台.md) | 两个技术合伙人，没卖出第一台 | Two technical founders who never sold a s… | 硬件制造 | 失败关停 | US·2013 | 产品由3部分组成（WiFi版OBD-II读取器、数据服务器、API）｜众筹未达目标｜众筹金… |
-| [G346](../cases/03-failory/G346-为了让投资人看到五百万营收他改了报表.md) | 为了让投资人看到五百万营收，他把报表改了 | He altered the books to show investors 5m… | 内容媒体 | 失败关停 | US·2023 | 广告流量第1天付款｜第30天给客户开票｜第120到150天回款｜投资人门槛举例"500万美… |
-| [G347](../cases/03-failory/G347-免费送都没人要的食堂营养软件.md) | 免费送都没人要的食堂营养软件 | Nutrition software for cafeterias that no… | 软件与 SaaS | 失败关停 | CA·2023 | 运营8个月｜联系近100所北美高校｜第一轮通话的十来所全部失联｜团队8人（仅创始人全职，全… |
-| [G348](../cases/03-failory/G348-一百公里无人机空投一年半后解散.md) | 一百公里无人机空投，一年半后解散 | A 100-kilometer drone airlift that disban… | 硬件制造 | 失败关停 | US·2021 | 往返100公里自主空投｜自掏约1.2万美元｜创新比赛奖金3,500美元｜捐赠者5,000美… |
-| [G350](../cases/03-failory/G350-用无代码搭的市场一年没问过谁要买.md) | 用无代码工具搭的市场，一年没问过谁要买 | A year building a no-code marketplace wit… | 电商 | 失败关停 | US·2021 | 2016年上线｜无代码搭建用Sharetribe，覆盖约80%的功能｜做了一年才发布｜上线… |
-| [G351](../cases/03-failory/G351-融了二十五万欧元最后四个月白送也没救回来.md) | 融了二十五万欧元，最后四个月白送也没救回来 | Raised 250k euros, then gave it away free… | 软件与 SaaS | 失败关停 | BE·2021 | 融资25万欧元｜4名招聘顾问｜订阅49/99/149欧元每月（年付/学期/月付）｜页面导语… |
-| [G353](../cases/03-failory/G353-和Dropcam同时起跑连一篇评测都没拿到.md) | 和 Dropcam 同时起跑，连一篇评测都没拿到 | Racing Dropcam from the same start and ne… | 硬件制造 | 失败关停 | US·2021 | 建产品约5个月｜天使轮来自亲友（原文未披露金额）｜住所月租约800美元｜每批约10台摄像头… |
-| [G356](../cases/03-failory/G356-融了一百五十万欧元做到一万美元月收入还是没钱了.md) | 融了一百五十万欧元，做到一万美元月收入还是没钱了 | Raised 1.5m euros, reached 10k a month, a… | 游戏 | 失败关停 | ES·2021 | 种子轮150万欧元｜团队10人｜首版20个游戏，10月到次年2月做完｜5家VC均给出ter… |
-| [G359](../cases/03-failory/G359-能一个月造出一个Quora.md) | 能一个月造出一个 Quora，于是六年什么都没做成 | Could build a Quora clone in a month, and… | 软件与 SaaS | 失败关停 | IN·2010 | 2010年成立｜2016年关闭｜团队最多27人｜服务业务收入约30万美元｜融资10万美元｜… |
-| [G360](../cases/03-failory/G360-每月两万美元是资助不是收入.md) | 每月两万美元是资助，不是收入 | 20,000 a month in grants that was never p… | 软件与 SaaS | 失败关停 | US·2017 | 峰值每月2万美元（协议资助，非产品收入）｜累计获得资助约13万美元｜法务费超过3万美元｜营… |
-| [G361](../cases/03-failory/G361-产品还没上线他先撑不住了.md) | 产品还没上线，他先撑不住了 | Two years on a product that never launche… | 软件与 SaaS | 失败关停 | RU·2018 | 2018年写下项目文档｜做了2年｜定价28美元/月｜总支出略低于1000美元｜未产生任何收… |
-| [G362](../cases/03-failory/G362-两周回本十个月关门.md) | 两周回本，十个月关门 | Paid back the investment in two weeks and… | 教育 | 失败关停 | IN·2013 | 2013年9月开班｜2014年7月资金见底｜启动投入45万卢比（自己15万＋合伙人30万）… |
-| [G364](../cases/03-failory/G364-每月收一万二每月花五万.md) | 每月收一万二，每月花五万 | Brought in 12,000 a month and spent 50,000 | 电商 | 失败关停 | US·2015 | 做了2年｜峰值月收入约1.2万美元｜月支出4万-5万美元｜产品开发耗时5.5个月｜加速器驻… |
-| [G366](../cases/03-failory/G366-十万用户卖出三个贴纸.md) | 十万用户，卖出三个贴纸 | Social app reached 100,000 users, sold on… | 其他 | 失败关停 | US·2013 | 运营4年｜用户超过10万｜四年总支出略低于20万美元｜收入为0｜贴纸功能做了数周、花掉数千… |
-| [G368](../cases/03-failory/G368-一百个试用零个付费.md) | 一百个试用，零个付费 | One hundred free trials, zero paid conver… | 软件与 SaaS | 失败关停 | BR·2011 | 投资约3000美元（两位合伙人）｜创始人自己投入约200美元｜100多个免费试用｜付费转化… |
-| [G370](../cases/03-failory/G370-收客户一千给高中生七百五.md) | 收客户一千给高中生七百五，他两年亏了一万五 | Charged clients 1,000 dollars, paid stude… | 教育 | 失败关停 | CA·2018 | 网站一单收1000美元、付学生750美元、留250美元管理费｜支出约3.5万美元｜收入约2… |
-| [G373](../cases/03-failory/G373-众筹页面从没上线.md) | 众筹页面从没上线，十个月亏掉近六万美元 | Crowdfunding page never launched, ten mon… | 硬件制造 | 失败关停 | US·2014 | 直接投入3000美元｜生活开支15000美元｜放弃的工资41660美元（按年薪5万美元×1… |
-| [G375](../cases/03-failory/G375-烧掉七十五万月收入三千.md) | 烧掉七十五万，关停时月收入三千 | Burned 750,000 dollars and shut down at 3… | 软件与 SaaS | 失败关停 | US·2017 | 总融资约75万美元（另处表述为"近100万"）｜两年半花掉约75万美元｜关停时MRR约30… |
-| [G376](../cases/03-failory/G376-每单赚五毛二拉新花一块五.md) | 每单赚五毛二，拉一个新用户花一块五 | Made 52 cents per order, paid 1.50 dollar… | 金融 | 失败关停 | US·2019 | 开发费约1.5万美元｜开发者时薪150美元｜2个月做完App｜门费5美元、售价5.99美元… |
-| [G378](../cases/03-failory/G378-十三万美元砸印度卖出不到六十支.md) | 十三万美元砸印度，卖出不到六十支球拍 | Spent 130,000 dollars marketing cricket b… | 零售 | 失败关停 | UK·2009 | 总募集与支出约30万美元｜营销投入超13万美元｜知识产权律师费近3万美元｜发布首周卖出24… |
-| [G382](../cases/03-failory/G382-两年零收入他把非洲短片放进了自己的服务器.md) | 两年零收入，他把非洲短片放进了自己的服务器 | Two years, zero revenue: an African short… | 内容媒体 | 失败关停 | NG·2019 | 运营2年｜收入0美元｜总支出超过1万美元｜投资人2000美元换20%股权｜上线2周上线50… |
-| [G383](../cases/03-failory/G383-一千五百美元一个月他一份都没卖出去.md) | 一千五百美元一个月，他一份都没卖出去 | Zero sales at 1,500 dollars a month after… | 软件与 SaaS | 失败关停 | CA·2019 | 收入0美元｜总支出约1000美元｜MVP开发6周、数百小时｜试点4名经纪人｜潜在合同约10… |
-| [G385](../cases/03-failory/G385-两个开发者辞职八个月连一个内测用户都没找到.md) | 两个开发者辞职八个月，连一个内测用户都没找到 | Two developers quit their jobs, built eig… | 软件与 SaaS | 失败关停 | IL·2019 | 2名创始人｜开发8个月｜前3个月纯写代码｜每月生活开销约2500美元｜AWS服务器与Lam… |
-| [G395](../cases/03-failory/G395-五千英镑启动金刚好够他不着急.md) | 五千英镑启动金，刚好够让他不着急 | 5,000 pounds of seed money was just enoug… | 本地服务 | 失败关停 | UK·2010 | 1人公司｜自有资金5000英镑｜峰值收入2500英镑（原文未注明统计周期）｜营销顾问费40… |
-| [G396](../cases/03-failory/G396-一年半做出产品六个月后关掉.md) | 一年半做出产品，六个月后关掉 | Eighteen months to ship, six months to sh… | 软件与 SaaS | 失败关停 | US·2014 | 3位创始人（2名开发+1名设计）｜加速器支票16000美元｜月支出1800美元（工资150… |
-| [G402](../cases/03-failory/G402-几万活跃用户一分钱收不上来.md) | 几万活跃用户，一分钱收不上来 | Tens of thousands of active users and not… | 金融 | 失败关停 | US·2010 | 1人开发｜一个周末做出原型｜上线数周后联系媒体｜6周后被 LifeHacker 报道｜用户… |
-| [G407](../cases/03-failory/G407-客户说以后再上.md) | 客户都说这东西该有，然后都说以后再说 | Clients called it useful, then postponed … | 软件与 SaaS | 失败关停 | US·2016 | 2016年10月立项｜2个月做MVP｜4个月找客户｜5-10个试用客户｜一次群发1000人… |
-| [G409](../cases/03-failory/G409-八万五千欧元死在合同之前.md) | 八万五千欧元，死在合同之前 | 85,000 euros gone before an enterprise co… | 软件与 SaaS | 失败关停 | DE·2013 | 天使轮约7万欧元｜自掏约7万欧元生活费｜善后另花1.5万欧元｜收入0｜数千人等候名单｜私人… |
-| [G415](../cases/03-failory/G415-两小时的SWOT拦下一个项目.md) | 两小时的SWOT，让一个项目死在写代码之前 | Two hours of SWOT killed the project befo… | 教育 | 失败关停 | US·2014 | 2位创始人｜SWOT分析约2小时｜0行代码｜0收入｜0投入｜发现一批有VC背书、有付费客户… |
-| [G418](../cases/03-failory/G418-样车做好了市场还没到.md) | 样车做好了，市场还没到 | The prototype electric motorcycle was rea… | 硬件制造 | 失败关停 | IN·2018 | 2014年新德里车展原定发布｜原型车阶段｜一台改装雅马哈FZ-06（自研EMS与电池组）｜… |
-| [G421](../cases/03-failory/G421-二十岁一个人卖T恤先印了一批.md) | 二十岁一个人卖T恤，先印了一批不知道卖给谁的衣服 | At 20 he printed a batch of t-shirts befo… | 电商 | 失败关停 | MX·2018 | 2005年创办｜20岁｜无投资、无商业计划｜一人运营（技术、销售、生产）｜获客靠个人博客+… |
-| [G429](../cases/03-failory/G429-二〇〇三年做了个没人需要的P2P.md) | 二〇〇三年做了个P2P产品，没人需要 | In 2003 he built a P2P product that nobod… | 软件与 SaaS | 失败关停 | US·2018 | 2003年启动｜三人分工（本人写代码、一人融资与产品营销、一人设计）｜自筹资金，来自前一家… |
-| [G232](../cases/04-indie-hacker/G232-被VC拒绝后的200个付费用户.md) | 被VC拒绝48小时后，他们开始收钱 | Rejected by VCs, they added payments and … | 软件与 SaaS | 成功在营 | UK·2021 | 被VC拒绝时账上的钱只够几个月｜已有35K用户但从未收费｜上线收费48小时内出现20个付费… |
-| [G437](../cases/04-indie-hacker/G437-两个人的插件平台.md) | 两个人的插件平台，做到第三年才拿到钱 | Two Developers Spent Three Years on a Plu… | 软件与 SaaS | 成功在营 | CN·2018 | 2018 年发布｜做了约 3 年｜2020 年融资时"仅够 1 个月"｜2 名开发人员｜1… |
-| [G607](../cases/05-china-interviews/G607-账上4000块给员工两个选择.md) | 账上只剩4000块还要发工资，他给员工两个选择 | With 4,000 RMB left and payroll due, he g… | 硬件制造 | 成功在营 | CN·2025 | 2009年账上不到4000块、距发薪两周｜阿里先投约100万美元、后以约1000万美元收购… |
-| [G609](../cases/05-china-interviews/G609-三个月烧200万美金中国第一被下架.md) | 三个月烧完200万美金登顶中国第一，下一秒被下架 | Burned 2M USD in three months to rank fir… | 软件与 SaaS | 转型存活 | unknown·2025 | 首轮融资400万美金（估值1800万美金）｜2023年6月-9月3个月烧了200万美金投流… |
-| [G623](../cases/05-china-interviews/G623-150万加盟火锅自助四个月闭店.md) | 卖房凑150万加盟火锅自助，首月流水70万反而亏2… | Sold his house for 1.5M RMB to join a buf… | 餐饮 | 失败关停 | CN·2025 | 总投入150多万（加盟费十几万＋装修40多万＋备货七八十万）｜首月流水六七十万、净亏20多… |
-| [G628](../cases/05-china-interviews/G628-广州轰趴别墅到400套民宿.md) | 刷爆信用卡负债30万做轰趴别墅，月纯利30万；疫情… | Built a party-villa business, lost 600K t… | 本地服务 | 转型存活 | CN·2017 | 首套别墅装修预算10万实花30万、刷信用卡负债30万创业｜别墅间夜1800元、月租仅七八千… |
-| [G641](../cases/05-china-interviews/G641-电台主持卖房开雪冰店亏160万.md) | 电台主持辞职卖房开雪冰店，两年亏掉160万 | Sold his house to open a shaved-ice franc… | 餐饮 | 失败关停 | unknown·2018 | 合计亏损160万（含卖房款）｜加盟费+装修+租金前期投入几十万｜最差一天营业额18元｜最好… |
-| [G642](../cases/05-china-interviews/G642-上海羊肉面馆十几天关店.md) | 三人凑80万在上海开羊肉面馆，开业十几天就关门 | Three partners pooled 800K RMB for a Shan… | 餐饮 | 失败关停 | CN·2024 | 三人凑80万｜月租9.5万、付三押二一次花掉45万房租｜开业约十几天关门｜实际亏损约60万… |
-| [G645](../cases/05-china-interviews/G645-电子烟代工厂500万库存变废品.md) | 电子烟网售禁令一出，深圳代工厂500万的货一夜变废品 | An e-cigarette factory's 5M RMB inventory… | 硬件制造 | 失败关停 | CN·2019 | 最大客户拒付200万库存的货款｜仓库压着500万垫款生产的货｜员工从80人裁到10人｜股权… |
-| [G646](../cases/05-china-interviews/G646-二手车平台假合伙人.md) | 融资被投资方反悔，二手车平台从120人裁到倒闭，我… | When the funding fell through, he learned… | 电商 | 失败关停 | unknown·2018 | 员工从120多人裁到40多人｜公司还欠他4个月工资｜大多数被裁和解散员工没有N+1补偿｜公… |
-| [G647](../cases/05-china-interviews/G647-网络电影投融资亏上千万.md) | 做网络电影投融资四年亏上千万，2019年全年只接到… | Four years financing web films lost 10M R… | 内容媒体 | 失败关停 | unknown·2020 | 创业四年累计亏损上千万（当事人估算）｜员工最多30多人、遣散时只剩6人｜为救公司向银行贷款… |
-| [G648](../cases/05-china-interviews/G648-趣口才借款1200万停运.md) | 双减切断融资，他借1200万硬撑四个月，最后停运道歉 | After the tutoring crackdown cut funding,… | 教育 | 失败关停 | unknown·2021 | 与合伙人以个人名义担保借款1200万自救｜背上数百万个人债务｜2021年8月27日宣布停止… |
-| [G649](../cases/05-china-interviews/G649-常州教培校区一年亏百万.md) | 加盟"超级演说家"开常州校区，不到一年亏掉100多万 | Franchised a speaking school in Changzhou… | 教育 | 失败关停 | CN·2020 | 前期投入60多万（加盟费+房租+装修+老师培训）｜月租4万｜每月固定开支约16万｜2021… |
-| [G650](../cases/05-china-interviews/G650-卖4套房负债1亿的托育连锁.md) | 卖了4套房创业12年，疫情半年支出超7000万，她… | Sold four apartments to build a 40-site d… | 教育 | 失败关停 | CN·2020 | 公司负债约1亿｜疫情停摆半年支出超7000万：退费超3000万+物业租金2000多万+老师… |
-| [G651](../cases/05-china-interviews/G651-格斗连锁负债2000万.md) | 估值近亿的格斗连锁，两年关6家店，负债近2000万 | Gym chain valued near 100M RMB shut six s… | 本地服务 | 失败关停 | CN·2017 | 天使轮融资1050万｜巅峰估值近亿（梅花创投、联想之星等投资）｜北京6家门店｜2021年开… |
-| [G652](../cases/05-china-interviews/G652-武汉服装厂150人瞬间清零.md) | 武汉150人的服装厂，封城三个月后瞬间清零 | A 150-worker garment factory in Wuhan wen… | 其他 | 失败关停 | CN·2020 | 150名工人分批遣散｜欠薪70多万（最终仍有十几万缺口发不出）｜年前订的面辅料几十万全砸仓… |
-| [G661](../cases/05-china-interviews/G661-关掉16家店利润反涨6000万.md) | 关掉16家店，利润反而涨了6000万 | Closed 16 pizza stores in 2019 and profit… | 餐饮 | 成功在营 | CN·2018 | 2015年红杉资本注资6000万元｜2018年为囤榴梿半年筹资8000万元｜2019年主动… |
-| [G662](../cases/05-china-interviews/G662-一天劝离1600人自己背1000万美元债.md) | 一天劝离1600人，他自己背着1000万美元债务 | Laid off 1,600 people in one day and carr… | 物流 | 成功在营 | CN·2009 | 2014年B轮1000万美元｜2013年底借钱300多万元发工资和年终奖｜2016年被跳票… |
-| [G663](../cases/05-china-interviews/G663-一年卖400万份汤292天后全部关停.md) | 一年卖出400万份汤，292天后全部门店关停 | Sold 4M bowls of soup in a year, shut eve… | 餐饮 | 失败关停 | CN·2015 | 不到两年3轮融资累计上亿元｜2018年3月A+轮近亿元｜号称1年卖出400万份汤｜停业时近… |
-| [G664](../cases/05-china-interviews/G664-融资6000万最后自己欠4000万.md) | 融资近6000万，最后自己欠下4000多万 | Raised nearly 60M RMB, personally owed mo… | 电商 | 失败关停 | CN·2013 | 2013-2015年累计融资近6000万元｜2014年海通拟投2000万元、去哪儿打500… |
-| [G665](../cases/05-china-interviews/G665-烧光3000万8家茶馆关掉6家.md) | 六年四次创业，烧光3000万，8家茶馆关掉6家 | Four startups in six years burned 30M RMB… | 餐饮 | 失败关停 | CN·2014 | 六年四次创业累计投入超3000万元｜第一次创业录一门精品课成本10万到三四十万元｜第二次拿… |
-| [G668](../cases/05-china-interviews/G668-一份英文文件让他背上7000万美金.md) | 上市前一晚签的一份英文文件，让他背上7000万美元 | One English document signed the night bef… | 软件与 SaaS | 失败关停 | CN·2012 | 2020年纳斯达克上市、两年后退市｜产品注册用户4000万、日活约200万｜持股约40%｜… |
-| [G670](../cases/05-china-interviews/G670-36家店发不出工资他自筹600万.md) | 36家店发不出工资，他宁可自己凑600万，也不接受… | Rather than open his books, he raised 6M … | 餐饮 | 成功在营 | CN·2008 | 2008年3万元积蓄＋借款3万元开出第一家店｜2016年36家门店、年营业额4亿元｜201… |
-| [G672](../cases/05-china-interviews/G672-7亿订单只交付几十台140亿独角兽破产.md) | 签下7亿订单，最后只交付几十台，140亿独角兽破产 | A 14B RMB unicorn signed a 700M RMB order… | 硬件制造 | 失败关停 | CN·2017 | 估值一度达140亿元｜十余轮融资、已披露融资总额超7亿元｜高峰期员工接近1000人、一年人… |
-| [G673](../cases/05-china-interviews/G673-五年烧光1亿只剩11家店.md) | 五年烧光1亿，500家店只剩11家 | Burned 100M RMB in five years, 500 signed… | 餐饮 | 失败关停 | CN·2021 | 累计亏损超1亿元｜签约超500家门店｜全国只剩11家｜两家旗舰店亏800多万｜旗舰店租金百… |
-| [G674](../cases/05-china-interviews/G674-23家店关到2家卖豪车.md) | 23家店关到2家，他卖掉豪车发工资 | From 23 stores to 2, he sold his luxury c… | 餐饮 | 结果未定 | CN·2016 | 单店估值3000万｜10个城市23家店｜北京20多家店最后剩2家｜100多万的豪车20万出… |
-| [G675](../cases/05-china-interviews/G675-三家面馆亏300万.md) | 三家面馆全关，装修就花了200多万 | Three noodle shops closed with 3M RMB in … | 餐饮 | 失败关停 | CN·2022 | 亏损超300万｜三家店装修200多万｜开业活动20万到30万｜首店300平米｜首店20多个… |
-| [G680](../cases/05-china-interviews/G680-投200万民宿80万转出.md) | 投200万开民宿，80万转出 | Put 2M RMB into a Dali guesthouse and tra… | 本地服务 | 失败关停 | unknown·2024 | 投入近200万｜转出只拿回80万｜经营一年半｜零转让费｜大理7000多家民宿｜12万间客房… |
-| [G681](../cases/05-china-interviews/G681-11万设备卖3000块.md) | 11万买的设备，3000块打包卖掉 | Equipment bought for 110K RMB sold as a l… | 餐饮 | 失败关停 | CN·2019 | 亏损24万｜开业投入20来万｜月租7500元｜日营业额1500元｜设备桌椅原价近11万｜二… |
-| [G682](../cases/05-china-interviews/G682-自创奶茶品牌亏150万.md) | 自创奶茶品牌，三家店关到剩一家 | Homegrown tea brand lost 1.5M RMB when le… | 餐饮 | 失败关停 | CN·2020 | 单店投入40万｜累计亏损150万｜巅峰3家店关掉2家｜柠檬从两块多一斤涨到35元｜全国48… |
-| [G685](../cases/05-china-interviews/G685-天津海鲜680万清零.md) | 从年流水过亿到失信人，他在天津开的三家海鲜店，68… | From 100M RMB a year to debtor: three sea… | 餐饮 | 失败关停 | CN·2000 | 学徒月薪200元｜首店凑100万，350平米首年营收近1400万｜二店投资近240万，首月… |
-| [G686](../cases/05-china-interviews/G686-曲靖奶茶半年亏50万.md) | 冲着"霸王茶姬"去加盟，他在曲靖开店半年，背上30… | Signed a 130K RMB tea franchise in Qujing… | 餐饮 | 失败关停 | CN·2024 | 加盟费13万｜设备费10万｜贷款30多万｜总投入50多万｜负债30多万｜同品牌几十家店倒闭… |
-| [G693](../cases/05-china-interviews/G693-县城剧本杀19万开店亏30万.md) | 县城剧本杀店，19万开店、3万月固定支出，被代运营… | A county-town escape room cost 190K RMB t… | 本地服务 | 失败关停 | CN·2023 | 150平米｜5间包房｜一次性投入19万｜每月固定支出3万｜代运营月费5000元（月流水5万… |
-| [G694](../cases/05-china-interviews/G694-4.8万充电桩代理背后的85万.md) | 4.8万元只是入场券，充电桩代理背后还有85万元设… | A 48K RMB agency fee turned out to requir… | 本地服务 | 失败关停 | CN·2024 | 代理费4.8万｜首次采购最低10台设备，合计85万｜年运维15-20万｜总部称回本至少3年… |
-| [G695](../cases/05-china-interviews/G695-武汉烤鸭30万接手四个月.md) | 30万接手武汉烤鸭店，4个月后他才知道"直营店"是… | Paid 300K RMB for a Wuhan roast-duck shop… | 餐饮 | 失败关停 | CN·2024 | 总投资近30万｜转让费12万｜月租1.5万｜员工月薪5000元｜首月日营收3000多元｜之… |
-| [G696](../cases/05-china-interviews/G696-合肥小火锅半年亏30万.md) | 被裁后加盟小火锅，加盟费39800元，半年亏掉30万 | Paid 39,800 RMB to join a hotpot chain, l… | 餐饮 | 失败关停 | CN·2025 | 加盟费39800元｜保证金4000元｜管理费5000元/年｜定金2000元｜月租6800元… |
-| [J010](../cases/07-judgments/J010-投800万占股21%对赌IPO三年没推进法院判回购970万.md) | 投800万占股21%，对赌IPO三年没推进，法院判… | Invested 8 million for 21 percent, court … | 软件与 SaaS | 失败关停 | CN·2021 | 增资800万元｜投前估值3000万元｜增资后占股21.05%｜回购款970万余元｜约定年化… |
-| [J011](../cases/07-judgments/J011-对赌赢了官司进入破产只能排队最后受偿.md) | 对赌赢了官司拿到2080万判决，进入破产只能排队最… | Winning a 20.8 million buyback judgment m… | 医疗健康 | 失败关停 | CN·2021 | 初始投资532.8万元｜持股160万股｜约定回购总价2400万元（年15%计息）｜生效判决… |
-| [J012](../cases/07-judgments/J012-判决货款444万法院四天三市扣回6台挖掘机.md) | 判决货款444万账上没钱，法院四天三市扣回6台挖掘机 | A 4.44 million judgment was recovered by … | 硬件制造 | 成功在营 | CN·2021 | 判决货款444.3048万元｜执行挽回364.7608万元｜扣押液压挖掘机6台｜四天跨贺州… |
-| [J013](../cases/07-judgments/J013-没签书面合同超市照样要付86139元货款.md) | 没签书面合同，超市照样要付86139元货款 | No written contract, but the supermarket … | 零售 | 成功在营 | CN·2024 | 累计供货价值9万余元｜确认拖欠货款86139.52元｜供货周期2024年11月至2025年… |
-| [J014](../cases/07-judgments/J014-餐厅倒闭注销了供货商照样追到经营者个人头上.md) | 餐厅倒闭注销了，供货商照样追到经营者个人头上 | The restaurant deregistered, but the supp… | 餐饮 | 成功在营 | CN·2019 | 供货周期2019年6月至2020年5月｜判决给付食材货款28000余元｜餐厅系个体工商户且… |
-| [J020](../cases/07-judgments/J020-帮人挂名持股49%认缴4498万公司欠债被判补充赔偿.md) | 帮人挂名持股49%，认缴4498万，公司欠债他被判… | Lending his name as a 49 percent sharehol… | 其他 | 失败关停 | CN·2020 | 认缴出资4498.2万元（持股49%）｜出资期限2069年12月31日｜公司2019年成立… |
-| [J021](../cases/07-judgments/J021-替人代持20%股权公司破产被追缴210万出资.md) | 替人代持20%股权，公司破产被追缴210万出资 | Holding 20 percent on paper meant 2.1 mil… | 其他 | 失败关停 | CN·2020 | 代持20%股权、认缴220万元｜小吴认缴880万元（80%）｜注册资本由50万元增至110… |
-| [J025](../cases/07-judgments/J025-十年预付101万做美容没合同没记录法院酌定退50万.md) | 十年预付101万做美容，没合同没记录，法院酌定退5… | A client prepaid over a million for beaut… | 医疗健康 | 失败关停 | CN·2020 | 累计预付1016124.6元｜跨度2013年至2020年｜无书面合同｜消费者诉请返还547… |
-| [J028](../cases/07-judgments/J028-总包破产了包工头绕过去直接告发包人拿回472万.md) | 总包破产了，包工头绕过去直接告发包人，拿回472万 | When the contractor went bankrupt the sub… | 其他 | 成功在营 | CN·2019 | 施工合同价3982.21万元｜审定造价40900870元｜发包人已付36171976元｜欠… |
-| [J029](../cases/07-judgments/J029-层层分包后他告错了人12.9万工程款只能找直接签约的那一方.md) | 层层分包后他告错了人，12.9万工程款只能找直接签… | A subcontractor sued the wrong layer and … | 其他 | 失败关停 | CN·2026 | 判付工程款129481元｜未结算围网666张被驳｜6000元交通费被驳｜引(2021)最高… |
-| [J030](../cases/07-judgments/J030-能越过总包找发包人但只能要工程款700万利息要不回来.md) | 能越过总包找发包人，但只能要工程款，700万利息要… | The shortcut past the contractor covers t… | 其他 | 失败关停 | CN·2025 | 生效判决认定欠谢某工程款1063.35万元｜发包人欠某公司1419.96万元｜剩余欠付35… |
-| [J034](../cases/07-judgments/J034-49万全包装修拖了两个月退7.6万再赔7.2万老板个人连带.md) | 49万全包装修拖了两个月，退7.6万再赔7.2万，… | A stalled 490,000 renovation cost the com… | 本地服务 | 失败关停 | CN·2024 | 总工程款49万元｜工期70日，2024-03-20前交付｜2024-05-06解除合同｜返… |
-| [J035](../cases/07-judgments/J035-装修逾期两个月业主想索赔3.75万返工费法院只支持了7080元.md) | 装修逾期两个月，业主想索赔3.75万返工费，法院只… | In a stalled renovation the owner's self-… | 本地服务 | 失败关停 | CN·2025 | 合同总价118000元｜工期105天｜逾期约60天｜违约金7080元（60天×118元/天… |
-| [J067](../cases/07-judgments/J067-预付1.4万母婴护理费家政公司服务前人去楼空法院判全退加利息.md) | 预付1.4万母婴护理费，家政公司服务前人去楼空，法… | A 14000 yuan maternity-care prepayment; a… | 本地服务 | 失败关停 | CN·2026 | 预付款14000元｜约定数月后开始服务｜服务期临近未安排人员｜办公地点关闭｜法定代表人失联… |
-
 ## 复购留存 (84)
 
 | ID | 标题 | 英文标题 | 行业 | 结局 | 地区·年份 | 关键数字 |
@@ -818,7 +819,7 @@
 | [G717](../cases/06-starter-story/G717-三个大学生卖雪茄订阅.md) | 三个大学生凑四千五百美元，卖雪茄订阅第一个月只来三单 | Three students invested $4,500 and got th… | 电商 | 结果未定 | US·2015 | 月收入 $20K（页面字段；正文写年 $250K、月 $12K、35% 利润率）｜启动成本… |
 | [G726](../cases/06-starter-story/G726-四千订阅只有百分之五付钱.md) | 四千个订阅者只有百分之五付钱，他把免费下载锁了 | Only 5% of his 4,000 subscribers paid, so… | 内容媒体 | 结果未定 | US·2009 | 月收入 $6,000+｜启动成本 一个域名＋共享主机（页面未给总额）｜启动耗时 2019 … |
 
-## 合同纠纷 (62)
+## 合同纠纷 (70)
 
 | ID | 标题 | 英文标题 | 行业 | 结局 | 地区·年份 | 关键数字 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -884,8 +885,16 @@
 | [J068](../cases/07-judgments/J068-3.3万蜜月定制游两次改线行程泡汤法院判退31886再赔6677.6.md) | 3.3万蜜月定制游两次改线行程泡汤，法院判退318… | A 33388 yuan honeymoon package collapsed … | 本地服务 | 失败关停 | CN·2026 | 合同总价33388元｜全款转入法定代表人个人账户｜起飞前不足13小时告知机票酒店预订失败｜… |
 | [J069](../cases/07-judgments/J069-港澳游错拿通行证行程中断旅行社只退4600法院判退7500.md) | 港澳游错拿通行证行程中断，旅行社只退4600，法院… | A Hong Kong-Macau tour ended at the borde… | 本地服务 | 失败关停 | CN·2026 | 旅游费14600元｜6天5夜港澳跟团游｜合同约定行程开始当日解约扣70%｜旅行社只退460… |
 | [J070](../cases/07-judgments/J070-交5000元团费旅行社擅自取消线路法院判全退再加利息.md) | 交5000元团费旅行社擅自取消线路，法院判全退再加… | A travel agency cancelled a paid itinerar… | 本地服务 | 失败关停 | CN·2026 | 每人交纳旅游费5000元｜每人3条线路｜合同有效期3年｜仅A线路名称确定｜A线路两次延期后… |
+| [J071](../cases/07-judgments/J071-13634元给狗治肿瘤医院用假兽药过期药还隐瞒法院判退10694再赔9920.md) | 花13634元给狗治肿瘤，医院用假兽药过期药还隐瞒… | A pet hospital used fake and expired drug… | 医疗健康 | 失败关停 | CN·2026 | 诊疗费13634元｜前期合理检查费2940元｜应返还10694元｜转院治疗费7920元｜宠… |
+| [J072](../cases/07-judgments/J072-带猫打疫苗还没打就猝死索赔12000元法院为何全部驳回.md) | 带猫打疫苗还没打就猝死，索赔12000元法院为何全… | A cat died of stress before its vaccinati… | 医疗健康 | 失败关停 | CN·2026 | 索赔12000元｜2026-02-25就诊｜静养5分钟后瘫软｜抢救约10分钟无效｜农业农村… |
+| [J073](../cases/07-judgments/J073-猫寄养10天染猫瘟死亡法院只判赔1900元.md) | 猫寄养10天染猫瘟死亡，法院只判赔1900元 | A cat caught feline distemper during boar… | 本地服务 | 失败关停 | CN·2026 | 寄养费50元/天｜预订10天｜寄养第5天发现精神不佳｜医疗费1600元｜火化费800元｜实… |
+| [J074](../cases/07-judgments/J074-租房甲醛超标合同没约定法院照样判解除退7120.md) | 租房甲醛超标合同没约定，法院照样判解除退7120 | A rented flat exceeded formaldehyde limit… | 本地服务 | 失败关停 | CN·2026 | 甲醛检测0.087mg/m³｜检测结果不合格｜押金1800元｜剩余租金5320元｜合计退还… |
+| [J075](../cases/07-judgments/J075-一天没住甲醛超标房东扣着6800不退法院判全还.md) | 一天没住甲醛超标，房东扣着6800不退，法院判全还 | A tenant never moved in because of formal… | 本地服务 | 失败关停 | CN·2026 | 月租金3400元｜保证金3400元｜检测费600元｜起租日次日即解约｜判退租金3400元＋… |
+| [J076](../cases/07-judgments/J076-承诺ENF级却用F4星全屋定制被判退37500再赔112500.md) | 承诺ENF级却用F4星，全屋定制被判退37500再… | A custom furniture store promised ENF-gra… | 零售 | 失败关停 | CN·2026 | 货款37500元｜约定ENF级实木颗粒板｜实际检测为F4星｜退还货款37500元｜三倍赔偿… |
+| [J077](../cases/07-judgments/J077-4.8万定胡桃原木家具到货是坎诺漆法院判三倍赔14.4万.md) | 4.8万定胡桃原木家具到货是坎诺漆，法院判三倍赔1… | A furniture maker substituted cheap wood … | 零售 | 失败关停 | CN·2026 | 合同总价4.8万元｜约定柜门为油漆实木胡桃原木｜实际材质为坎诺漆｜2020-04交付安装｜… |
+| [J080](../cases/07-judgments/J080-中介费一律不退两个保姆各干4天就走法院判退2000.md) | 中介费一律不退？两个保姆各干4天就走，法院判退20… | A domestic service agency kept a non-refu… | 本地服务 | 失败关停 | CN·2024 | 一年中介费3200元｜两名保姆各工作4天｜合同约定“中介费一律不退”｜2024-03-14… |
 
-## 平台风险 (61)
+## 平台风险 (62)
 
 | ID | 标题 | 英文标题 | 行业 | 结局 | 地区·年份 | 关键数字 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -950,6 +959,7 @@
 | [G736](../cases/06-starter-story/G736-他发现自己在别人的地盘上盖房子.md) | 他发现自己在别人的地盘上盖房子 | He moved his audience off Instagram into … | 内容媒体 | 结果未定 | CA·2018 | 月收入 $8.5K｜启动成本 全部用个人积蓄（页面未给具体金额）｜启动耗时 约一年才见到有… |
 | [J008](../cases/07-judgments/J008-四人合伙做公众号散伙账号估值从400万砍到340万.md) | 四人合伙做公众号年入300万，散伙时账号估值从40… | Four partners ran a public account earnin… | 内容媒体 | 失败关停 | CN·2016 | 评估价值400万元｜法院酌定340万元｜赵某向三合伙人各补偿85万元｜截至2017年7月累… |
 | [J019](../cases/07-judgments/J019-外卖店挂彭厨招牌判赔16万出借执照的餐馆连带.md) | 外卖店挂"彭厨"招牌，判赔16万连出借执照的餐馆一… | An online-only store borrowed a famous br… | 餐饮 | 失败关停 | CN·2023 | 判赔经济损失16万余元｜某菜馆承担连带责任｜原告索赔100万元｜"彭厨"全国门店五百余家、… |
+| [J079](../cases/07-judgments/J079-只转电话不动手催债中转站6人仍被判催收非法债务罪.md) | 只转电话不动手，催债中转站6人仍被判催收非法债务罪 | Six operators of a debt-collection call r… | 金融 | 失败关停 | CN·2026 | 6名被告人｜70余部手机｜3处窝点｜3个月非法获利近40万元｜40多名亲友遭滋扰｜刑期一年… |
 
 ## 转型 (36)
 
@@ -992,7 +1002,38 @@
 | [G687](../cases/05-china-interviews/G687-长沙奶茶亏200万改炸鸡.md) | 长沙奶茶亏掉200多万，她用3万块、3天改成炸鸡店 | Lost 2M RMB on milk tea, switched to frie… | 餐饮 | 转型存活 | CN·2018 | 单店年营业额最高400多万｜门店最多50多家｜日营业额1万→5000→2000｜累计亏损2… |
 | [G704](../cases/06-starter-story/G704-免费放24小时换来一千个下载.md) | 免费放 24 小时换来一千个下载，第二天他把价格改… | He gave the boilerplate away for 24 hours… | 软件与 SaaS | 结果未定 | MX·2022 | 月收入 $4.33K（访谈时 $4,380）｜启动成本 $500｜启动耗时 7 天做出 v… |
 
-## 供应链 (23)
+## 虚假宣传 (26)
+
+| ID | 标题 | 英文标题 | 行业 | 结局 | 地区·年份 | 关键数字 |
+| --- | --- | --- | --- | --- | --- | --- |
+| [J004](../cases/07-judgments/J004-广告说一天流水三万多法院认定欺诈19万只拿回5.5万.md) | 广告说"一天流水三万多"，法院认定欺诈，19万只拿… | Ads promised 30,000 daily revenue; court … | 餐饮 | 失败关停 | CN·2018 | 服务费86800元｜代购料款44900元｜装修费55000元｜合计191700元｜配送设备… |
+| [J007](../cases/07-judgments/J007-蜜桃里加盟骗局300多人被骗5400万主犯判12年.md) | "蜜桃里"加盟骗局：300多人被骗5400万，主犯… | The Mitaoli franchise scam took 54 millio… | 餐饮 | 失败关停 | CN·2026 | 被害人300余名｜骗取加盟费合计5400余万元｜主犯有期徒刑12年｜同案被告人5年｜并处罚… |
+| [J026](../cases/07-judgments/J026-职业闭店人接手瑜伽店注销公司后被判个人退8260元.md) | 职业闭店人接手瑜伽店，注销公司后被判个人退8260元 | A hired shutdown operator who liquidated … | 本地服务 | 失败关停 | CN·2023 | 会员未消费8260元｜瑜伽店会员约200人｜未消费预付款约40万元｜股权转让2023-09… |
+| [J027](../cases/07-judgments/J027-充值返现的周年庆是闭店团队布的局9人骗了146万.md) | 充值返现的周年庆是闭店团队布的局，9人骗了146万 | A nine-person shutdown crew bought a phot… | 本地服务 | 失败关停 | CN·2023 | 诈骗金额146万余元｜2023年2月接手宁波海曙区摄影店｜9名被告人｜以诈骗罪判处有期徒刑… |
+| [J031](../cases/07-judgments/J031-表显5万的奥迪实际跑了13.7万公里车商退16.2万再赔48.6万.md) | 表显5万的奥迪实际跑了13.7万公里，车商退16.… | An odometer rolled back by 87,000 km cost… | 零售 | 失败关停 | CN·2024 | 成交价162000元｜销售时表显4万至50152公里｜检测报告真实里程137200公里｜判… |
+| [J032](../cases/07-judgments/J032-2.5万的电车调表3万公里退车款打了折但三倍赔偿一分没少.md) | 2.5万的电车调表3万公里，退车款打了折但三倍赔偿… | The refund was discounted for wear but th… | 零售 | 失败关停 | CN·2024 | 成交价25000元｜交付时表显约48000公里｜保养记录真实里程77700公里｜判退购车款… |
+| [J033](../cases/07-judgments/J033-合同小字写里程数不担保45万豪车照样退一赔三赔135万.md) | 合同小字写"里程数不担保"，45万豪车照样退一赔三… | An eight-word disclaimer on mileage faile… | 零售 | 失败关停 | CN·2026 | 购车款45万元｜判退45万元＋三倍赔偿135万元｜合计180万元｜合同含"里程数不担保"格… |
+| [J036](../cases/07-judgments/J036-直播间编救女儿的故事卖玉10328元货款赔出30984元.md) | 直播间编"救女儿"的故事卖玉，10328元货款赔出… | A fabricated rescue story in a livestream… | 电商 | 失败关停 | CN·2025 | 购买玉器33件｜支付价款10328.1元｜退还10328.1元＋三倍赔偿30984.3元｜… |
+| [J037](../cases/07-judgments/J037-员工用私人账号卖公司的精油公司赔三倍主播自己也赔.md) | 员工用私人账号卖公司的精油，公司赔三倍，主播自己也赔 | An employee-hosted livestream left both t… | 电商 | 失败关停 | CN·2025 | 累计货款5610元｜判公司与主播共同支付三倍赔偿16830元｜涉事精油执行标准仅限室内使用… |
+| [J038](../cases/07-judgments/J038-938元的电动车写着新国标其实是旧标车退一赔三.md) | 938元的电动车写着"新国标"，其实是旧标车，退一… | A 938 yuan e-bike labelled with the new n… | 电商 | 失败关停 | CN·2025 | 成交价938元｜判退938元＋三倍赔偿2814元｜商品名标"新国标""汽车级锂电"｜合格证… |
+| [J041](../cases/07-judgments/J041-化妆品店没证做隆鼻瘦脸针5万服务费退完再赔15万.md) | 化妆品店没证也敢做隆鼻和瘦脸针，5万服务费退完再赔… | An unlicensed cosmetics shop gave 50000 y… | 医疗健康 | 失败关停 | CN·2026 | 医美服务费5万余元｜退还服务费5万余元＋三倍赔偿15万余元｜接受瘦脸针注射、隆鼻、面部填充… |
+| [J042](../cases/07-judgments/J042-花4.89万隆胸宣传的整形主任根本没资质判19.59万最后15万调解.md) | 花4.89万隆胸，宣传的"整形主任"根本没资质，判… | A clinic invented its surgeon's credentia… | 医疗健康 | 失败关停 | CN·2026 | 隆胸手术费4.89万元｜一审判退一赔三共19.59万元｜二审调解分三期支付15万元｜周某无… |
+| [J043](../cases/07-judgments/J043-婚礼前光子嫩肤被烫伤三倍赔偿只按4600元那个项目算赔1.38万.md) | 婚礼前光子嫩肤被烫伤，三倍赔偿只按4600元那个项… | A botched beauty treatment before a weddi… | 医疗健康 | 失败关停 | CN·2026 | 累计消费5万余元｜判决退还服务费5万余元｜三倍赔偿基数4600元、判1.38万元｜医疗费5… |
+| [J045](../cases/07-judgments/J045-8000元买的纯种博美品种证书是假的退8000再赔2万.md) | 8000元买的"纯种博美"，品种证书是假的，退80… | A fake pedigree certificate turned an 800… | 零售 | 失败关停 | CN·2026 | 购犬款8000余元｜退还8000余元＋三倍赔偿2万余元｜品种证书系伪造｜收到4日后查出髌骨… |
+| [J046](../cases/07-judgments/J046-1400元网购可卡布当天查出细小狗死后法院判退全款再赔3820元.md) | 1400元网购可卡布当天查出细小，狗死后法院判退全… | An online puppy died of parvovirus and th… | 零售 | 失败关停 | CN·2026 | 购犬款1400元｜医药费及用品费3820.73元｜到家当天查出细小病毒｜救治20天后死亡｜… |
+| [J047](../cases/07-judgments/J047-9800元拿破仑猫第三天死于肺炎合同只保两种病法院照样判全退.md) | 9800元拿破仑猫第三天死于肺炎，合同只保两种病，… | A 9800 yuan Napoleon cat died in three da… | 零售 | 失败关停 | CN·2022 | 购猫款9800元｜第三天因肺炎死亡｜店家已付治疗费1810元、尸体处理费300元｜合同约定… |
+| [J053](../cases/07-judgments/J053-婚介按年龄颜值报价收2万诚意金再收2万彩礼法院认定借婚姻索财.md) | 婚介按年龄颜值报价，收2万诚意金再收2万"彩礼"，… | A matchmaker priced women by looks and ag… | 本地服务 | 失败关停 | CN·2026 | 向婚介所交诚意金2万余元｜向介绍人周某交2万余元、收据写"彩礼"｜安排2次相亲均因女方不满… |
+| [J054](../cases/07-judgments/J054-花高价买跨省闪婚套餐结婚一年就离法院判婚介退部分服务费.md) | 花高价买"跨省闪婚"套餐，结婚一年就离，法院判婚介… | A flash-marriage matchmaking package ende… | 本地服务 | 失败关停 | CN·2026 | 宣传"高效配对""快速成家""包成功领证，不成功不收费"｜2025-01-22视频相亲｜2… |
+| [J056](../cases/07-judgments/J056-2.8万选冠军版牙套诊所偷偷换成标准版判三倍赔偿8.4万.md) | 2.8万选冠军版牙套，诊所偷偷换成标准版，判三倍赔… | A dental clinic swapped a premium aligner… | 医疗健康 | 失败关停 | CN·2023 | 冠军版正畸治疗费2.8万元｜丈夫同品牌标准版2.16万元｜两款牙套型号实际相同｜不退2.8… |
+| [J058](../cases/07-judgments/J058-40万贷款被收8.8万服务费法院认定显失公平撤销协议退6.6万.md) | 40万贷款被收8.8万服务费，法院认定显失公平，撤… | An 88000 yuan loan service fee was rescin… | 金融 | 失败关停 | CN·2026 | 计划贷款20万元｜实际放款40万元｜被收现金12万元，第二份协议服务费8.8万元（占22%… |
+| [J071](../cases/07-judgments/J071-13634元给狗治肿瘤医院用假兽药过期药还隐瞒法院判退10694再赔9920.md) | 花13634元给狗治肿瘤，医院用假兽药过期药还隐瞒… | A pet hospital used fake and expired drug… | 医疗健康 | 失败关停 | CN·2026 | 诊疗费13634元｜前期合理检查费2940元｜应返还10694元｜转院治疗费7920元｜宠… |
+| [J074](../cases/07-judgments/J074-租房甲醛超标合同没约定法院照样判解除退7120.md) | 租房甲醛超标合同没约定，法院照样判解除退7120 | A rented flat exceeded formaldehyde limit… | 本地服务 | 失败关停 | CN·2026 | 甲醛检测0.087mg/m³｜检测结果不合格｜押金1800元｜剩余租金5320元｜合计退还… |
+| [J075](../cases/07-judgments/J075-一天没住甲醛超标房东扣着6800不退法院判全还.md) | 一天没住甲醛超标，房东扣着6800不退，法院判全还 | A tenant never moved in because of formal… | 本地服务 | 失败关停 | CN·2026 | 月租金3400元｜保证金3400元｜检测费600元｜起租日次日即解约｜判退租金3400元＋… |
+| [J076](../cases/07-judgments/J076-承诺ENF级却用F4星全屋定制被判退37500再赔112500.md) | 承诺ENF级却用F4星，全屋定制被判退37500再… | A custom furniture store promised ENF-gra… | 零售 | 失败关停 | CN·2026 | 货款37500元｜约定ENF级实木颗粒板｜实际检测为F4星｜退还货款37500元｜三倍赔偿… |
+| [J077](../cases/07-judgments/J077-4.8万定胡桃原木家具到货是坎诺漆法院判三倍赔14.4万.md) | 4.8万定胡桃原木家具到货是坎诺漆，法院判三倍赔1… | A furniture maker substituted cheap wood … | 零售 | 失败关停 | CN·2026 | 合同总价4.8万元｜约定柜门为油漆实木胡桃原木｜实际材质为坎诺漆｜2020-04交付安装｜… |
+| [J078](../cases/07-judgments/J078-3141份虚假检测报告让超标车带病上路检测站负责人获刑.md) | 3141份虚假检测报告让超标车带病上路，检测站负责… | A vehicle inspection manager issued 3,141… | 本地服务 | 失败关停 | CN·2026 | 虚假报告3141份｜OBD模拟器出具1449份｜篡改数据、降低标准出具1692份｜违法所得… |
+
+## 供应链 (24)
 
 | ID | 标题 | 英文标题 | 行业 | 结局 | 地区·年份 | 关键数字 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -1019,6 +1060,7 @@
 | [G719](../cases/06-starter-story/G719-多伦多两个人做狗零食.md) | 多伦多两个人做狗零食，做到月入一万五，八年后关掉 | A Toronto couple built a dog treat brand … | 餐饮 | 失败关停 | CA·2015 | 月收入 $15K｜启动成本 未披露（自制起步，宠物展周末卖 $3,000）｜启动耗时 被解… |
 | [G720](../cases/06-starter-story/G720-把腌黄瓜水装进酒瓶.md) | 把腌黄瓜水装进酒瓶，卖给纽约的酒吧 | They raised $11,000 to bottle pickle juic… | 餐饮 | 失败关停 | US·2016 | 月收入 $10K｜启动成本 $11,000（2016 年）｜启动耗时 2016 年投入，2… |
 | [G723](../cases/06-starter-story/G723-用一辆自行车烘咖啡豆.md) | 用一辆自行车烘咖啡豆，在育空卖到月入七千五 | He roasted coffee on a bicycle and reache… | 餐饮 | 结果未定 | CA·2015 | 月收入 $7.5K｜启动成本 第一套烘焙装置 $11（两只不锈钢滤网 + 一根烤热狗的杆）… |
+| [J077](../cases/07-judgments/J077-4.8万定胡桃原木家具到货是坎诺漆法院判三倍赔14.4万.md) | 4.8万定胡桃原木家具到货是坎诺漆，法院判三倍赔1… | A furniture maker substituted cheap wood … | 零售 | 失败关停 | CN·2026 | 合同总价4.8万元｜约定柜门为油漆实木胡桃原木｜实际材质为坎诺漆｜2020-04交付安装｜… |
 
 ## 加盟授权 (23)
 
@@ -1048,7 +1090,7 @@
 | [J006](../cases/07-judgments/J006-15家门店全是加盟商的被罚10万.md) | 15家门店全是加盟商的，不具备"两店一年"，被罚1… | Fifteen outlets were all franchisees', fa… | 其他 | 结果未定 | CN·2021 | 15家门店全部为个体工商户｜罚款10万元｜"两店一年"为法定门槛｜2021年9月检查发现未… |
 | [J007](../cases/07-judgments/J007-蜜桃里加盟骗局300多人被骗5400万主犯判12年.md) | "蜜桃里"加盟骗局：300多人被骗5400万，主犯… | The Mitaoli franchise scam took 54 millio… | 餐饮 | 失败关停 | CN·2026 | 被害人300余名｜骗取加盟费合计5400余万元｜主犯有期徒刑12年｜同案被告人5年｜并处罚… |
 
-## 预付卡跑路 (21)
+## 预付卡跑路 (22)
 
 | ID | 标题 | 英文标题 | 行业 | 结局 | 地区·年份 | 关键数字 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -1073,31 +1115,7 @@
 | [J068](../cases/07-judgments/J068-3.3万蜜月定制游两次改线行程泡汤法院判退31886再赔6677.6.md) | 3.3万蜜月定制游两次改线行程泡汤，法院判退318… | A 33388 yuan honeymoon package collapsed … | 本地服务 | 失败关停 | CN·2026 | 合同总价33388元｜全款转入法定代表人个人账户｜起飞前不足13小时告知机票酒店预订失败｜… |
 | [J069](../cases/07-judgments/J069-港澳游错拿通行证行程中断旅行社只退4600法院判退7500.md) | 港澳游错拿通行证行程中断，旅行社只退4600，法院… | A Hong Kong-Macau tour ended at the borde… | 本地服务 | 失败关停 | CN·2026 | 旅游费14600元｜6天5夜港澳跟团游｜合同约定行程开始当日解约扣70%｜旅行社只退460… |
 | [J070](../cases/07-judgments/J070-交5000元团费旅行社擅自取消线路法院判全退再加利息.md) | 交5000元团费旅行社擅自取消线路，法院判全退再加… | A travel agency cancelled a paid itinerar… | 本地服务 | 失败关停 | CN·2026 | 每人交纳旅游费5000元｜每人3条线路｜合同有效期3年｜仅A线路名称确定｜A线路两次延期后… |
-
-## 虚假宣传 (20)
-
-| ID | 标题 | 英文标题 | 行业 | 结局 | 地区·年份 | 关键数字 |
-| --- | --- | --- | --- | --- | --- | --- |
-| [J004](../cases/07-judgments/J004-广告说一天流水三万多法院认定欺诈19万只拿回5.5万.md) | 广告说"一天流水三万多"，法院认定欺诈，19万只拿… | Ads promised 30,000 daily revenue; court … | 餐饮 | 失败关停 | CN·2018 | 服务费86800元｜代购料款44900元｜装修费55000元｜合计191700元｜配送设备… |
-| [J007](../cases/07-judgments/J007-蜜桃里加盟骗局300多人被骗5400万主犯判12年.md) | "蜜桃里"加盟骗局：300多人被骗5400万，主犯… | The Mitaoli franchise scam took 54 millio… | 餐饮 | 失败关停 | CN·2026 | 被害人300余名｜骗取加盟费合计5400余万元｜主犯有期徒刑12年｜同案被告人5年｜并处罚… |
-| [J026](../cases/07-judgments/J026-职业闭店人接手瑜伽店注销公司后被判个人退8260元.md) | 职业闭店人接手瑜伽店，注销公司后被判个人退8260元 | A hired shutdown operator who liquidated … | 本地服务 | 失败关停 | CN·2023 | 会员未消费8260元｜瑜伽店会员约200人｜未消费预付款约40万元｜股权转让2023-09… |
-| [J027](../cases/07-judgments/J027-充值返现的周年庆是闭店团队布的局9人骗了146万.md) | 充值返现的周年庆是闭店团队布的局，9人骗了146万 | A nine-person shutdown crew bought a phot… | 本地服务 | 失败关停 | CN·2023 | 诈骗金额146万余元｜2023年2月接手宁波海曙区摄影店｜9名被告人｜以诈骗罪判处有期徒刑… |
-| [J031](../cases/07-judgments/J031-表显5万的奥迪实际跑了13.7万公里车商退16.2万再赔48.6万.md) | 表显5万的奥迪实际跑了13.7万公里，车商退16.… | An odometer rolled back by 87,000 km cost… | 零售 | 失败关停 | CN·2024 | 成交价162000元｜销售时表显4万至50152公里｜检测报告真实里程137200公里｜判… |
-| [J032](../cases/07-judgments/J032-2.5万的电车调表3万公里退车款打了折但三倍赔偿一分没少.md) | 2.5万的电车调表3万公里，退车款打了折但三倍赔偿… | The refund was discounted for wear but th… | 零售 | 失败关停 | CN·2024 | 成交价25000元｜交付时表显约48000公里｜保养记录真实里程77700公里｜判退购车款… |
-| [J033](../cases/07-judgments/J033-合同小字写里程数不担保45万豪车照样退一赔三赔135万.md) | 合同小字写"里程数不担保"，45万豪车照样退一赔三… | An eight-word disclaimer on mileage faile… | 零售 | 失败关停 | CN·2026 | 购车款45万元｜判退45万元＋三倍赔偿135万元｜合计180万元｜合同含"里程数不担保"格… |
-| [J036](../cases/07-judgments/J036-直播间编救女儿的故事卖玉10328元货款赔出30984元.md) | 直播间编"救女儿"的故事卖玉，10328元货款赔出… | A fabricated rescue story in a livestream… | 电商 | 失败关停 | CN·2025 | 购买玉器33件｜支付价款10328.1元｜退还10328.1元＋三倍赔偿30984.3元｜… |
-| [J037](../cases/07-judgments/J037-员工用私人账号卖公司的精油公司赔三倍主播自己也赔.md) | 员工用私人账号卖公司的精油，公司赔三倍，主播自己也赔 | An employee-hosted livestream left both t… | 电商 | 失败关停 | CN·2025 | 累计货款5610元｜判公司与主播共同支付三倍赔偿16830元｜涉事精油执行标准仅限室内使用… |
-| [J038](../cases/07-judgments/J038-938元的电动车写着新国标其实是旧标车退一赔三.md) | 938元的电动车写着"新国标"，其实是旧标车，退一… | A 938 yuan e-bike labelled with the new n… | 电商 | 失败关停 | CN·2025 | 成交价938元｜判退938元＋三倍赔偿2814元｜商品名标"新国标""汽车级锂电"｜合格证… |
-| [J041](../cases/07-judgments/J041-化妆品店没证做隆鼻瘦脸针5万服务费退完再赔15万.md) | 化妆品店没证也敢做隆鼻和瘦脸针，5万服务费退完再赔… | An unlicensed cosmetics shop gave 50000 y… | 医疗健康 | 失败关停 | CN·2026 | 医美服务费5万余元｜退还服务费5万余元＋三倍赔偿15万余元｜接受瘦脸针注射、隆鼻、面部填充… |
-| [J042](../cases/07-judgments/J042-花4.89万隆胸宣传的整形主任根本没资质判19.59万最后15万调解.md) | 花4.89万隆胸，宣传的"整形主任"根本没资质，判… | A clinic invented its surgeon's credentia… | 医疗健康 | 失败关停 | CN·2026 | 隆胸手术费4.89万元｜一审判退一赔三共19.59万元｜二审调解分三期支付15万元｜周某无… |
-| [J043](../cases/07-judgments/J043-婚礼前光子嫩肤被烫伤三倍赔偿只按4600元那个项目算赔1.38万.md) | 婚礼前光子嫩肤被烫伤，三倍赔偿只按4600元那个项… | A botched beauty treatment before a weddi… | 医疗健康 | 失败关停 | CN·2026 | 累计消费5万余元｜判决退还服务费5万余元｜三倍赔偿基数4600元、判1.38万元｜医疗费5… |
-| [J045](../cases/07-judgments/J045-8000元买的纯种博美品种证书是假的退8000再赔2万.md) | 8000元买的"纯种博美"，品种证书是假的，退80… | A fake pedigree certificate turned an 800… | 零售 | 失败关停 | CN·2026 | 购犬款8000余元｜退还8000余元＋三倍赔偿2万余元｜品种证书系伪造｜收到4日后查出髌骨… |
-| [J046](../cases/07-judgments/J046-1400元网购可卡布当天查出细小狗死后法院判退全款再赔3820元.md) | 1400元网购可卡布当天查出细小，狗死后法院判退全… | An online puppy died of parvovirus and th… | 零售 | 失败关停 | CN·2026 | 购犬款1400元｜医药费及用品费3820.73元｜到家当天查出细小病毒｜救治20天后死亡｜… |
-| [J047](../cases/07-judgments/J047-9800元拿破仑猫第三天死于肺炎合同只保两种病法院照样判全退.md) | 9800元拿破仑猫第三天死于肺炎，合同只保两种病，… | A 9800 yuan Napoleon cat died in three da… | 零售 | 失败关停 | CN·2022 | 购猫款9800元｜第三天因肺炎死亡｜店家已付治疗费1810元、尸体处理费300元｜合同约定… |
-| [J053](../cases/07-judgments/J053-婚介按年龄颜值报价收2万诚意金再收2万彩礼法院认定借婚姻索财.md) | 婚介按年龄颜值报价，收2万诚意金再收2万"彩礼"，… | A matchmaker priced women by looks and ag… | 本地服务 | 失败关停 | CN·2026 | 向婚介所交诚意金2万余元｜向介绍人周某交2万余元、收据写"彩礼"｜安排2次相亲均因女方不满… |
-| [J054](../cases/07-judgments/J054-花高价买跨省闪婚套餐结婚一年就离法院判婚介退部分服务费.md) | 花高价买"跨省闪婚"套餐，结婚一年就离，法院判婚介… | A flash-marriage matchmaking package ende… | 本地服务 | 失败关停 | CN·2026 | 宣传"高效配对""快速成家""包成功领证，不成功不收费"｜2025-01-22视频相亲｜2… |
-| [J056](../cases/07-judgments/J056-2.8万选冠军版牙套诊所偷偷换成标准版判三倍赔偿8.4万.md) | 2.8万选冠军版牙套，诊所偷偷换成标准版，判三倍赔… | A dental clinic swapped a premium aligner… | 医疗健康 | 失败关停 | CN·2023 | 冠军版正畸治疗费2.8万元｜丈夫同品牌标准版2.16万元｜两款牙套型号实际相同｜不退2.8… |
-| [J058](../cases/07-judgments/J058-40万贷款被收8.8万服务费法院认定显失公平撤销协议退6.6万.md) | 40万贷款被收8.8万服务费，法院认定显失公平，撤… | An 88000 yuan loan service fee was rescin… | 金融 | 失败关停 | CN·2026 | 计划贷款20万元｜实际放款40万元｜被收现金12万元，第二份协议服务费8.8万元（占22%… |
+| [J080](../cases/07-judgments/J080-中介费一律不退两个保姆各干4天就走法院判退2000.md) | 中介费一律不退？两个保姆各干4天就走，法院判退20… | A domestic service agency kept a non-refu… | 本地服务 | 失败关停 | CN·2024 | 一年中介费3200元｜两名保姆各工作4天｜合同约定“中介费一律不退”｜2024-03-14… |
 
 ## 合伙纠纷 (16)
 
@@ -1139,7 +1157,7 @@
 | [J018](../cases/07-judgments/J018-卖假酒被罚后和解又再犯法院判惩罚性赔偿11万.md) | 卖假酒被罚后和解又再犯，法院判惩罚性赔偿11万 | Caught selling fake liquor twice, the sho… | 零售 | 失败关停 | CN·2022 | 判赔11万余元｜进货价远低于正品｜两次被查（行政处罚+和解后再次销售）｜侵权白酒数十瓶｜兰… |
 | [J060](../cases/07-judgments/J060-借50万当天转1.5万中介费进放款人账户法院认定砍头息本金只算48.5万.md) | 借50万当天转1.5万"中介费"进放款人账户，法院… | A 15000 yuan "agency fee" paid on the loa… | 金融 | 失败关停 | CN·2026 | 借款50万元｜当日转出"中介费"1.5万元｜另转6.05万元｜合法本金认定为48.5万元｜… |
 
-## 资质门槛 (10)
+## 资质门槛 (14)
 
 | ID | 标题 | 英文标题 | 行业 | 结局 | 地区·年份 | 关键数字 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -1153,6 +1171,10 @@
 | [J044](../cases/07-judgments/J044-美甲店打减肥针被罚2万职业打假人索赔三倍法院只判退4000.md) | 美甲店打减肥针被罚2万，职业打假人索赔三倍，法院只… | A professional complainant won 4000 yuan … | 医疗健康 | 失败关停 | CN·2026 | 四针减肥针4000元｜判决退还4000元｜三倍赔偿请求被驳回｜行政处罚罚款2万元、没收违法… |
 | [J055](../cases/07-judgments/J055-6000元网购牙套自己取模正畸全流程无资质合同无效退4800.md) | 6000元网购牙套自己取模，正畸全流程无资质，合同… | An online orthodontics seller without a l… | 医疗健康 | 失败关停 | CN·2026 | 牙齿矫正服务费6000余元｜交付定制牙套26个｜机构无《医疗机构执业许可证》、方案无执业医… |
 | [J065](../cases/07-judgments/J065-1.75万请月嫂3个人里2个证不合格法院判家政退9000.md) | 1.75万请月嫂，3个人里2个证不合格，法院判家政… | Two of three nannies held invalid certifi… | 本地服务 | 失败关停 | CN·2026 | 服务费总额17535元｜服务期26天｜先后安排3名月嫂｜2名所持证书不属于母婴护理国家技能… |
+| [J071](../cases/07-judgments/J071-13634元给狗治肿瘤医院用假兽药过期药还隐瞒法院判退10694再赔9920.md) | 花13634元给狗治肿瘤，医院用假兽药过期药还隐瞒… | A pet hospital used fake and expired drug… | 医疗健康 | 失败关停 | CN·2026 | 诊疗费13634元｜前期合理检查费2940元｜应返还10694元｜转院治疗费7920元｜宠… |
+| [J072](../cases/07-judgments/J072-带猫打疫苗还没打就猝死索赔12000元法院为何全部驳回.md) | 带猫打疫苗还没打就猝死，索赔12000元法院为何全… | A cat died of stress before its vaccinati… | 医疗健康 | 失败关停 | CN·2026 | 索赔12000元｜2026-02-25就诊｜静养5分钟后瘫软｜抢救约10分钟无效｜农业农村… |
+| [J073](../cases/07-judgments/J073-猫寄养10天染猫瘟死亡法院只判赔1900元.md) | 猫寄养10天染猫瘟死亡，法院只判赔1900元 | A cat caught feline distemper during boar… | 本地服务 | 失败关停 | CN·2026 | 寄养费50元/天｜预订10天｜寄养第5天发现精神不佳｜医疗费1600元｜火化费800元｜实… |
+| [J078](../cases/07-judgments/J078-3141份虚假检测报告让超标车带病上路检测站负责人获刑.md) | 3141份虚假检测报告让超标车带病上路，检测站负责… | A vehicle inspection manager issued 3,141… | 本地服务 | 失败关停 | CN·2026 | 虚假报告3141份｜OBD模拟器出具1449份｜篡改数据、降低标准出具1692份｜违法所得… |
 
 ## 劳动纠纷 (5)
 
