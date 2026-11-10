@@ -2,17 +2,17 @@
 
 [中文](README.md) · [English](README.en.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · **Español**
 
-![cases](https://img.shields.io/badge/cases-459-D85A30?style=flat-square) ![frameworks](https://img.shields.io/badge/frameworks-234-1D4ED8?style=flat-square) ![chars](https://img.shields.io/badge/text-631k_chars-6B7280?style=flat-square) ![license](https://img.shields.io/badge/license-CC_BY--SA_4.0-0F6E56?style=flat-square) ![llms](https://img.shields.io/badge/llms.txt-ready-534AB7?style=flat-square)
+![cases](https://img.shields.io/badge/cases-469-D85A30?style=flat-square) ![frameworks](https://img.shields.io/badge/frameworks-234-1D4ED8?style=flat-square) ![chars](https://img.shields.io/badge/text-647k_chars-6B7280?style=flat-square) ![license](https://img.shields.io/badge/license-CC_BY--SA_4.0-0F6E56?style=flat-square) ![llms](https://img.shields.io/badge/llms.txt-ready-534AB7?style=flat-square)
 
-**459 negocios, cada uno con sus cuentas: cuánto costó, cuánto ingresó y en qué paso exacto se acabó el dinero.**
+**469 negocios, cada uno con sus cuentas: cuánto costó, cuánto ingresó y en qué paso exacto se acabó el dinero.**
 
 **246 de ellos (59 %) murieron de lo mismo**: construyeron algo que nadie quería y se gastaron el dinero averiguándolo.
 
 [Explorar por mecanismo de fracaso](index/by-mechanism.md) · [Por sector](index/by-industry.md) · [Por región](index/by-region.md) · [Descargar los datos](data/cases.jsonl) · [Alimentar un modelo](llms.txt)
 
-<img src="assets/failure-mechanisms.svg" width="780" alt="Distribución de mecanismos de fracaso en 459 casos: desajuste de demanda 246, sobreexpansión 120, estructura de costes 118, dependencia de una sola fuente de tráfico 108, rotura de tesorería 93">
+<img src="assets/failure-mechanisms.svg" width="780" alt="Distribución de mecanismos de fracaso en 469 casos: desajuste de demanda 246, sobreexpansión 120, estructura de costes 118, dependencia de una sola fuente de tráfico 108, rotura de tesorería 106">
 
-> **Los cuerpos de los casos están en chino.** El esquema, los índices, los datos y este README están en español; los 459 relatos están en chino, porque ese es el hueco que este atlas cubre: los casos de negocio estructurados y con fuentes en chino escasean, los que están en inglés no.
+> **Los cuerpos de los casos están en chino.** El esquema, los índices, los datos y este README están en español; los 469 relatos están en chino, porque ese es el hueco que este atlas cubre: los casos de negocio estructurados y con fuentes en chino escasean, los que están en inglés no.
 
 ---
 
@@ -22,7 +22,7 @@
 | --- | --- |
 | Leer uno | [`index/by-mechanism.md`](index/by-mechanism.md): empieza por «trampa de franquicia» o «rotura de tesorería» |
 | Un corte concreto | [Sector](index/by-industry.md) · [Desenlace](index/by-outcome.md) · [Región](index/by-region.md) · [Año](index/by-year.md) |
-| Los datos | [`data/cases.jsonl`](data/cases.jsonl): 459 líneas, un caso por línea, todos los campos |
+| Los datos | [`data/cases.jsonl`](data/cases.jsonl): 469 líneas, un caso por línea, todos los campos |
 | Un modelo | Lee primero [`llms.txt`](llms.txt) (1,3 KB) y luego [`llms-full.txt`](llms-full.txt) (1,7 MB) si el contexto lo permite |
 
 ```bash
@@ -67,10 +67,10 @@ La tercera sección es deliberada. El mismo «perdió 700 mil» pesa muy distint
 | [`cases/04-indie-hacker/`](cases/04-indie-hacker/) | 156 | Productos de pago hechos por una persona o un equipo mínimo | 2019–2026 |
 | [`cases/05-china-interviews/`](cases/05-china-interviews/) | 69 | Negocio físico en China: restauración, franquicias, tiendas, servicios | 2018–2026 |
 | [`cases/06-starter-story/`](cases/06-starter-story/) | 36 | Pequeños negocios con ingresos, coste inicial y tiempo de arranque | 2019–2024 |
-| [`cases/07-judgments/`](cases/07-judgments/) | 40 | Sentencias: franquicias, disoluciones, recompras, facturas, no competencia, marcas, acciones nominales, prepago, obra, coches usados, reformas, directos, trabajo temporal | 2016–2026 |
+| [`cases/07-judgments/`](cases/07-judgments/) | 50 | Sentencias: franquicias, disoluciones, recompras, facturas, no competencia, marcas, acciones nominales, prepago, obra, coches usados, reformas, directos, trabajo temporal, estética médica, mascotas, autoescuelas | 2016–2026 |
 | [`legacy/articles/`](legacy/articles/) | 95 | Archivo de artículos chinos antiguos, en su mayoría con enlaces muertos | 2000–2012 |
 
-**Totales:** 459 casos · unos 631 000 caracteres de relato · 95 artículos archivados · 31 países y regiones · 13 sectores · 5 desenlaces · 19 mecanismos de fracaso.
+**Totales:** 469 casos · unos 647 000 caracteres de relato · 95 artículos archivados · 31 países y regiones · 13 sectores · 5 desenlaces · 19 mecanismos de fracaso.
 
 ## Fichas de marco: la capa de juicio
 
@@ -138,7 +138,7 @@ Cada ficha abre con una frase que se puede leer en voz alta, explica qué dice e
 
 Casi todo lo que se escribe sobre emprendimiento tiene dos defectos: las historias de éxito borran los números y las de fracaso reducen la causa a «mala gestión».
 
-Este atlas intenta lo contrario. Toma 459 negocios concretos y registra, uno por uno, **cuánto costó, cuánto ingresó, a dónde se fue el dinero y en qué decisión se rompió**.
+Este atlas intenta lo contrario. Toma 469 negocios concretos y registra, uno por uno, **cuánto costó, cuánto ingresó, a dónde se fue el dinero y en qué decisión se rompió**.
 
 Dos cosas lo diferencian.
 
@@ -174,7 +174,7 @@ Los 16 campos están definidos en [`docs/schema.md`](docs/schema.md). Resumen:
 
 Esto es una **obra derivada, no un espejo**. No hay ni un solo texto copiado y pegado: cada caso es un relato en chino escrito de nuevo a partir de material publicado, y el enlace al original está dentro del archivo.
 
-- **Cuerpos de los casos** (459): [CC BY-SA 4.0](LICENSE). Se pueden reproducir y adaptar con atribución, y las obras derivadas mantienen la misma licencia.
+- **Cuerpos de los casos** (469): [CC BY-SA 4.0](LICENSE). Se pueden reproducir y adaptar con atribución, y las obras derivadas mantienen la misma licencia.
 - **4 de ellos provienen de [`byoungd/up`](https://github.com/byoungd/up)**: el texto de ese proyecto es **CC BY-NC 4.0**, así que esos 4 casos **no admiten uso comercial**. Ver [`ATTRIBUTIONS.md`](ATTRIBUTIONS.md).
 - **Artículos archivados** (`legacy/`): los derechos son de sus autores y publicadores originales. Se incluyen solo con fines de estudio e indexación, bajo un mecanismo de notificación y retirada. Ver [`DISCLAIMER.md`](DISCLAIMER.md).
 

@@ -2,7 +2,7 @@
 
 > 同一门生意里的不同打法，横向对比用这张表。
 
-> 共 459 个案例。按此维度去重后 13 组。
+> 共 469 个案例。按此维度去重后 13 组。
 
 ## 软件与 SaaS (196)
 
@@ -385,6 +385,36 @@
 | [J037](../cases/07-judgments/J037-员工用私人账号卖公司的精油公司赔三倍主播自己也赔.md) | 员工用私人账号卖公司的精油，公司赔三倍，主播自己也赔 | An employee-hosted livestream left both t… | 电商 | 失败关停 | CN·2025 | 累计货款5610元｜判公司与主播共同支付三倍赔偿16830元｜涉事精油执行标准仅限室内使用… |
 | [J038](../cases/07-judgments/J038-938元的电动车写着新国标其实是旧标车退一赔三.md) | 938元的电动车写着"新国标"，其实是旧标车，退一… | A 938 yuan e-bike labelled with the new n… | 电商 | 失败关停 | CN·2025 | 成交价938元｜判退938元＋三倍赔偿2814元｜商品名标"新国标""汽车级锂电"｜合格证… |
 
+## 教育 (25)
+
+| ID | 标题 | 英文标题 | 行业 | 结局 | 地区·年份 | 关键数字 |
+| --- | --- | --- | --- | --- | --- | --- |
+| [G304](../cases/03-failory/G304-二十八个人报了名他做出一个谁都不合适的项目.md) | 二十八个人报了名，他做出一个谁都不合适的项目 | 28 sign-ups for a program that fit nobody… | 教育 | 失败关停 | DE·2021 | 15万欧元（两年）｜承诺 ARR 约3万欧元｜首批28名学员｜1,800欧元/年｜年龄17… |
+| [G329](../cases/03-failory/G329-八千总销售只有七百月费.md) | 八千里总销售额，只有七百的月收入 | 8,000 in total sales that worked out to 7… | 教育 | 失败关停 | UK·2018 | 邮件列表1500-2000人｜最初15人付费｜2018年6月底90个付费用户｜总销售800… |
+| [G331](../cases/03-failory/G331-一张迟到的支票压垮一所学校.md) | 一所免学费的寄宿学校，死在支票到账的那四个月 | A tuition-free boarding school killed by … | 教育 | 失败关停 | US·2017 | 从想法到开学6年｜运营约2.5年｜累计捐款约100万美元｜前三年每季度新增500多个联系人… |
+| [G357](../cases/03-failory/G357-六七十个城市只有二十个在成交.md) | 六七十个城市，只有二十个在成交 | Sixty or seventy cities, only twenty of t… | 教育 | 结果未定 | UK·2015 | 国际版2015年底上线｜覆盖60-70个城市｜只有约20个城市真正产生匹配｜收缩到10个欧… |
+| [G362](../cases/03-failory/G362-两周回本十个月关门.md) | 两周回本，十个月关门 | Paid back the investment in two weeks and… | 教育 | 失败关停 | IN·2013 | 2013年9月开班｜2014年7月资金见底｜启动投入45万卢比（自己15万＋合伙人30万）… |
+| [G367](../cases/03-failory/G367-每个教授都说好没有一个用.md) | 每个教授都说好，没有一个用 | Game studio spent six months pitching pro… | 教育 | 失败关停 | US·2016 | 开发3个月｜又花3个月做人际networking｜美术素材800美元｜其余自制｜首版只有4… |
+| [G370](../cases/03-failory/G370-收客户一千给高中生七百五.md) | 收客户一千给高中生七百五，他两年亏了一万五 | Charged clients 1,000 dollars, paid stude… | 教育 | 失败关停 | CA·2018 | 网站一单收1000美元、付学生750美元、留250美元管理费｜支出约3.5万美元｜收入约2… |
+| [G390](../cases/03-failory/G390-六百多个用户一场飓风把学校客户全吹走了.md) | 六百多个用户，一场飓风把学校客户全吹走了 | Six hundred users lost when a hurricane w… | 教育 | 失败关停 | unknown·2018 | 用户600+｜开发5个月｜项目总计6-7个月｜飓风后约3个月无电｜Imagine Cup … |
+| [G415](../cases/03-failory/G415-两小时的SWOT拦下一个项目.md) | 两小时的SWOT，让一个项目死在写代码之前 | Two hours of SWOT killed the project befo… | 教育 | 失败关停 | US·2014 | 2位创始人｜SWOT分析约2小时｜0行代码｜0收入｜0投入｜发现一批有VC背书、有付费客户… |
+| [G224](../cases/04-indie-hacker/G224-砍掉课程.md) | 砍掉课程之后，月收入从三千涨到两万六 | Cutting most courses raised monthly reven… | 教育 | 成功在营 | unknown·2021 | 20多个课程和项目｜按12个月学习周期设计｜上个月约2.6万美元、去年同期3000美元｜取… |
+| [G237](../cases/04-indie-hacker/G237-预售CSS课程卖出55万美元.md) | 预售一周卖出55万美元的CSS课程 | A CSS course presold $550,000 in one week… | 教育 | 成功在营 | CA·2022 | 目标5万美元、10分钟达成｜一周内预售55万美元、近5000份｜Early Access定… |
+| [G254](../cases/04-indie-hacker/G254-卖Notion模板的YouTube老手.md) | 教人用Notion的YouTube老手，靠两个模板… | YouTuber Sold Two Notion Templates for $2… | 教育 | 成功在营 | unknown·2023 | YouTube频道290万订阅者｜两个模板约两年创造210万美元销售额｜模板销售额平均每月… |
+| [G267](../cases/04-indie-hacker/G267-先攒读者再卖课程.md) | 先攒读者，再卖课程：一个人做到月入6万美元 | He Built an Audience First, Then Sold Rai… | 教育 | 成功在营 | US·2022 | 月收入6万美元｜2022年通过Stripe累计收入200万美元｜2014年1月1日退出咨询… |
+| [G461](../cases/04-indie-hacker/G461-公开构建两年月入1.2万美元.md) | 公开构建两年，从零粉丝到月入1.2万美元 | Two Years of Building in Public Took Him … | 教育 | 成功在营 | unknown·2020 | 前6个月网上收入0美元（有意为之）｜指南发布前3天2100人阅读、100多人帮忙传播｜第一… |
+| [G475](../cases/04-indie-hacker/G475-写作课程年收入30万美元.md) | 夫妻同一天被裁，她靠写作课程做到六位数收入 | After Being Laid Off, She Built a Writing… | 教育 | 成功在营 | unknown·2024 | 2015年与丈夫同一天失业｜失业约4个月后自由写作月收入达5000美元｜后超8000美元｜… |
+| [G483](../cases/04-indie-hacker/G483-健身教练转行做编程练习社区.md) | 健身教练转行写代码，两天做出的网站长成20万人的学… | A Two-Day Website Grew Into a Coding Comm… | 教育 | 成功在营 | unknown·2024 | 平台成员超20万｜每月新增会员超1.6万｜1500多名付费订阅者｜MRR超1.5万美元（周… |
+| [G648](../cases/05-china-interviews/G648-趣口才借款1200万停运.md) | 双减切断融资，他借1200万硬撑四个月，最后停运道歉 | After the tutoring crackdown cut funding,… | 教育 | 失败关停 | unknown·2021 | 与合伙人以个人名义担保借款1200万自救｜背上数百万个人债务｜2021年8月27日宣布停止… |
+| [G649](../cases/05-china-interviews/G649-常州教培校区一年亏百万.md) | 加盟"超级演说家"开常州校区，不到一年亏掉100多万 | Franchised a speaking school in Changzhou… | 教育 | 失败关停 | CN·2020 | 前期投入60多万（加盟费+房租+装修+老师培训）｜月租4万｜每月固定开支约16万｜2021… |
+| [G650](../cases/05-china-interviews/G650-卖4套房负债1亿的托育连锁.md) | 卖了4套房创业12年，疫情半年支出超7000万，她… | Sold four apartments to build a 40-site d… | 教育 | 失败关停 | CN·2020 | 公司负债约1亿｜疫情停摆半年支出超7000万：退费超3000万+物业租金2000多万+老师… |
+| [G666](../cases/05-china-interviews/G666-580家店全停15天做出自负盈亏.md) | 580家门店全停，她用15天做出自负盈亏 | With 580 centers closed, she reached brea… | 教育 | 成功在营 | CN·2020 | 旗下580家托育早教中心全部停业｜3家直营店每月净亏90万至120万元｜加盟费按城市分18… |
+| [J003](../cases/07-judgments/J003-跟个体户签加盟协议3万只退回1.5万.md) | 跟个体户签加盟协议，3万加盟费只退回1.5万 | Signing a franchise deal with a sole prop… | 教育 | 失败关停 | CN·2023 | 加盟费3万元｜品牌使用费每年5000元｜判决返还1.5万元（50%）｜2023年8月签约、… |
+| [J022](../cases/07-judgments/J022-培训机构把教室搬远了法院判退2473.97元.md) | 培训机构把教室搬远了，法院判退2473.97元 | A dance school moved its studio far away … | 教育 | 失败关停 | CN·2020 | 培训费3000元｜合同期2020-04-19至2021-04-18｜实际受训至2020-0… |
+| [J048](../cases/07-judgments/J048-交3580元驾校一节课没上患糖尿病想退费法院驳回了.md) | 交3580元驾校一节课没上，患糖尿病想退费，法院驳… | A diabetic student never attended driving… | 教育 | 失败关停 | CN·2024 | 培训费3580元｜2023-12-29报名｜2024-01-08首次提出退费｜合同约定3日… |
+| [J049](../cases/07-judgments/J049-科目二都过了才想退3000元学费合同那句不予退费法院认了.md) | 科目二都过了才想退3000元学费，合同那句"不予退… | A student who passed the second driving t… | 教育 | 失败关停 | CN·2025 | 培训费3000元｜已通过科目二考试｜合同约定"已参加科目二考试的，不予退费"｜教练车保险过… |
+| [J050](../cases/07-judgments/J050-驾校倒闭只考过科目一3580元学费法院判退3222元.md) | 驾校倒闭只考过科目一，3580元学费法院判退322… | A driving school closed after one test an… | 教育 | 失败关停 | CN·2025 | 培训费3580元｜仅通过科目一｜科目二、科目三自费请私教｜判退3222元｜酌定已发生费用1… |
+
 ## 其他 (22)
 
 | ID | 标题 | 英文标题 | 行业 | 结局 | 地区·年份 | 关键数字 |
@@ -412,32 +442,29 @@
 | [J029](../cases/07-judgments/J029-层层分包后他告错了人12.9万工程款只能找直接签约的那一方.md) | 层层分包后他告错了人，12.9万工程款只能找直接签… | A subcontractor sued the wrong layer and … | 其他 | 失败关停 | CN·2026 | 判付工程款129481元｜未结算围网666张被驳｜6000元交通费被驳｜引(2021)最高… |
 | [J030](../cases/07-judgments/J030-能越过总包找发包人但只能要工程款700万利息要不回来.md) | 能越过总包找发包人，但只能要工程款，700万利息要… | The shortcut past the contractor covers t… | 其他 | 失败关停 | CN·2025 | 生效判决认定欠谢某工程款1063.35万元｜发包人欠某公司1419.96万元｜剩余欠付35… |
 
-## 教育 (22)
+## 零售 (19)
 
 | ID | 标题 | 英文标题 | 行业 | 结局 | 地区·年份 | 关键数字 |
 | --- | --- | --- | --- | --- | --- | --- |
-| [G304](../cases/03-failory/G304-二十八个人报了名他做出一个谁都不合适的项目.md) | 二十八个人报了名，他做出一个谁都不合适的项目 | 28 sign-ups for a program that fit nobody… | 教育 | 失败关停 | DE·2021 | 15万欧元（两年）｜承诺 ARR 约3万欧元｜首批28名学员｜1,800欧元/年｜年龄17… |
-| [G329](../cases/03-failory/G329-八千总销售只有七百月费.md) | 八千里总销售额，只有七百的月收入 | 8,000 in total sales that worked out to 7… | 教育 | 失败关停 | UK·2018 | 邮件列表1500-2000人｜最初15人付费｜2018年6月底90个付费用户｜总销售800… |
-| [G331](../cases/03-failory/G331-一张迟到的支票压垮一所学校.md) | 一所免学费的寄宿学校，死在支票到账的那四个月 | A tuition-free boarding school killed by … | 教育 | 失败关停 | US·2017 | 从想法到开学6年｜运营约2.5年｜累计捐款约100万美元｜前三年每季度新增500多个联系人… |
-| [G357](../cases/03-failory/G357-六七十个城市只有二十个在成交.md) | 六七十个城市，只有二十个在成交 | Sixty or seventy cities, only twenty of t… | 教育 | 结果未定 | UK·2015 | 国际版2015年底上线｜覆盖60-70个城市｜只有约20个城市真正产生匹配｜收缩到10个欧… |
-| [G362](../cases/03-failory/G362-两周回本十个月关门.md) | 两周回本，十个月关门 | Paid back the investment in two weeks and… | 教育 | 失败关停 | IN·2013 | 2013年9月开班｜2014年7月资金见底｜启动投入45万卢比（自己15万＋合伙人30万）… |
-| [G367](../cases/03-failory/G367-每个教授都说好没有一个用.md) | 每个教授都说好，没有一个用 | Game studio spent six months pitching pro… | 教育 | 失败关停 | US·2016 | 开发3个月｜又花3个月做人际networking｜美术素材800美元｜其余自制｜首版只有4… |
-| [G370](../cases/03-failory/G370-收客户一千给高中生七百五.md) | 收客户一千给高中生七百五，他两年亏了一万五 | Charged clients 1,000 dollars, paid stude… | 教育 | 失败关停 | CA·2018 | 网站一单收1000美元、付学生750美元、留250美元管理费｜支出约3.5万美元｜收入约2… |
-| [G390](../cases/03-failory/G390-六百多个用户一场飓风把学校客户全吹走了.md) | 六百多个用户，一场飓风把学校客户全吹走了 | Six hundred users lost when a hurricane w… | 教育 | 失败关停 | unknown·2018 | 用户600+｜开发5个月｜项目总计6-7个月｜飓风后约3个月无电｜Imagine Cup … |
-| [G415](../cases/03-failory/G415-两小时的SWOT拦下一个项目.md) | 两小时的SWOT，让一个项目死在写代码之前 | Two hours of SWOT killed the project befo… | 教育 | 失败关停 | US·2014 | 2位创始人｜SWOT分析约2小时｜0行代码｜0收入｜0投入｜发现一批有VC背书、有付费客户… |
-| [G224](../cases/04-indie-hacker/G224-砍掉课程.md) | 砍掉课程之后，月收入从三千涨到两万六 | Cutting most courses raised monthly reven… | 教育 | 成功在营 | unknown·2021 | 20多个课程和项目｜按12个月学习周期设计｜上个月约2.6万美元、去年同期3000美元｜取… |
-| [G237](../cases/04-indie-hacker/G237-预售CSS课程卖出55万美元.md) | 预售一周卖出55万美元的CSS课程 | A CSS course presold $550,000 in one week… | 教育 | 成功在营 | CA·2022 | 目标5万美元、10分钟达成｜一周内预售55万美元、近5000份｜Early Access定… |
-| [G254](../cases/04-indie-hacker/G254-卖Notion模板的YouTube老手.md) | 教人用Notion的YouTube老手，靠两个模板… | YouTuber Sold Two Notion Templates for $2… | 教育 | 成功在营 | unknown·2023 | YouTube频道290万订阅者｜两个模板约两年创造210万美元销售额｜模板销售额平均每月… |
-| [G267](../cases/04-indie-hacker/G267-先攒读者再卖课程.md) | 先攒读者，再卖课程：一个人做到月入6万美元 | He Built an Audience First, Then Sold Rai… | 教育 | 成功在营 | US·2022 | 月收入6万美元｜2022年通过Stripe累计收入200万美元｜2014年1月1日退出咨询… |
-| [G461](../cases/04-indie-hacker/G461-公开构建两年月入1.2万美元.md) | 公开构建两年，从零粉丝到月入1.2万美元 | Two Years of Building in Public Took Him … | 教育 | 成功在营 | unknown·2020 | 前6个月网上收入0美元（有意为之）｜指南发布前3天2100人阅读、100多人帮忙传播｜第一… |
-| [G475](../cases/04-indie-hacker/G475-写作课程年收入30万美元.md) | 夫妻同一天被裁，她靠写作课程做到六位数收入 | After Being Laid Off, She Built a Writing… | 教育 | 成功在营 | unknown·2024 | 2015年与丈夫同一天失业｜失业约4个月后自由写作月收入达5000美元｜后超8000美元｜… |
-| [G483](../cases/04-indie-hacker/G483-健身教练转行做编程练习社区.md) | 健身教练转行写代码，两天做出的网站长成20万人的学… | A Two-Day Website Grew Into a Coding Comm… | 教育 | 成功在营 | unknown·2024 | 平台成员超20万｜每月新增会员超1.6万｜1500多名付费订阅者｜MRR超1.5万美元（周… |
-| [G648](../cases/05-china-interviews/G648-趣口才借款1200万停运.md) | 双减切断融资，他借1200万硬撑四个月，最后停运道歉 | After the tutoring crackdown cut funding,… | 教育 | 失败关停 | unknown·2021 | 与合伙人以个人名义担保借款1200万自救｜背上数百万个人债务｜2021年8月27日宣布停止… |
-| [G649](../cases/05-china-interviews/G649-常州教培校区一年亏百万.md) | 加盟"超级演说家"开常州校区，不到一年亏掉100多万 | Franchised a speaking school in Changzhou… | 教育 | 失败关停 | CN·2020 | 前期投入60多万（加盟费+房租+装修+老师培训）｜月租4万｜每月固定开支约16万｜2021… |
-| [G650](../cases/05-china-interviews/G650-卖4套房负债1亿的托育连锁.md) | 卖了4套房创业12年，疫情半年支出超7000万，她… | Sold four apartments to build a 40-site d… | 教育 | 失败关停 | CN·2020 | 公司负债约1亿｜疫情停摆半年支出超7000万：退费超3000万+物业租金2000多万+老师… |
-| [G666](../cases/05-china-interviews/G666-580家店全停15天做出自负盈亏.md) | 580家门店全停，她用15天做出自负盈亏 | With 580 centers closed, she reached brea… | 教育 | 成功在营 | CN·2020 | 旗下580家托育早教中心全部停业｜3家直营店每月净亏90万至120万元｜加盟费按城市分18… |
-| [J003](../cases/07-judgments/J003-跟个体户签加盟协议3万只退回1.5万.md) | 跟个体户签加盟协议，3万加盟费只退回1.5万 | Signing a franchise deal with a sole prop… | 教育 | 失败关停 | CN·2023 | 加盟费3万元｜品牌使用费每年5000元｜判决返还1.5万元（50%）｜2023年8月签约、… |
-| [J022](../cases/07-judgments/J022-培训机构把教室搬远了法院判退2473.97元.md) | 培训机构把教室搬远了，法院判退2473.97元 | A dance school moved its studio far away … | 教育 | 失败关停 | CN·2020 | 培训费3000元｜合同期2020-04-19至2021-04-18｜实际受训至2020-0… |
+| [G121](../cases/02-founder-postmortems/G121-送帐篷上门比自己干贵一倍.md) | 送帐篷上门这件事，外包比自己干贵一倍 | Bevy rented camping gear but delivery cos… | 零售 | 失败关停 | US·2018 | 一个周末露营装备花1000美元｜外包配送成本约为自营的2倍｜配送压缩到一个3小时窗口｜RE… |
+| [G310](../cases/03-failory/G310-搬了三次家第三次把客群搬走了.md) | 搬了三次家，第三次把客群搬走了 | Moved the store three times, and the thir… | 零售 | 失败关停 | AU·2018 | 投入资本10万澳元（首期7.5万+第二年新增合伙人2.5万）｜经营4年｜搬迁3次｜第三处只… |
+| [G320](../cases/03-failory/G320-年营收二十五万英镑却没有现金.md) | 年营收二十五万英镑，账上却没有现金 | 250k a year in sales and no cash left in … | 零售 | 失败关停 | UK·2019 | 第三年营收25万英镑｜第一年6500英镑、第二年9.9万英镑｜最好一个月4万英镑、下一个月… |
+| [G378](../cases/03-failory/G378-十三万美元砸印度卖出不到六十支.md) | 十三万美元砸印度，卖出不到六十支球拍 | Spent 130,000 dollars marketing cricket b… | 零售 | 失败关停 | UK·2009 | 总募集与支出约30万美元｜营销投入超13万美元｜知识产权律师费近3万美元｜发布首周卖出24… |
+| [G296](../cases/04-indie-hacker/G296-等了三周的形象顾问.md) | 等了三周的形象顾问，做出年收入300万美元的App | An AI Stylist App Reached $3 Million a Ye… | 零售 | 成功在营 | unknown·2024 | 年收入300万美元（2023年底）｜30万活跃用户｜7万付费订阅用户｜2024年5月数据库… |
+| [G626](../cases/05-china-interviews/G626-西安7-11便利店四年.md) | 开7-11投了100多万，日销只有预估的三分之一，… | Put 1M RMB into a 7-Eleven, sales a third… | 零售 | 出售退出 | CN·2020 | 开店前投入100多万（租金押金42.25万＋加盟费10万＋保证金20万＋货款押金10万＋装… |
+| [G627](../cases/05-china-interviews/G627-青岛甜品店到文创店.md) | 3万块开甜品店月入3000，转向私域和文创店后，月… | A 30K RMB dessert shop earned 3,000 a mon… | 零售 | 转型存活 | CN·2019 | 甜品店年房租1万、设备投资2万｜起步期月入3000元、有时一天只卖几十块｜私域运营后月赚1… |
+| [G715](../cases/06-starter-story/G715-海边一间灯具店.md) | 海边一间灯具店，25 万英镑营业额只落下 2 万利润 | A seaside lighting shop turned £250,000 i… | 零售 | 结果未定 | UK·2011 | 月收入 $35K（页面字段）｜年营业额 £250,000｜年利润 £20,000｜启动成本… |
+| [G716](../cases/06-starter-story/G716-在南非调一瓶链条油.md) | 在南非调一瓶链条油，卖进十五个国家的车店 | He mixed bike chain lube in South Africa … | 零售 | 结果未定 | ZA·2008 | 月收入 $25K（年 $300K）｜启动成本 未披露（信用卡、小额透支、银行授信）｜启动耗… |
+| [G724](../cases/06-starter-story/G724-在厨房做手工皂.md) | 在厨房做手工皂，第三年才打平 | She made soap in her kitchen and broke ev… | 零售 | 结果未定 | US·2009 | 月收入 $5K（页面字段）｜启动成本 $13.7K（页面字段；正文称自筹、未贷款）｜启动耗… |
+| [J013](../cases/07-judgments/J013-没签书面合同超市照样要付86139元货款.md) | 没签书面合同，超市照样要付86139元货款 | No written contract, but the supermarket … | 零售 | 成功在营 | CN·2024 | 累计供货价值9万余元｜确认拖欠货款86139.52元｜供货周期2024年11月至2025年… |
+| [J017](../cases/07-judgments/J017-公司没付竞业补偿金销售员跳槽照样被判赔2万.md) | 公司没付竞业补偿金，销售员跳槽同行照样被判赔2万 | Unpaid non-compete compensation did not f… | 零售 | 失败关停 | CN·2022 | 约定违约金6万元｜每月"随工资发放"500元保密费｜判决违约金2万元｜2022年4月入职、… |
+| [J018](../cases/07-judgments/J018-卖假酒被罚后和解又再犯法院判惩罚性赔偿11万.md) | 卖假酒被罚后和解又再犯，法院判惩罚性赔偿11万 | Caught selling fake liquor twice, the sho… | 零售 | 失败关停 | CN·2022 | 判赔11万余元｜进货价远低于正品｜两次被查（行政处罚+和解后再次销售）｜侵权白酒数十瓶｜兰… |
+| [J031](../cases/07-judgments/J031-表显5万的奥迪实际跑了13.7万公里车商退16.2万再赔48.6万.md) | 表显5万的奥迪实际跑了13.7万公里，车商退16.… | An odometer rolled back by 87,000 km cost… | 零售 | 失败关停 | CN·2024 | 成交价162000元｜销售时表显4万至50152公里｜检测报告真实里程137200公里｜判… |
+| [J032](../cases/07-judgments/J032-2.5万的电车调表3万公里退车款打了折但三倍赔偿一分没少.md) | 2.5万的电车调表3万公里，退车款打了折但三倍赔偿… | The refund was discounted for wear but th… | 零售 | 失败关停 | CN·2024 | 成交价25000元｜交付时表显约48000公里｜保养记录真实里程77700公里｜判退购车款… |
+| [J033](../cases/07-judgments/J033-合同小字写里程数不担保45万豪车照样退一赔三赔135万.md) | 合同小字写"里程数不担保"，45万豪车照样退一赔三… | An eight-word disclaimer on mileage faile… | 零售 | 失败关停 | CN·2026 | 购车款45万元｜判退45万元＋三倍赔偿135万元｜合计180万元｜合同含"里程数不担保"格… |
+| [J045](../cases/07-judgments/J045-8000元买的纯种博美品种证书是假的退8000再赔2万.md) | 8000元买的"纯种博美"，品种证书是假的，退80… | A fake pedigree certificate turned an 800… | 零售 | 失败关停 | CN·2026 | 购犬款8000余元｜退还8000余元＋三倍赔偿2万余元｜品种证书系伪造｜收到4日后查出髌骨… |
+| [J046](../cases/07-judgments/J046-1400元网购可卡布当天查出细小狗死后法院判退全款再赔3820元.md) | 1400元网购可卡布当天查出细小，狗死后法院判退全… | An online puppy died of parvovirus and th… | 零售 | 失败关停 | CN·2026 | 购犬款1400元｜医药费及用品费3820.73元｜到家当天查出细小病毒｜救治20天后死亡｜… |
+| [J047](../cases/07-judgments/J047-9800元拿破仑猫第三天死于肺炎合同只保两种病法院照样判全退.md) | 9800元拿破仑猫第三天死于肺炎，合同只保两种病，… | A 9800 yuan Napoleon cat died in three da… | 零售 | 失败关停 | CN·2022 | 购猫款9800元｜第三天因肺炎死亡｜店家已付治疗费1810元、尸体处理费300元｜合同约定… |
 
 ## 硬件制造 (17)
 
@@ -461,27 +488,6 @@
 | [J015](../cases/07-judgments/J015-竞业限制约定100万违约金法院两级审判到12万.md) | 竞业限制约定100万违约金，法院两级审判到12万 | A 1 million non-compete penalty clause en… | 硬件制造 | 失败关停 | CN·2023 | 约定违约金100万元｜竞业限制期6个月｜已付补偿金3万余元｜一审判50万元｜二审改判12万… |
 | [J040](../cases/07-judgments/J040-派遣工上班第三天受伤八级伤残协议写用工单位不担责照样连带.md) | 派遣工上班第三天受伤八级伤残，协议写明"用工单位不… | A dispatch contract saying the host firm … | 硬件制造 | 失败关停 | CN·2025 | 工伤八级伤残｜工伤保险待遇合计279942.5元｜已付3000元，实付276942.5元｜… |
 
-## 零售 (16)
-
-| ID | 标题 | 英文标题 | 行业 | 结局 | 地区·年份 | 关键数字 |
-| --- | --- | --- | --- | --- | --- | --- |
-| [G121](../cases/02-founder-postmortems/G121-送帐篷上门比自己干贵一倍.md) | 送帐篷上门这件事，外包比自己干贵一倍 | Bevy rented camping gear but delivery cos… | 零售 | 失败关停 | US·2018 | 一个周末露营装备花1000美元｜外包配送成本约为自营的2倍｜配送压缩到一个3小时窗口｜RE… |
-| [G310](../cases/03-failory/G310-搬了三次家第三次把客群搬走了.md) | 搬了三次家，第三次把客群搬走了 | Moved the store three times, and the thir… | 零售 | 失败关停 | AU·2018 | 投入资本10万澳元（首期7.5万+第二年新增合伙人2.5万）｜经营4年｜搬迁3次｜第三处只… |
-| [G320](../cases/03-failory/G320-年营收二十五万英镑却没有现金.md) | 年营收二十五万英镑，账上却没有现金 | 250k a year in sales and no cash left in … | 零售 | 失败关停 | UK·2019 | 第三年营收25万英镑｜第一年6500英镑、第二年9.9万英镑｜最好一个月4万英镑、下一个月… |
-| [G378](../cases/03-failory/G378-十三万美元砸印度卖出不到六十支.md) | 十三万美元砸印度，卖出不到六十支球拍 | Spent 130,000 dollars marketing cricket b… | 零售 | 失败关停 | UK·2009 | 总募集与支出约30万美元｜营销投入超13万美元｜知识产权律师费近3万美元｜发布首周卖出24… |
-| [G296](../cases/04-indie-hacker/G296-等了三周的形象顾问.md) | 等了三周的形象顾问，做出年收入300万美元的App | An AI Stylist App Reached $3 Million a Ye… | 零售 | 成功在营 | unknown·2024 | 年收入300万美元（2023年底）｜30万活跃用户｜7万付费订阅用户｜2024年5月数据库… |
-| [G626](../cases/05-china-interviews/G626-西安7-11便利店四年.md) | 开7-11投了100多万，日销只有预估的三分之一，… | Put 1M RMB into a 7-Eleven, sales a third… | 零售 | 出售退出 | CN·2020 | 开店前投入100多万（租金押金42.25万＋加盟费10万＋保证金20万＋货款押金10万＋装… |
-| [G627](../cases/05-china-interviews/G627-青岛甜品店到文创店.md) | 3万块开甜品店月入3000，转向私域和文创店后，月… | A 30K RMB dessert shop earned 3,000 a mon… | 零售 | 转型存活 | CN·2019 | 甜品店年房租1万、设备投资2万｜起步期月入3000元、有时一天只卖几十块｜私域运营后月赚1… |
-| [G715](../cases/06-starter-story/G715-海边一间灯具店.md) | 海边一间灯具店，25 万英镑营业额只落下 2 万利润 | A seaside lighting shop turned £250,000 i… | 零售 | 结果未定 | UK·2011 | 月收入 $35K（页面字段）｜年营业额 £250,000｜年利润 £20,000｜启动成本… |
-| [G716](../cases/06-starter-story/G716-在南非调一瓶链条油.md) | 在南非调一瓶链条油，卖进十五个国家的车店 | He mixed bike chain lube in South Africa … | 零售 | 结果未定 | ZA·2008 | 月收入 $25K（年 $300K）｜启动成本 未披露（信用卡、小额透支、银行授信）｜启动耗… |
-| [G724](../cases/06-starter-story/G724-在厨房做手工皂.md) | 在厨房做手工皂，第三年才打平 | She made soap in her kitchen and broke ev… | 零售 | 结果未定 | US·2009 | 月收入 $5K（页面字段）｜启动成本 $13.7K（页面字段；正文称自筹、未贷款）｜启动耗… |
-| [J013](../cases/07-judgments/J013-没签书面合同超市照样要付86139元货款.md) | 没签书面合同，超市照样要付86139元货款 | No written contract, but the supermarket … | 零售 | 成功在营 | CN·2024 | 累计供货价值9万余元｜确认拖欠货款86139.52元｜供货周期2024年11月至2025年… |
-| [J017](../cases/07-judgments/J017-公司没付竞业补偿金销售员跳槽照样被判赔2万.md) | 公司没付竞业补偿金，销售员跳槽同行照样被判赔2万 | Unpaid non-compete compensation did not f… | 零售 | 失败关停 | CN·2022 | 约定违约金6万元｜每月"随工资发放"500元保密费｜判决违约金2万元｜2022年4月入职、… |
-| [J018](../cases/07-judgments/J018-卖假酒被罚后和解又再犯法院判惩罚性赔偿11万.md) | 卖假酒被罚后和解又再犯，法院判惩罚性赔偿11万 | Caught selling fake liquor twice, the sho… | 零售 | 失败关停 | CN·2022 | 判赔11万余元｜进货价远低于正品｜两次被查（行政处罚+和解后再次销售）｜侵权白酒数十瓶｜兰… |
-| [J031](../cases/07-judgments/J031-表显5万的奥迪实际跑了13.7万公里车商退16.2万再赔48.6万.md) | 表显5万的奥迪实际跑了13.7万公里，车商退16.… | An odometer rolled back by 87,000 km cost… | 零售 | 失败关停 | CN·2024 | 成交价162000元｜销售时表显4万至50152公里｜检测报告真实里程137200公里｜判… |
-| [J032](../cases/07-judgments/J032-2.5万的电车调表3万公里退车款打了折但三倍赔偿一分没少.md) | 2.5万的电车调表3万公里，退车款打了折但三倍赔偿… | The refund was discounted for wear but th… | 零售 | 失败关停 | CN·2024 | 成交价25000元｜交付时表显约48000公里｜保养记录真实里程77700公里｜判退购车款… |
-| [J033](../cases/07-judgments/J033-合同小字写里程数不担保45万豪车照样退一赔三赔135万.md) | 合同小字写"里程数不担保"，45万豪车照样退一赔三… | An eight-word disclaimer on mileage faile… | 零售 | 失败关停 | CN·2026 | 购车款45万元｜判退45万元＋三倍赔偿135万元｜合计180万元｜合同含"里程数不担保"格… |
-
 ## 金融 (9)
 
 | ID | 标题 | 英文标题 | 行业 | 结局 | 地区·年份 | 关键数字 |
@@ -495,6 +501,20 @@
 | [G287](../cases/04-indie-hacker/G287-四年副业处理百万交易.md) | 做了四年的副业，处理过百万美元交易，年收入1.3万… | A Side Project Handled $1 Million in Paym… | 金融 | 结果未定 | unknown·2023 | 做了4年副业｜累计处理交易超100万美元｜年收入1.3万美元｜Product Hunt 7… |
 | [G435](../cases/04-indie-hacker/G435-六小时写出的押韵工具.md) | 六小时写出的押韵工具，后来长成了一个支付平台 | A Rhyme Tool Built in Six Hours Grew Into… | 金融 | 转型存活 | CN·2017 | 2 小时处理数据 + 4 小时搭网站｜3 天、每天 2 小时｜30 万个词语语料｜上线后日… |
 | [G486](../cases/04-indie-hacker/G486-不融资的支付公司年入1800万.md) | 33岁押上全部积蓄做支付，六年不融资做到年收入18… | VizyPay Reached $18 Million a Year Servin… | 金融 | 成功在营 | unknown·2024 | 六年收入从10万增至1800万美元｜每月收入170万美元｜自筹/投入19.7万美元｜全美5… |
+
+## 医疗健康 (9)
+
+| ID | 标题 | 英文标题 | 行业 | 结局 | 地区·年份 | 关键数字 |
+| --- | --- | --- | --- | --- | --- | --- |
+| [G384](../cases/03-failory/G384-一百二十人的试点都说好上线一周人就走了.md) | 一百二十人的试点都说好，上线一周人就走了 | A 120-person pilot loved the app, then us… | 医疗健康 | 失败关停 | US·2019 | 试点120名美国人｜试点6周｜6个分组｜“定制干预组”依从性提升接近对照组的2倍｜现存用药… |
+| [G406](../cases/03-failory/G406-一个月做完然后没人管.md) | 一个月就做完了，然后用两年看着它每月卖五份 | Built in one month, then sold five copies… | 医疗健康 | 失败关停 | US·2017 | 开发约1个月｜每月约5笔购买｜从业10年以上｜两个孩子｜产品完全静音 |
+| [G256](../cases/04-indie-hacker/G256-恐慌发作时找不到的App.md) | 大学最后一年恐慌发作，她做了那个当年找不到的App | Panic Attack App Built by Its Founder Rea… | 医疗健康 | 成功在营 | unknown·2024 | 自筹资金、几千美元建立第一版｜150多个国家、200万以上用户｜应用商店被推荐100多次｜… |
+| [J011](../cases/07-judgments/J011-对赌赢了官司进入破产只能排队最后受偿.md) | 对赌赢了官司拿到2080万判决，进入破产只能排队最… | Winning a 20.8 million buyback judgment m… | 医疗健康 | 失败关停 | CN·2021 | 初始投资532.8万元｜持股160万股｜约定回购总价2400万元（年15%计息）｜生效判决… |
+| [J025](../cases/07-judgments/J025-十年预付101万做美容没合同没记录法院酌定退50万.md) | 十年预付101万做美容，没合同没记录，法院酌定退5… | A client prepaid over a million for beaut… | 医疗健康 | 失败关停 | CN·2020 | 累计预付1016124.6元｜跨度2013年至2020年｜无书面合同｜消费者诉请返还547… |
+| [J041](../cases/07-judgments/J041-化妆品店没证做隆鼻瘦脸针5万服务费退完再赔15万.md) | 化妆品店没证也敢做隆鼻和瘦脸针，5万服务费退完再赔… | An unlicensed cosmetics shop gave 50000 y… | 医疗健康 | 失败关停 | CN·2026 | 医美服务费5万余元｜退还服务费5万余元＋三倍赔偿15万余元｜接受瘦脸针注射、隆鼻、面部填充… |
+| [J042](../cases/07-judgments/J042-花4.89万隆胸宣传的整形主任根本没资质判19.59万最后15万调解.md) | 花4.89万隆胸，宣传的"整形主任"根本没资质，判… | A clinic invented its surgeon's credentia… | 医疗健康 | 失败关停 | CN·2026 | 隆胸手术费4.89万元｜一审判退一赔三共19.59万元｜二审调解分三期支付15万元｜周某无… |
+| [J043](../cases/07-judgments/J043-婚礼前光子嫩肤被烫伤三倍赔偿只按4600元那个项目算赔1.38万.md) | 婚礼前光子嫩肤被烫伤，三倍赔偿只按4600元那个项… | A botched beauty treatment before a weddi… | 医疗健康 | 失败关停 | CN·2026 | 累计消费5万余元｜判决退还服务费5万余元｜三倍赔偿基数4600元、判1.38万元｜医疗费5… |
+| [J044](../cases/07-judgments/J044-美甲店打减肥针被罚2万职业打假人索赔三倍法院只判退4000.md) | 美甲店打减肥针被罚2万，职业打假人索赔三倍，法院只… | A professional complainant won 4000 yuan … | 医疗健康 | 失败关停 | CN·2026 | 四针减肥针4000元｜判决退还4000元｜三倍赔偿请求被驳回｜行政处罚罚款2万元、没收违法… |
 
 ## 物流 (6)
 
@@ -517,13 +537,3 @@
 | [G374](../cases/03-failory/G374-融了四百四十万毛利不到一成.md) | 融了四百四十万，毛利不到一成 | Raised 4.4 million dollars with lifetime … | 游戏 | 失败关停 | US·2016 | 总融资440万美元（首轮70万+第二轮370多万）｜总收入超100万美元｜MRR从0到超1… |
 | [G417](../cases/03-failory/G417-上线那天就是最高点.md) | 上线那天，就是这家游戏公司的最高点 | Launch day was the peak, and the studio w… | 游戏 | 失败关停 | SE·2018 | 2006年前后上线｜上线时数千名玩家付费｜累计收入"数百万"（原文未给币种与年度拆分）｜每… |
 | [G422](../cases/03-failory/G422-月入八万美元却没留下一个用户邮箱.md) | 月入八万美元，却没留下一个用户邮箱 | 80,000 dollars a month with no email list… | 游戏 | 失败关停 | unknown·2018 | 2007年创办｜第一年末月收入6万–8万美元｜主打产品Metropolis（城市建造模拟）… |
-
-## 医疗健康 (5)
-
-| ID | 标题 | 英文标题 | 行业 | 结局 | 地区·年份 | 关键数字 |
-| --- | --- | --- | --- | --- | --- | --- |
-| [G384](../cases/03-failory/G384-一百二十人的试点都说好上线一周人就走了.md) | 一百二十人的试点都说好，上线一周人就走了 | A 120-person pilot loved the app, then us… | 医疗健康 | 失败关停 | US·2019 | 试点120名美国人｜试点6周｜6个分组｜“定制干预组”依从性提升接近对照组的2倍｜现存用药… |
-| [G406](../cases/03-failory/G406-一个月做完然后没人管.md) | 一个月就做完了，然后用两年看着它每月卖五份 | Built in one month, then sold five copies… | 医疗健康 | 失败关停 | US·2017 | 开发约1个月｜每月约5笔购买｜从业10年以上｜两个孩子｜产品完全静音 |
-| [G256](../cases/04-indie-hacker/G256-恐慌发作时找不到的App.md) | 大学最后一年恐慌发作，她做了那个当年找不到的App | Panic Attack App Built by Its Founder Rea… | 医疗健康 | 成功在营 | unknown·2024 | 自筹资金、几千美元建立第一版｜150多个国家、200万以上用户｜应用商店被推荐100多次｜… |
-| [J011](../cases/07-judgments/J011-对赌赢了官司进入破产只能排队最后受偿.md) | 对赌赢了官司拿到2080万判决，进入破产只能排队最… | Winning a 20.8 million buyback judgment m… | 医疗健康 | 失败关停 | CN·2021 | 初始投资532.8万元｜持股160万股｜约定回购总价2400万元（年15%计息）｜生效判决… |
-| [J025](../cases/07-judgments/J025-十年预付101万做美容没合同没记录法院酌定退50万.md) | 十年预付101万做美容，没合同没记录，法院酌定退5… | A client prepaid over a million for beaut… | 医疗健康 | 失败关停 | CN·2020 | 累计预付1016124.6元｜跨度2013年至2020年｜无书面合同｜消费者诉请返还547… |
